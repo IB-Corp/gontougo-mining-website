@@ -59,8 +59,74 @@
           </p>
         </div>
 
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          <!-- Service Card 1 -->
+        <!-- Loading State -->
+        <div v-if="servicesLoading" class="text-center py-12">
+          <div class="inline-block animate-spin rounded-full h-8 w-8 border-b-2 border-gms-blue"></div>
+          <p class="mt-4 text-gray-600">Chargement des services...</p>
+        </div>
+
+        <!-- Error State -->
+        <div v-else-if="servicesError" class="text-center py-12">
+          <p class="text-red-600">Erreur lors du chargement des services: {{ servicesError }}
+
+          </p>
+        </div>
+
+        <!-- Dynamic Services Grid -->
+        <div v-else class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          <div 
+            v-for="service in services.slice(0, 10)" 
+            :key="service.id" 
+            class="service-card group"
+          >
+            <div :class="[
+              'icon-wrapper transition',
+              getServiceColor(service.category).bg,
+              getServiceColor(service.category).hover
+            ]">
+              <svg 
+                :class="[
+                  'w-12 h-12 transition group-hover:text-white',
+                  getServiceColor(service.category).text
+                ]" 
+                fill="none" 
+                stroke="currentColor" 
+                viewBox="0 0 24 24"
+              >
+                <path 
+                  stroke-linecap="round" 
+                  stroke-linejoin="round" 
+                  stroke-width="2" 
+                  :d="getServiceIcon(service.category)" 
+                />
+              </svg>
+            </div>
+            <h3 class="text-xl font-bold text-gray-900 mb-3">
+              {{ service.name }}
+            </h3>
+            <p class="text-gray-600 mb-4">
+              {{ service.description }}
+            </p>
+            <ul v-if="service.features && service.features.length" class="text-sm text-gray-500 mb-4">
+              <li v-for="feature in service.features.slice(0, 2)" :key="feature" class="mb-1">
+                • {{ feature }}
+              </li>
+            </ul>
+            <router-link 
+              :to="service.route || '/contact'" 
+              class="text-gms-blue font-semibold hover:text-blue-700 inline-flex items-center"
+            >
+              En savoir plus
+              <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+              </svg>
+            </router-link>
+          </div>
+        </div>
+
+        <!-- Fallback: Static Services (when no data from Supabase) -->
+        <div v-if="!servicesLoading && !servicesError && (!services || services.length === 0)" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          <!-- Static Service Card 1 -->
           <div class="service-card group">
             <div class="icon-wrapper bg-blue-100 group-hover:bg-gms-blue transition">
               <svg class="w-12 h-12 text-gms-blue group-hover:text-white transition" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -73,7 +139,7 @@
             <p class="text-gray-600 mb-4">
               Bulldozers, pelles mécaniques, camions-bennes, excavateurs et plus encore pour vos projets.
             </p>
-            <router-link to="/heavy-vehicle-rental" class="text-gms-blue font-semibold hover:text-blue-700 inline-flex items-center">
+            <router-link to="/heavy-equipment" class="text-gms-blue font-semibold hover:text-blue-700 inline-flex items-center">
               En savoir plus
               <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
@@ -81,7 +147,7 @@
             </router-link>
           </div>
 
-          <!-- Service Card 2 -->
+          <!-- Static Service Card 2 -->
           <div class="service-card group">
             <div class="icon-wrapper bg-red-100 group-hover:bg-gms-red transition">
               <svg class="w-12 h-12 text-gms-red group-hover:text-white transition" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -89,12 +155,12 @@
               </svg>
             </div>
             <h3 class="text-xl font-bold text-gray-900 mb-3">
-              Formation & Natation
+              Formation Professionnelle
             </h3>
             <p class="text-gray-600 mb-4">
-              Formation professionnelle en conduite d'engins lourds et cours de natation (dewatering).
+              Formation DEWATERING et conduite d'engins lourds.
             </p>
-            <router-link to="/about" class="text-gms-blue font-semibold hover:text-blue-700 inline-flex items-center">
+            <router-link to="/contact" class="text-gms-blue font-semibold hover:text-blue-700 inline-flex items-center">
               En savoir plus
               <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
@@ -131,7 +197,7 @@
               </svg>
             </div>
             <h3 class="text-xl font-bold text-gray-900 mb-3">
-              Charpente Métallique
+              Construction de Charpente Métallique
             </h3>
             <p class="text-gray-600 mb-4">
               Construction et installation de structures métalliques pour vos projets industriels.
@@ -152,12 +218,33 @@
               </svg>
             </div>
             <h3 class="text-xl font-bold text-gray-900 mb-3">
-              Plomberie & Électrofusion
+              Plomberie & Tuyauterie & Polyfusion
             </h3>
             <p class="text-gray-600 mb-4">
               Tuyauterie plastique et métallique, polyfusion pour projets miniers et industriels.
             </p>
             <router-link to="/plumbing" class="text-gms-blue font-semibold hover:text-blue-700 inline-flex items-center">
+              En savoir plus
+              <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+              </svg>
+            </router-link>
+          </div>
+
+          <!-- Service Card 5 -->
+          <div class="service-card group">
+            <div class="icon-wrapper bg-red-100 group-hover:bg-gms-red transition">
+              <svg class="w-12 h-12 text-gms-red group-hover:text-white transition" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
+              </svg>
+            </div>
+            <h3 class="text-xl font-bold text-gray-900 mb-3">
+             Menuiserie
+            </h3>
+            <p class="text-gray-600 mb-4">
+              Fabrication et installation de structures en bois pour vos projets.
+            </p>
+            <router-link to="/woodworking" class="text-gms-blue font-semibold hover:text-blue-700 inline-flex items-center">
               En savoir plus
               <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
@@ -176,7 +263,7 @@
               Commerce Général
             </h3>
             <p class="text-gray-600 mb-4">
-              Fournitures de bureau, équipements de protection individuelle et consommables.
+              Fournitures de bureau, consommable bureautique, équipements de protection individuelle et consommables. Placement de personnel.
             </p>
             <router-link to="/commerce" class="text-gms-blue font-semibold hover:text-blue-700 inline-flex items-center">
               En savoir plus
@@ -301,6 +388,61 @@
     </section>
   </div>
 </template>
+
+<script setup>
+import { onMounted } from 'vue'
+import { useServices, useVehicles, useProjects } from '../composables/useSupabase.js'
+
+// Initialize composables for data fetching
+const { services, loading: servicesLoading, error: servicesError, fetchServices } = useServices()
+const { vehicles, loading: vehiclesLoading, error: vehiclesError, fetchVehicles } = useVehicles()
+const { projects, loading: projectsLoading, error: projectsError, fetchProjects } = useProjects()
+
+// Fetch data when component mounts
+onMounted(async () => {
+  console.log('🔄 Fetching data from Supabase...')
+  
+  // Fetch services for the services section
+  await fetchServices()
+  console.log('📋 Services fetched:', services.value)
+  console.log('📊 Services count:', services.value?.length || 0)
+  console.log('❌ Services error:', servicesError.value)
+  
+  // Fetch featured vehicles (limit to first 3 for homepage)
+  await fetchVehicles()
+  console.log('🚗 Vehicles fetched:', vehicles.value?.length || 0)
+  
+  // Fetch recent projects for gallery
+  await fetchProjects()
+  console.log('📁 Projects fetched:', projects.value?.length || 0)
+})
+
+// Helper function to get service icon based on category
+const getServiceIcon = (category) => {
+  const icons = {
+    'mining': 'M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4',
+    'training': 'M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z',
+    'transport': 'M8 9l4-4 4 4m0 6l-4 4-4-4',
+    'construction': 'M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4',
+    'plumbing': 'M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z',
+    'commerce': 'M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z'
+  }
+  return icons[category] || icons['mining']
+}
+
+// Helper function to get service color based on category  
+const getServiceColor = (category) => {
+  const colors = {
+    'mining': { bg: 'bg-blue-100', text: 'text-gms-blue', hover: 'group-hover:bg-gms-blue' },
+    'training': { bg: 'bg-red-100', text: 'text-gms-red', hover: 'group-hover:bg-gms-red' },
+    'transport': { bg: 'bg-green-100', text: 'text-green-600', hover: 'group-hover:bg-green-600' },
+    'construction': { bg: 'bg-purple-100', text: 'text-purple-600', hover: 'group-hover:bg-purple-600' },
+    'plumbing': { bg: 'bg-indigo-100', text: 'text-indigo-600', hover: 'group-hover:bg-indigo-600' },
+    'commerce': { bg: 'bg-orange-100', text: 'text-orange-600', hover: 'group-hover:bg-orange-600' }
+  }
+  return colors[category] || colors['mining']
+}
+</script>
 
 <style scoped>
 .service-card {

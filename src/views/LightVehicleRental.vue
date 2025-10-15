@@ -20,12 +20,7 @@
           <!-- Vehicle 1: Toyota Coaster -->
           <div class="vehicle-card">
             <div class="vehicle-image-wrapper">
-              <div class="vehicle-image-placeholder">
-                <svg class="placeholder-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4" />
-                </svg>
-                <p class="text-sm text-gray-500 mt-2">Toyota Coaster</p>
-              </div>
+              <img src="../assets/images/vehicles/toyata coaster.webp" />
             </div>
             
             <div class="vehicle-content">
@@ -59,12 +54,7 @@
           <!-- Vehicle 2: Genie S60 -->
           <div class="vehicle-card">
             <div class="vehicle-image-wrapper">
-              <div class="vehicle-image-placeholder">
-                <svg class="placeholder-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 16V4m0 0L3 8m4-4l4 4m6 0v12m0 0l4-4m-4 4l-4-4" />
-                </svg>
-                <p class="text-sm text-gray-500 mt-2">Genie S60</p>
-              </div>
+              <img src="../assets/images/vehicles/GENIE S60.webp" />
             </div>
             
             <div class="vehicle-content">
@@ -98,12 +88,7 @@
           <!-- Vehicle 3: Toyota Land Cruiser -->
           <div class="vehicle-card">
             <div class="vehicle-image-wrapper">
-              <div class="vehicle-image-placeholder">
-                <svg class="placeholder-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7" />
-                </svg>
-                <p class="text-sm text-gray-500 mt-2">Toyota Land Cruiser</p>
-              </div>
+              <img src="../assets/images/vehicles/TOYOTA LAND CRUISER.jpg" />
             </div>
             
             <div class="vehicle-content">
@@ -137,12 +122,7 @@
           <!-- Vehicle 4: Sinotruck Howo -->
           <div class="vehicle-card">
             <div class="vehicle-image-wrapper">
-              <div class="vehicle-image-placeholder">
-                <svg class="placeholder-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 8h14M5 8a2 2 0 110-4h14a2 2 0 110 4M5 8v10a2 2 0 002 2h10a2 2 0 002-2V8m-9 4h4" />
-                </svg>
-                <p class="text-sm text-gray-500 mt-2">Sinotruck Howo</p>
-              </div>
+               <img src="../assets/images/vehicles/SINOTRUCK HOWO1.1.jpg" style="height: auto; width: auto;" />
             </div>
             
             <div class="vehicle-content">

@@ -4,7 +4,7 @@
     <section class="page-header bg-gradient-to-r from-gms-blue to-blue-700 text-white py-16">
       <div class="container mx-auto px-4">
         <h1 class="text-4xl md:text-5xl font-bold text-center mb-4">
-          Plomberie Tuyauterie Polyfusion - Liner
+          Plomberie DEWATERING , Tuyauterie Polyfusion - Liner
         </h1>
         <p class="text-xl text-center text-blue-100 max-w-2xl mx-auto">
           Solutions complètes pour vos projets de tuyauterie plastique et métallique
@@ -21,6 +21,19 @@
           </h2>
           
           <div class="grid md:grid-cols-2 gap-8">
+             <div class="service-overview-card">
+              <div class="service-icon bg-blue-100">
+                <svg class="icon-svg text-gms-blue" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 3v2m6-2v2M9 19v2m6-2v2M5 9H3m2 6H3m18-6h-2m2 6h-2M7 19h10a2 2 0 002-2V7a2 2 0 00-2-2H7a2 2 0 00-2 2v10a2 2 0 002 2zM9 9h6v6H9V9z" />
+                </svg>
+              </div>
+              <h3 class="service-overview-title">Dewatering</h3>
+              <p class="service-overview-description">
+                Services de gestion de l'eau pour mines et projets de construction. Installation de systèmes de pompage 
+                et de canalisation pour l'évacuation efficace des eaux souterraines et pluviales.
+              </p>
+            </div>
+            
             <div class="service-overview-card">
               <div class="service-icon bg-blue-100">
                 <svg class="icon-svg text-gms-blue" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -47,18 +60,7 @@
               </p>
             </div>
 
-            <div class="service-overview-card">
-              <div class="service-icon bg-blue-100">
-                <svg class="icon-svg text-gms-blue" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 3v2m6-2v2M9 19v2m6-2v2M5 9H3m2 6H3m18-6h-2m2 6h-2M7 19h10a2 2 0 002-2V7a2 2 0 00-2-2H7a2 2 0 00-2 2v10a2 2 0 002 2zM9 9h6v6H9V9z" />
-                </svg>
-              </div>
-              <h3 class="service-overview-title">Dewatering</h3>
-              <p class="service-overview-description">
-                Services de gestion de l'eau pour mines et projets de construction. Installation de systèmes de pompage 
-                et de canalisation pour l'évacuation efficace des eaux souterraines et pluviales.
-              </p>
-            </div>
+           
 
             <div class="service-overview-card">
               <div class="service-icon bg-red-100">

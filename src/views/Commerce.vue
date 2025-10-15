@@ -119,31 +119,19 @@
           
           <!-- Product 1 -->
           <div class="product-item">
-            <div class="product-icon-wrapper">
-              <svg class="product-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
-              </svg>
-            </div>
+            <img src="../assets/images/ordinateur.jpg" style="height: 220px; width: 220px;" alt="Ordinateur"/>
             <h4 class="product-name">Ordinateurs</h4>
           </div>
 
           <!-- Product 2 -->
           <div class="product-item">
-            <div class="product-icon-wrapper">
-              <svg class="product-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 18h.01M8 21h8a2 2 0 002-2V5a2 2 0 00-2-2H8a2 2 0 00-2 2v14a2 2 0 002 2z" />
-              </svg>
-            </div>
+            <img src="../assets/images/tablette2.jpg" style="height: 220px; width: 220px;" alt="Tablette"/>
             <h4 class="product-name">Tablettes</h4>
           </div>
 
           <!-- Product 3 -->
           <div class="product-item">
-            <div class="product-icon-wrapper">
-              <svg class="product-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 17h2a2 2 0 002-2v-4a2 2 0 00-2-2H5a2 2 0 00-2 2v4a2 2 0 002 2h2m2 4h6a2 2 0 002-2v-4a2 2 0 00-2-2H9a2 2 0 00-2 2v4a2 2 0 002 2zm8-12V5a2 2 0 00-2-2H9a2 2 0 00-2 2v4h10z" />
-              </svg>
-            </div>
+            <img src="../assets/images/imprimante.jpg" class="img-fuild" alt="Imprimante" />
             <h4 class="product-name">Imprimantes</h4>
           </div>
 
@@ -159,41 +147,25 @@
 
           <!-- Product 5 -->
           <div class="product-item">
-            <div class="product-icon-wrapper">
-              <svg class="product-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 8h14M5 8a2 2 0 110-4h14a2 2 0 110 4M5 8v10a2 2 0 002 2h10a2 2 0 002-2V8m-9 4h4" />
-              </svg>
-            </div>
+           <img src="../assets/images/stockage disk.jpeg" class="img-fluid" alt="Stockage" />
             <h4 class="product-name">Stockage</h4>
           </div>
 
           <!-- Product 6 -->
           <div class="product-item">
-            <div class="product-icon-wrapper">
-              <svg class="product-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 3v2m6-2v2M9 19v2m6-2v2M5 9H3m2 6H3m18-6h-2m2 6h-2M7 19h10a2 2 0 002-2V7a2 2 0 00-2-2H7a2 2 0 00-2 2v10a2 2 0 002 2zM9 9h6v6H9V9z" />
-              </svg>
-            </div>
+          <img src="../assets/images/reseau.jpg" style="height: 220px; width: 220px;" class="img-fluid" alt="Réseau" />
             <h4 class="product-name">Réseau</h4>
           </div>
 
           <!-- Product 7 -->
           <div class="product-item">
-            <div class="product-icon-wrapper">
-              <svg class="product-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
-              </svg>
-            </div>
+           <img src="../assets/images/antivirus.jpg" style="height: 220px; width: 220px;" alt="Antivirus" />
             <h4 class="product-name">Antivirus</h4>
           </div>
 
           <!-- Product 8 -->
           <div class="product-item">
-            <div class="product-icon-wrapper">
-              <svg class="product-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
-              </svg>
-            </div>
+           <img src="../assets/images/cartouche.jpg" style="height: 220px; width: 220px;" alt="Cartouches" />
             <h4 class="product-name">Cartouches</h4>
           </div>
 
@@ -476,7 +448,7 @@
   border-radius: 0.75rem;
   text-align: center;
   transition: all 0.3s ease-in-out;
-  border: 2px solid #e5e7eb;
+  border: 1px solid #e5e7eb;
   cursor: pointer;
 }
 
@@ -505,7 +477,7 @@
 }
 
 .product-name {
-  font-size: 0.875rem;
+  font-size: 1.2rem;
   font-weight: 600;
   color: #374151;
 }

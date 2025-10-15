@@ -41,6 +41,36 @@ const routes = [
     path: '/contact',
     name: 'Contact',
     component: () => import('../views/Contact.vue')
+  },
+   {
+    path: '/heavy-vehicle-training',
+    name: 'HeavyVehicleTraining',
+    component: () => import('../views/HeavyVehicleTraining.vue')
+  },
+  {
+    path: '/dewatering-training',
+    name: 'DewateringTraining',
+    component: () => import('../views/DewateringTraining.vue')
+  },
+  {
+    path: '/refrigeration',
+    name: 'Refrigeration',
+    component: () => import('../views/Refrigeration.vue') 
+  },
+  {
+    path: '/woodworking',
+    name: 'Woodworking',
+    component: () => import('../views/WoodWorking.vue')
+  },
+  {
+    path: '/drilling',
+    name: 'Drilling',
+    component: () => import('../views/Drilling.vue')
+  },
+  {
+    path:'/refrigeration',
+    name: 'Refrigeration',
+    component: () => import('../views/Refrigeration.vue')
   }
 ]
 

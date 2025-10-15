@@ -5,8 +5,7 @@
         <!-- Logo -->
         <router-link to="/" class="flex items-center space-x-3">
           <div class="flex items-center">
-            <div class="text-gms-blue font-bold text-2xl">GMS</div>
-            <span class="text-xs ml-1 text-gray-600">SARL</span>
+            <img src="../assets/GMS-PNG.png" alt="GMS Logo" /> 
           </div>
         </router-link>  
 
@@ -42,11 +41,26 @@
               <router-link to="/heavy-vehicle-rental" class="dropdown-link">
                 Location de Véhicules Lourds
               </router-link>
+              <router-link to="/heavy-vehicle-training" class="dropdown-link">
+               Formation en conduite d'engins lourds
+              </router-link>
+              <router-link to="/dewatering-training" class="dropdown-link">
+               Formation DEWATERING / NATATION
+              </router-link>
               <router-link to="/plumbing" class="dropdown-link">
-                Plomberie & Polyfusion
+                Plomberie DEWATERING & Tuyauterie & Polyfusion
+              </router-link>
+              <router-link to="/woodworking" class="dropdown-link">
+                Menuiserie 
               </router-link>
               <router-link to="/metal-construction" class="dropdown-link">
-                Charpente Métallique
+                Construction de Charpente Métallique
+              </router-link>
+              <router-link to="/drilling" class="dropdown-link">
+                Forage et Travaux spécialisés
+              </router-link>
+              <router-link to="/refrigeration" class="dropdown-link">
+                Froid et Climatisation
               </router-link>
             </div>
           </div>

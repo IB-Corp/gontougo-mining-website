@@ -87,7 +87,7 @@
           Plomberie Électro Fusion
         </h2>
         
-        <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 max-w-6xl mx-auto">
+        <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-2 gap-6 max-w-6xl mx-auto">
           
           <!-- Product 1: Robinet -->
           <div class="product-card">
@@ -402,7 +402,7 @@
 
 .product-image-wrapper {
   width: 100%;
-  height: 150px;
+  height: 250px;
   background: linear-gradient(135deg, #f3f4f6 0%, #e5e7eb 100%);
   display: flex;
   align-items: center;

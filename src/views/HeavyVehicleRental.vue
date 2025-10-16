@@ -20,12 +20,7 @@
           <!-- Equipment 1: Compacteur CAT -->
           <div class="equipment-card">
             <div class="equipment-image-wrapper">
-              <div class="equipment-image-placeholder">
-                <svg class="placeholder-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z" />
-                </svg>
-                <p class="text-sm text-gray-500 mt-2">Compacteur CAT</p>
-              </div>
+             <img src="../assets/images/vehicles/COMPACTEUR CAT1.jfif"  alt="COMPACTEUR CAT"/>
             </div>
             
             <div class="equipment-content">
@@ -51,12 +46,7 @@
           <!-- Equipment 2: Tractopelle CAT -->
           <div class="equipment-card">
             <div class="equipment-image-wrapper">
-              <div class="equipment-image-placeholder">
-                <svg class="placeholder-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
-                </svg>
-                <p class="text-sm text-gray-500 mt-2">Tractopelle CAT</p>
-              </div>
+              <img src="../assets/images/vehicles/TRACTOPELLE CAT.jpg " alt="Tractopelle CAT" />
             </div>
             
             <div class="equipment-content">
@@ -82,12 +72,7 @@
           <!-- Equipment 3: Pelle Hydraulique CAT -->
           <div class="equipment-card">
             <div class="equipment-image-wrapper">
-              <div class="equipment-image-placeholder">
-                <svg class="placeholder-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 16V4m0 0L3 8m4-4l4 4m6 0v12m0 0l4-4m-4 4l-4-4" />
-                </svg>
-                <p class="text-sm text-gray-500 mt-2">Pelle Hydraulique CAT</p>
-              </div>
+              <img src="../assets/images/vehicles/PELLE HYDRAULIQUE CAT.png" alt="PELLE HYDRAULIQUE CAT" />
             </div>
             
             <div class="equipment-content">
@@ -112,16 +97,12 @@
 
           <!-- Equipment 4: Chargeuse CAT -->
           <div class="equipment-card">
-            <div class="equipment-image-wrapper">
-              <div class="equipment-image-placeholder">
-                <svg class="placeholder-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 8h14M5 8a2 2 0 110-4h14a2 2 0 110 4M5 8v10a2 2 0 002 2h10a2 2 0 002-2V8m-9 4h4" />
-                </svg>
-                <p class="text-sm text-gray-500 mt-2">Chargeuse CAT</p>
-              </div>
-            </div>
-            
-            <div class="equipment-content">
+             <div class="equipment-image-wrapper">
+            <img src="../assets/images/vehicles/CHARGEUSE CAT.jfif" alt="CHARGEUSE CAT" />
+        </div>
+
+
+ <div class="equipment-content">
               <h3 class="equipment-title">CHARGEUSE CAT</h3>
               
               <div class="specs-grid">
@@ -144,16 +125,11 @@
               </button>
             </div>
           </div>
-
-          <!-- Equipment 5: Manitou -->
+            
+             <!-- Equipment 5: Manitou -->
           <div class="equipment-card">
             <div class="equipment-image-wrapper">
-              <div class="equipment-image-placeholder">
-                <svg class="placeholder-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 3v2m6-2v2M9 19v2m6-2v2M5 9H3m2 6H3m18-6h-2m2 6h-2M7 19h10a2 2 0 002-2V7a2 2 0 00-2-2H7a2 2 0 00-2 2v10a2 2 0 002 2zM9 9h6v6H9V9z" />
-                </svg>
-                <p class="text-sm text-gray-500 mt-2">Manitou</p>
-              </div>
+              <img src="../assets/images/vehicles/MANITOU.jpg" alt="Manitou" />
             </div>
             
             <div class="equipment-content">
@@ -179,12 +155,7 @@
           <!-- Equipment 6: Bulldozer CAT -->
           <div class="equipment-card">
             <div class="equipment-image-wrapper">
-              <div class="equipment-image-placeholder">
-                <svg class="placeholder-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
-                </svg>
-                <p class="text-sm text-gray-500 mt-2">Bulldozer CAT</p>
-              </div>
+              <img src="../assets/images/vehicles/BULLDOZER CAT.jpg" alt="Bulldozer CAT" />
             </div>
             
             <div class="equipment-content">
@@ -208,7 +179,13 @@
           </div>
 
         </div>
-      </div>
+
+        
+
+        </div>
+      
+      <!-- </div> -->
+      
     </section>
 
     <!-- Why Choose Our Equipment -->
@@ -347,11 +324,11 @@
 .equipment-image-wrapper {
   width: 100%;
   height: 250px;
-  background: linear-gradient(135deg, #fef2f2 0%, #fee2e2 100%);
+  /* background: linear-gradient(135deg, #fef2f2 0%, #fee2e2 100%); */
   display: flex;
   align-items: center;
   justify-content: center;
-  border-bottom: 3px solid #dc2626;
+  /* border-bottom: 3px solid #dc2626; */
 }
 
 .equipment-image-placeholder {

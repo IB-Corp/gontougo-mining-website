@@ -54,7 +54,7 @@
           <!-- Vehicle 2: Genie S60 -->
           <div class="vehicle-card">
             <div class="vehicle-image-wrapper">
-              <img src="../assets/images/vehicles/GENIE S60.webp" />
+              <img src="../assets/images/vehicles/GENIE S60.jpg" />
             </div>
             
             <div class="vehicle-content">
@@ -247,11 +247,11 @@
 .vehicle-image-wrapper {
   width: 100%;
   height: 250px;
-  background: linear-gradient(135deg, #f3f4f6 0%, #e5e7eb 100%);
+  /* background: linear-gradient(135deg, #f3f4f6 0%, #e5e7eb 100%); */
   display: flex;
   align-items: center;
   justify-content: center;
-  border-bottom: 3px solid #1e5ba8;
+  /* border-bottom: 3px solid #1e5ba8; */
 }
 
 .vehicle-image-placeholder {

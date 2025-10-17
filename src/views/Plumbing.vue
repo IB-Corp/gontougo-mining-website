@@ -92,11 +92,7 @@
           <!-- Product 1: Robinet -->
           <div class="product-card">
             <div class="product-image-wrapper">
-              <div class="product-image-placeholder">
-                <svg class="product-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
-                </svg>
-              </div>
+              <img src="../assets/images/Plumbing/ROBINET.png"
             </div>
             <h3 class="product-name">ROBINET</h3>
           </div>
@@ -104,11 +100,7 @@
           <!-- Product 2: Stabe Brid -->
           <div class="product-card">
             <div class="product-image-wrapper">
-              <div class="product-image-placeholder">
-                <svg class="product-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 3v2m6-2v2M9 19v2m6-2v2M5 9H3m2 6H3m18-6h-2m2 6h-2M7 19h10a2 2 0 002-2V7a2 2 0 00-2-2H7a2 2 0 00-2 2v10a2 2 0 002 2zM9 9h6v6H9V9z" />
-                </svg>
-              </div>
+              <img src="../assets/images/Plumbing/STABE BIRD.jpg" />
             </div>
             <h3 class="product-name">STABE BRID</h3>
           </div>
@@ -116,11 +108,7 @@
           <!-- Product 3: Manchon Réducteur -->
           <div class="product-card">
             <div class="product-image-wrapper">
-              <div class="product-image-placeholder">
-                <svg class="product-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4" />
-                </svg>
-              </div>
+              <img src="../assets/images/Plumbing/MENCHON REDUCTEUR.jpg" />
             </div>
             <h3 class="product-name">MANCHON RÉDUCTEUR</h3>
           </div>
@@ -128,11 +116,7 @@
           <!-- Product 4: Manchon -->
           <div class="product-card">
             <div class="product-image-wrapper">
-              <div class="product-image-placeholder">
-                <svg class="product-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 16V4m0 0L3 8m4-4l4 4m6 0v12m0 0l4-4m-4 4l-4-4" />
-                </svg>
-              </div>
+              <img src="../assets/images/Plumbing/MENCHON.png" />
             </div>
             <h3 class="product-name">MANCHON</h3>
           </div>
@@ -140,11 +124,7 @@
           <!-- Product 5: Valve -->
           <div class="product-card">
             <div class="product-image-wrapper">
-              <div class="product-image-placeholder">
-                <svg class="product-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4" />
-                </svg>
-              </div>
+              <img src="../assets/images/Plumbing/VALVE.png" />
             </div>
             <h3 class="product-name">VALVE</h3>
           </div>
@@ -152,11 +132,7 @@
           <!-- Product 6: Embouts -->
           <div class="product-card">
             <div class="product-image-wrapper">
-              <div class="product-image-placeholder">
-                <svg class="product-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
-                </svg>
-              </div>
+             <img src="../assets/images/Plumbing/EMBOUT.webp"
             </div>
             <h3 class="product-name">EMBOUTS</h3>
           </div>
@@ -164,11 +140,7 @@
           <!-- Product 7: Liner -->
           <div class="product-card">
             <div class="product-image-wrapper">
-              <div class="product-image-placeholder">
-                <svg class="product-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
-                </svg>
-              </div>
+             <img src="../assets/images/Plumbing/LINER.webp"  />
             </div>
             <h3 class="product-name">LINER</h3>
           </div>
@@ -176,12 +148,7 @@
           <!-- Product 8: Polyfusion -->
           <div class="product-card">
             <div class="product-image-wrapper">
-              <div class="product-image-placeholder">
-                <svg class="product-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 18.657A8 8 0 016.343 7.343S7 9 9 10c0-2 .5-5 2.986-7C14 5 16.09 5.777 17.656 7.343A7.975 7.975 0 0120 13a7.975 7.975 0 01-2.343 5.657z" />
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.879 16.121A3 3 0 1012.015 11L11 14H9c0 .768.293 1.536.879 2.121z" />
-                </svg>
-              </div>
+            <img src="../assets/images/Plumbing/POLYFUSION.webp" alt="POLYFUSION"  />
             </div>
             <h3 class="product-name">POLYFUSION</h3>
           </div>
@@ -401,12 +368,17 @@
 }
 
 .product-image-wrapper {
-  width: 100%;
-  height: 250px;
-  background: linear-gradient(135deg, #f3f4f6 0%, #e5e7eb 100%);
+  width: auto;
+  height: 350px;
+  /* background: linear-gradient(135deg, #f3f4f6 0%, #e5e7eb 100%);  */
   display: flex;
   align-items: center;
   justify-content: center;
+}
+.product-image-wrapper img {
+  max-width: auto;
+  max-height: 80%;
+  object-fit: contain;
 }
 
 .product-image-placeholder {

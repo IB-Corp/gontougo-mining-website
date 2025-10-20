@@ -16,14 +16,14 @@
             class="nav-link"
             active-class="text-gms-blue font-semibold"
           >
-            Accueil
+            {{ $t('nav.home') }}
           </router-link>
           <router-link 
             to="/about" 
             class="nav-link"
             active-class="text-gms-blue font-semibold"
           >
-            À Propos
+            {{ $t('nav.about') }}
           </router-link>
           
           <!-- Services Dropdown -->
@@ -36,31 +36,32 @@
             </button>
             <div class="absolute left-0 mt-2 w-64 bg-white shadow-lg rounded-md opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200">
               <router-link to="/light-vehicles-rental" class="dropdown-link">
-                Location de Véhicules Légers
+                {{ $t('servicesMenu.lightVehicles') }}
               </router-link>
               <router-link to="/heavy-vehicle-rental" class="dropdown-link">
-                Location de Véhicules Lourds
+              {{ $t('servicesMenu.heavyVehicles') }}
+
               </router-link>
               <router-link to="/heavy-vehicle-training" class="dropdown-link">
-               Formation en conduite d'engins lourds
+              {{ $t('servicesMenu.heavyTraining') }}
               </router-link>
               <router-link to="/dewatering-training" class="dropdown-link">
-               Formation DEWATERING / NATATION
+               {{ $t('servicesMenu.dewateringTraining') }}
               </router-link>
               <router-link to="/plumbing" class="dropdown-link">
-                Plomberie DEWATERING & Tuyauterie & Polyfusion
+                {{ $t('servicesMenu.plumbing') }}
               </router-link>
               <router-link to="/woodworking" class="dropdown-link">
-                Menuiserie 
+                {{ $t('servicesMenu.woodworking') }} 
               </router-link>
               <router-link to="/metal-construction" class="dropdown-link">
-                Construction de Charpente Métallique
+                {{ $t('servicesMenu.metalConstruction') }}
               </router-link>
               <router-link to="/drilling" class="dropdown-link">
-                Forage et Travaux spécialisés
+                {{ $t('servicesMenu.drilling') }}
               </router-link>
               <router-link to="/refrigeration" class="dropdown-link">
-                Froid et Climatisation
+                {{ $t('servicesMenu.refrigeration') }}
               </router-link>
             </div>
           </div>
@@ -70,14 +71,17 @@
             class="nav-link"
             active-class="text-gms-blue font-semibold"
           >
-            Commerce
+            {{ $t('nav.commerce') }}
           </router-link>
           <router-link 
             to="/contact" 
             class="bg-gms-red text-white px-6 py-2 rounded-md hover:bg-red-700 transition"
           >
-            Contact
+            {{ $t('nav.contact') }}
           </router-link>
+          
+          <!-- Language Switcher -->
+          <LanguageSwitcher />
         </div>
 
         <!-- Mobile Menu Button -->
@@ -141,6 +145,7 @@
 
 <script setup>
 import { ref } from 'vue'
+import LanguageSwitcher from './LanguageSwitcher.vue'
 
 const mobileMenuOpen = ref(false)
 </script>

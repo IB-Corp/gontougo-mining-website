@@ -1,0 +1,92 @@
+export default {
+  // Navbar
+  nav: {
+    home: 'Accueil',
+    about: 'À Propos',
+    services: 'Services',
+    commerce: 'Commerce',
+    contact: 'Contact'
+  },
+
+  // Services Menu
+  servicesMenu: {
+    lightVehicles: 'Location de Véhicules Légers',
+    heavyVehicles: 'Location de Véhicules Lourds',
+    heavyTraining: 'Formation en conduite d\'engins lourds',
+    dewateringTraining: 'Formation DEWATERING / NATATION',
+    plumbing: 'Plomberie DEWATERING & Tuyauterie & Polyfusion',
+    woodworking: 'Menuiserie',
+    metalConstruction: 'Construction de Charpente Métallique',
+    drilling: 'Forage et Travaux spécialisés',
+    refrigeration: 'Froid et Climatisation'
+  },
+
+  // Home Page
+  home: {
+    companyName: 'GONTOUGO MINING SERVICE',
+    catalog: 'CATALOGUE 2025',
+    motto: 'La sécurité, la clé de la production',
+    description: 'Entreprise de service diversifiée spécialisée dans l\'exploitation minière et les industries connexes en Côte d\'Ivoire.',
+    discover: 'Découvrir GMS',
+    contactUs: 'Nous Contacter',
+    ourServices: 'Nos Services',
+    servicesDescription: 'Des solutions complètes pour vos projets miniers et industriels',
+    loading: 'Chargement des services...',
+    error: 'Erreur lors du chargement des services',
+    viewDetails: 'Voir Détails'
+  },
+
+  // About Page
+  about: {
+    title: 'À Propos de GMS',
+    subtitle: 'Votre partenaire de confiance pour les services miniers',
+    description: 'GONTOUGO MINING SERVICE SARL est une entreprise de service diversifiée spécialisée dans l\'exploitation minière et les industries connexes.',
+    ourMission: 'Notre Mission',
+    ourVision: 'Notre Vision',
+    ourValues: 'Nos Valeurs',
+    safety: 'Sécurité',
+    quality: 'Qualité',
+    innovation: 'Innovation',
+    integrity: 'Intégrité'
+  },
+
+  // Contact Page
+  contact: {
+    title: 'Contactez-nous',
+    subtitle: 'Nous sommes à votre écoute',
+    name: 'Nom',
+    email: 'Email',
+    phone: 'Téléphone',
+    message: 'Message',
+    send: 'Envoyer',
+    address: 'Adresse',
+    callUs: 'Appelez-nous',
+    emailUs: 'Envoyez-nous un email'
+  },
+
+  // Common
+  common: {
+    readMore: 'Lire la suite',
+    learnMore: 'En savoir plus',
+    getStarted: 'Commencer',
+    viewAll: 'Voir tout',
+    backToHome: 'Retour à l\'accueil',
+    loading: 'Chargement...',
+    error: 'Erreur',
+    success: 'Succès',
+    close: 'Fermer',
+    save: 'Enregistrer',
+    cancel: 'Annuler',
+    delete: 'Supprimer',
+    edit: 'Modifier',
+    add: 'Ajouter'
+  },
+
+  // Footer
+  footer: {
+    rights: 'Tous droits réservés',
+    followUs: 'Suivez-nous',
+    quickLinks: 'Liens Rapides',
+    contactInfo: 'Informations de Contact'
+  }
+}

@@ -1,0 +1,6528 @@
+{
+  "http://localhost:5173/": [
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Services",
+      "translated": "Services",
+      "tag": "button"
+    },
+    {
+      "original": "Location de Véhicules Légers",
+      "translated": "Light Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Location de Véhicules Lourds",
+      "translated": "Heavy Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Formation en conduite d'engins lourds",
+      "translated": "Heavy equipment driving training",
+      "tag": "a"
+    },
+    {
+      "original": "Formation DEWATERING / NATATION",
+      "translated": "DEWATERING / SWIMMING training",
+      "tag": "a"
+    },
+    {
+      "original": "Plomberie DEWATERING & Tuyauterie & Polyfusion",
+      "translated": "Plumbing DEWATERING & Piping & Polyfusion",
+      "tag": "a"
+    },
+    {
+      "original": "Menuiserie",
+      "translated": "Carpentry",
+      "tag": "a"
+    },
+    {
+      "original": "Construction de Charpente Métallique",
+      "translated": "Metal Frame Construction",
+      "tag": "a"
+    },
+    {
+      "original": "Forage et Travaux spécialisés",
+      "translated": "Drilling and Specialized Works",
+      "tag": "a"
+    },
+    {
+      "original": "Froid et Climatisation",
+      "translated": "Cold and Air Conditioning",
+      "tag": "a"
+    },
+    {
+      "original": "Commerce",
+      "translated": "Trade",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "🇬🇧EN",
+      "translated": "🇬🇧EN",
+      "tag": "button"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Location de Véhicules",
+      "translated": "Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Engins Lourds",
+      "translated": "Heavy machinery",
+      "tag": "a"
+    },
+    {
+      "original": "Plomberie & Polyfusion",
+      "translated": "Plumbing & Polyfusion",
+      "tag": "a"
+    },
+    {
+      "original": "Charpente Métallique",
+      "translated": "Metal Frame",
+      "tag": "a"
+    },
+    {
+      "original": "Commerce",
+      "translated": "Trade",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "GONTOUGO MINING SERVICESARL",
+      "translated": "GONTOUGO MINING SERVICESARL",
+      "tag": "h1"
+    },
+    {
+      "original": "SARL",
+      "translated": "SARL",
+      "tag": "span"
+    },
+    {
+      "original": "La sécurité, la clé de la production",
+      "translated": "Safety, the key to production",
+      "tag": "h2"
+    },
+    {
+      "original": "Entreprise de service diversifiée spécialisée dans l'exploitation minière et les industries connexes en Côte d'Ivoire.",
+      "translated": "Diversified service company specializing in mining and related industries in Ivory Coast.",
+      "tag": "p"
+    },
+    {
+      "original": "Découvrir GMS",
+      "translated": "Discover GMS",
+      "tag": "a"
+    },
+    {
+      "original": "Nous Contacter",
+      "translated": "Contact us",
+      "tag": "a"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "h2"
+    },
+    {
+      "original": "Des solutions complètes pour vos projets miniers et industriels",
+      "translated": "Complete solutions for your mining and industrial projects",
+      "tag": "p"
+    },
+    {
+      "original": "Menuiserie",
+      "translated": "Carpentry",
+      "tag": "h3"
+    },
+    {
+      "original": "Construction de tout equipement en bois pour vos chantiers",
+      "translated": "Construction of all wooden equipment for your construction sites",
+      "tag": "p"
+    },
+    {
+      "original": "• Charpente en bois",
+      "translated": "• Wooden frame",
+      "tag": "li"
+    },
+    {
+      "original": "• Menuiserie industrielle",
+      "translated": "• Industrial carpentry",
+      "tag": "li"
+    },
+    {
+      "original": "En savoir plus",
+      "translated": "Learn more",
+      "tag": "a"
+    },
+    {
+      "original": "Formation Conduite d'Engins Lourds",
+      "translated": "Heavy Equipment Driving Training",
+      "tag": "h3"
+    },
+    {
+      "original": "Formation certifiante pour la conduite sécurisée d'engins lourds miniers.",
+      "translated": "Certification training for the safe operation of heavy mining equipment.",
+      "tag": "p"
+    },
+    {
+      "original": "• Permis de conduire engins",
+      "translated": "• Vehicle driving license",
+      "tag": "li"
+    },
+    {
+      "original": "• Sécurité sur chantier",
+      "translated": "• Safety on site",
+      "tag": "li"
+    },
+    {
+      "original": "En savoir plus",
+      "translated": "Learn more",
+      "tag": "a"
+    },
+    {
+      "original": "Tuyauterie et Plomberie",
+      "translated": "Piping and Plumbing",
+      "tag": "h3"
+    },
+    {
+      "original": "Installation et maintenance de systèmes de tuyauterie plastique et métallique.",
+      "translated": "Installation and maintenance of plastic and metal piping systems.",
+      "tag": "p"
+    },
+    {
+      "original": "• Tuyauterie HDPE",
+      "translated": "• HDPE piping",
+      "tag": "li"
+    },
+    {
+      "original": "• Soudage plastique",
+      "translated": "• Plastic welding",
+      "tag": "li"
+    },
+    {
+      "original": "En savoir plus",
+      "translated": "Learn more",
+      "tag": "a"
+    },
+    {
+      "original": "Charpente Métallique",
+      "translated": "Metal Frame",
+      "tag": "h3"
+    },
+    {
+      "original": "Conception, fabrication et installation de structures métalliques pour l'industrie.",
+      "translated": "Design, manufacture and installation of metal structures for industry.",
+      "tag": "p"
+    },
+    {
+      "original": "• Structures industrielles",
+      "translated": "• Industrial structures",
+      "tag": "li"
+    },
+    {
+      "original": "• Hangars",
+      "translated": "• Hangars",
+      "tag": "li"
+    },
+    {
+      "original": "En savoir plus",
+      "translated": "Learn more",
+      "tag": "a"
+    },
+    {
+      "original": "Formation DEWATERING",
+      "translated": "DEWATERING training",
+      "tag": "h3"
+    },
+    {
+      "original": "Formation professionnelle complète en techniques de DEWATERING pour l'industrie minière.",
+      "translated": "Complete professional training in DEWATERING techniques for the mining industry.",
+      "tag": "p"
+    },
+    {
+      "original": "• Formation théorique",
+      "translated": "• Theoretical training",
+      "tag": "li"
+    },
+    {
+      "original": "• Pratique sur site",
+      "translated": "• Practical on site",
+      "tag": "li"
+    },
+    {
+      "original": "En savoir plus",
+      "translated": "Learn more",
+      "tag": "a"
+    },
+    {
+      "original": "Location de Véhicules Légers",
+      "translated": "Light Vehicle Rental",
+      "tag": "h3"
+    },
+    {
+      "original": "Véhicules légers et utilitaires pour tous vos besoins de transport et logistique.",
+      "translated": "Light and utility vehicles for all your transport and logistics needs.",
+      "tag": "p"
+    },
+    {
+      "original": "• Véhicules 4x4",
+      "translated": "• 4x4 vehicles",
+      "tag": "li"
+    },
+    {
+      "original": "• Utilitaires",
+      "translated": "• Utilities",
+      "tag": "li"
+    },
+    {
+      "original": "En savoir plus",
+      "translated": "Learn more",
+      "tag": "a"
+    },
+    {
+      "original": "Location d'Engins Miniers",
+      "translated": "Mining Equipment Rental",
+      "tag": "h3"
+    },
+    {
+      "original": "Bulldozers, pelles mécaniques, camions-bennes, excavateurs et plus encore pour vos projets miniers.",
+      "translated": "Bulldozers, excavators, dump trucks, excavators and more for your mining projects.",
+      "tag": "p"
+    },
+    {
+      "original": "• Bulldozers D6-D8",
+      "translated": "• D6-D8 bulldozers",
+      "tag": "li"
+    },
+    {
+      "original": "• Pelles hydrauliques",
+      "translated": "• Hydraulic excavators",
+      "tag": "li"
+    },
+    {
+      "original": "En savoir plus",
+      "translated": "Learn more",
+      "tag": "a"
+    },
+    {
+      "original": "Commerce Général",
+      "translated": "General Trade",
+      "tag": "h3"
+    },
+    {
+      "original": "Fourniture d'équipements et matériels pour l'industrie minière et la construction.",
+      "translated": "Supply of equipment and materials for the mining industry and construction.",
+      "tag": "p"
+    },
+    {
+      "original": "• EPI (Équipements de Protection)",
+      "translated": "• PPE (Protective Equipment)",
+      "tag": "li"
+    },
+    {
+      "original": "• Outils professionnels",
+      "translated": "• Professional tools",
+      "tag": "li"
+    },
+    {
+      "original": "En savoir plus",
+      "translated": "Learn more",
+      "tag": "a"
+    },
+    {
+      "original": "Pourquoi Choisir GMS?",
+      "translated": "Why Choose GMS?",
+      "tag": "h2"
+    },
+    {
+      "original": "Équipe Qualifiée",
+      "translated": "Qualified Team",
+      "tag": "h3"
+    },
+    {
+      "original": "Des professionnels hautement qualifiés et motivés pour garantir l'excellence.",
+      "translated": "Highly qualified and motivated professionals to guarantee excellence.",
+      "tag": "p"
+    },
+    {
+      "original": "Sécurité Prioritaire",
+      "translated": "Priority Security",
+      "tag": "h3"
+    },
+    {
+      "original": "La sécurité au cœur de nos actions - notre devise et engagement.",
+      "translated": "Safety at the heart of our actions - our motto and commitment.",
+      "tag": "p"
+    },
+    {
+      "original": "Service Rapide",
+      "translated": "Fast Service",
+      "tag": "h3"
+    },
+    {
+      "original": "Réactivité et efficacité pour répondre rapidement à vos besoins.",
+      "translated": "Responsiveness and efficiency to quickly respond to your needs.",
+      "tag": "p"
+    },
+    {
+      "original": "Prix Compétitifs",
+      "translated": "Competitive Prices",
+      "tag": "h3"
+    },
+    {
+      "original": "Des tarifs adaptés à votre budget sans compromis sur la qualité.",
+      "translated": "Prices adapted to your budget without compromising on quality.",
+      "tag": "p"
+    },
+    {
+      "original": "Prêt à Démarrer Votre Projet?",
+      "translated": "Ready to Start Your Project?",
+      "tag": "h2"
+    },
+    {
+      "original": "Contactez-nous dès aujourd'hui pour discuter de vos besoins et obtenir un devis personnalisé.",
+      "translated": "Contact us today to discuss your needs and get a personalized quote.",
+      "tag": "p"
+    },
+    {
+      "original": "Demander un Devis",
+      "translated": "Request a Quote",
+      "tag": "a"
+    },
+    {
+      "original": "SARL",
+      "translated": "SARL",
+      "tag": "span"
+    },
+    {
+      "original": "Gontougo Mining Service",
+      "translated": "Gontougo Mining Service",
+      "tag": "p"
+    },
+    {
+      "original": "La sécurité, la clé de la production",
+      "translated": "Safety, the key to production",
+      "tag": "p"
+    },
+    {
+      "original": "Liens Rapides",
+      "translated": "Quick Links",
+      "tag": "h3"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "li"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "li"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "li"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "li"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "h3"
+    },
+    {
+      "original": "• Location d'engins miniers",
+      "translated": "• Mining equipment rental",
+      "tag": "li"
+    },
+    {
+      "original": "• Tuyauterie plastique et métallique",
+      "translated": "• Plastic and metal piping",
+      "tag": "li"
+    },
+    {
+      "original": "• Transport et logistique",
+      "translated": "• Transport and logistics",
+      "tag": "li"
+    },
+    {
+      "original": "• Dewatering",
+      "translated": "• Dewatering",
+      "tag": "li"
+    },
+    {
+      "original": "• Charpente métallique",
+      "translated": "• Metal frame",
+      "tag": "li"
+    },
+    {
+      "original": "• Commerce général",
+      "translated": "• General trade",
+      "tag": "li"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "h3"
+    },
+    {
+      "original": "Tanda, Quartier RésidentielEn face du Lycée Moderne",
+      "translated": "Tanda, Residential Area Opposite the Lycée Moderne",
+      "tag": "li"
+    },
+    {
+      "original": "Tanda, Quartier RésidentielEn face du Lycée Moderne",
+      "translated": "Tanda, Residential Area Opposite the Lycée Moderne",
+      "tag": "span"
+    },
+    {
+      "original": "(+225) 0788884940",
+      "translated": "(+225) 0788884940",
+      "tag": "li"
+    },
+    {
+      "original": "(+225) 0788884940",
+      "translated": "(+225) 0788884940",
+      "tag": "a"
+    },
+    {
+      "original": "contact@gms-sarl.com",
+      "translated": "contact@gms-sarl.com",
+      "tag": "li"
+    },
+    {
+      "original": "contact@gms-sarl.com",
+      "translated": "contact@gms-sarl.com",
+      "tag": "a"
+    },
+    {
+      "original": "RCCM: CI-ABG2023M0103 | CODE CDI: 911",
+      "translated": "RCCM: CI-ABG2023M0103 | CDI CODE: 911",
+      "tag": "p"
+    },
+    {
+      "original": "Régime Juridique: SARL",
+      "translated": "Legal Regime: SARL",
+      "tag": "p"
+    },
+    {
+      "original": "© 2025 Gontougo Mining Service SARL. Tous droits réservés.",
+      "translated": "© 2025 Gontougo Mining Service SARL. All rights reserved.",
+      "tag": "p"
+    }
+  ],
+  "http://localhost:5173/about": [
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Services",
+      "translated": "Services",
+      "tag": "button"
+    },
+    {
+      "original": "Location de Véhicules Légers",
+      "translated": "Light Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Location de Véhicules Lourds",
+      "translated": "Heavy Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Formation en conduite d'engins lourds",
+      "translated": "Heavy equipment driving training",
+      "tag": "a"
+    },
+    {
+      "original": "Formation DEWATERING / NATATION",
+      "translated": "DEWATERING / SWIMMING training",
+      "tag": "a"
+    },
+    {
+      "original": "Plomberie DEWATERING & Tuyauterie & Polyfusion",
+      "translated": "Plumbing DEWATERING & Piping & Polyfusion",
+      "tag": "a"
+    },
+    {
+      "original": "Menuiserie",
+      "translated": "Carpentry",
+      "tag": "a"
+    },
+    {
+      "original": "Construction de Charpente Métallique",
+      "translated": "Metal Frame Construction",
+      "tag": "a"
+    },
+    {
+      "original": "Forage et Travaux spécialisés",
+      "translated": "Drilling and Specialized Works",
+      "tag": "a"
+    },
+    {
+      "original": "Froid et Climatisation",
+      "translated": "Cold and Air Conditioning",
+      "tag": "a"
+    },
+    {
+      "original": "Commerce",
+      "translated": "Trade",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "🇬🇧EN",
+      "translated": "🇬🇧EN",
+      "tag": "button"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Location de Véhicules",
+      "translated": "Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Engins Lourds",
+      "translated": "Heavy machinery",
+      "tag": "a"
+    },
+    {
+      "original": "Plomberie & Polyfusion",
+      "translated": "Plumbing & Polyfusion",
+      "tag": "a"
+    },
+    {
+      "original": "Charpente Métallique",
+      "translated": "Metal Frame",
+      "tag": "a"
+    },
+    {
+      "original": "Commerce",
+      "translated": "Trade",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos de GMS",
+      "translated": "About GMS",
+      "tag": "h1"
+    },
+    {
+      "original": "Votre partenaire de confiance pour l'exploitation minière et les industries connexes",
+      "translated": "Your trusted partner for mining and related industries",
+      "tag": "p"
+    },
+    {
+      "original": "GMS (Gontougo Mining Service)est une entreprise de service divers tels que la location d'engins miniers, de tuyauterie plastique et métallique, de transport et de logistique, de prestation de dewatering, de commerce général, d'achats et de ventes d'articles divers pour ne citer que ceux-là.",
+      "translated": "GMS (Gontougo Mining Service) is a company providing various services such as the rental of mining equipment, plastic and metal piping, transport and logistics, dewatering services, general trade, purchases and sales of various items, to name but a few.",
+      "tag": "p"
+    },
+    {
+      "original": "Notre entreprise est unesociété à responsabilité limitée, dont le siège social est situé àTanda au quartier Résidentiel en face du Lycée Moderne.",
+      "translated": "Our company is a limited liability company, whose head office is located in Tanda in the Residential district opposite the Lycée Moderne.",
+      "tag": "p"
+    },
+    {
+      "original": "Notre entreprise s'est engagée à fournir desservices de qualitéà nos clients dans le domaine de l'exploitation minière et d'autres industries connexes. Nous sommes spécialisés dans la location d'engins miniers, tels que desbulldozers, des pelles mécaniques, des camions-bennes, des excavatriceset bien d'autres encore.",
+      "translated": "Our company is committed to providing quality services to our clients in the field of mining and other related industries. We specialize in the rental of mining equipment, such as bulldozers, excavators, dump trucks, excavators and many more.",
+      "tag": "p"
+    },
+    {
+      "original": "Nous offrons également des services detuyauterie plastique et métalliquepour les projets de construction, de transport et de logistique, ainsi que de prestation de dewatering pour la gestion de l'eau dans les mines et autres projets. En plus de nos services de location, nous sommes également engagés dans lecommerce généralet la vente d'articles divers, tels que des équipements de protection individuelle, des outils, des fournitures de bureau, bien plus encore.",
+      "translated": "We also offer plastic and metal piping services for construction, transportation and logistics projects, as well as providing dewatering for water management in mines and other projects. In addition to our rental services, we are also engaged in general trading and sales of miscellaneous items, such as personal protective equipment, tools, office supplies, and much more.",
+      "tag": "p"
+    },
+    {
+      "original": "Nous sommes fiers de notre engagement envers laqualité de nos produits et services, ainsi que de notre capacité à répondre aux besoins spécifiques de nos clients.",
+      "translated": "We pride ourselves on our commitment to the quality of our products and services, as well as our ability to meet the specific needs of our customers.",
+      "tag": "p"
+    },
+    {
+      "original": "Notre équipe deprofessionnels hautement qualifiés et motivésest déterminée à offrir des services de qualité supérieure à nos clients. Nous sommes également engagés à promouvoir uneculture d'entreprise diversifiée, inclusive et équitable, qui valorise la contribution de chacun et favorise le développement personnel et professionnel.",
+      "translated": "Our team of highly qualified and motivated professionals is committed to providing superior quality services to our clients. We are also committed to promoting a diverse, inclusive and equitable corporate culture, which values ​​the contribution of everyone and promotes personal and professional development.",
+      "tag": "p"
+    },
+    {
+      "original": "Nous restons disponible à collaborer avec vous pour exécuter des services de qualité qui répondent à vos attentes.",
+      "translated": "We remain available to collaborate with you to provide quality services that meet your expectations.",
+      "tag": "p"
+    },
+    {
+      "original": "NOUS METTONSLA SÉCURITÉ",
+      "translated": "WE MAKE SAFETY",
+      "tag": "h2"
+    },
+    {
+      "original": "LA SÉCURITÉ",
+      "translated": "SAFETY",
+      "tag": "span"
+    },
+    {
+      "original": "AU CŒUR DENOS ACTIONS",
+      "translated": "AT THE HEART OF OUR ACTIONS",
+      "tag": "h2"
+    },
+    {
+      "original": "NOS ACTIONS",
+      "translated": "OUR ACTIONS",
+      "tag": "span"
+    },
+    {
+      "original": "Nos Valeurs",
+      "translated": "Our Values",
+      "tag": "h2"
+    },
+    {
+      "original": "Sécurité",
+      "translated": "Security",
+      "tag": "h3"
+    },
+    {
+      "original": "La sécurité est notre priorité absolue dans toutes nos opérations et interventions.",
+      "translated": "Safety is our top priority in all our operations and interventions.",
+      "tag": "p"
+    },
+    {
+      "original": "Qualité",
+      "translated": "Quality",
+      "tag": "h3"
+    },
+    {
+      "original": "Nous nous engageons à fournir des services et produits de haute qualité à nos clients.",
+      "translated": "We are committed to providing high quality services and products to our customers.",
+      "tag": "p"
+    },
+    {
+      "original": "Intégrité",
+      "translated": "Integrity",
+      "tag": "h3"
+    },
+    {
+      "original": "Nous agissons avec honnêteté et transparence dans toutes nos relations professionnelles.",
+      "translated": "We act with honesty and transparency in all our professional relationships.",
+      "tag": "p"
+    },
+    {
+      "original": "Travaillons Ensemble",
+      "translated": "Let's work together",
+      "tag": "h2"
+    },
+    {
+      "original": "Contactez-nous pour découvrir comment nous pouvons vous aider à atteindre vos objectifs.",
+      "translated": "Contact us to find out how we can help you achieve your goals.",
+      "tag": "p"
+    },
+    {
+      "original": "Contactez-nous",
+      "translated": "Contact us",
+      "tag": "a"
+    },
+    {
+      "original": "SARL",
+      "translated": "SARL",
+      "tag": "span"
+    },
+    {
+      "original": "Gontougo Mining Service",
+      "translated": "Gontougo Mining Service",
+      "tag": "p"
+    },
+    {
+      "original": "La sécurité, la clé de la production",
+      "translated": "Safety, the key to production",
+      "tag": "p"
+    },
+    {
+      "original": "Liens Rapides",
+      "translated": "Quick Links",
+      "tag": "h3"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "li"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "li"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "li"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "li"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "h3"
+    },
+    {
+      "original": "• Location d'engins miniers",
+      "translated": "• Mining equipment rental",
+      "tag": "li"
+    },
+    {
+      "original": "• Tuyauterie plastique et métallique",
+      "translated": "• Plastic and metal piping",
+      "tag": "li"
+    },
+    {
+      "original": "• Transport et logistique",
+      "translated": "• Transport and logistics",
+      "tag": "li"
+    },
+    {
+      "original": "• Dewatering",
+      "translated": "• Dewatering",
+      "tag": "li"
+    },
+    {
+      "original": "• Charpente métallique",
+      "translated": "• Metal frame",
+      "tag": "li"
+    },
+    {
+      "original": "• Commerce général",
+      "translated": "• General trade",
+      "tag": "li"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "h3"
+    },
+    {
+      "original": "Tanda, Quartier RésidentielEn face du Lycée Moderne",
+      "translated": "Tanda, Residential Area Opposite the Lycée Moderne",
+      "tag": "li"
+    },
+    {
+      "original": "Tanda, Quartier RésidentielEn face du Lycée Moderne",
+      "translated": "Tanda, Residential Area Opposite the Lycée Moderne",
+      "tag": "span"
+    },
+    {
+      "original": "(+225) 0788884940",
+      "translated": "(+225) 0788884940",
+      "tag": "li"
+    },
+    {
+      "original": "(+225) 0788884940",
+      "translated": "(+225) 0788884940",
+      "tag": "a"
+    },
+    {
+      "original": "contact@gms-sarl.com",
+      "translated": "contact@gms-sarl.com",
+      "tag": "li"
+    },
+    {
+      "original": "contact@gms-sarl.com",
+      "translated": "contact@gms-sarl.com",
+      "tag": "a"
+    },
+    {
+      "original": "RCCM: CI-ABG2023M0103 | CODE CDI: 911",
+      "translated": "RCCM: CI-ABG2023M0103 | CDI CODE: 911",
+      "tag": "p"
+    },
+    {
+      "original": "Régime Juridique: SARL",
+      "translated": "Legal Regime: SARL",
+      "tag": "p"
+    },
+    {
+      "original": "© 2025 Gontougo Mining Service SARL. Tous droits réservés.",
+      "translated": "© 2025 Gontougo Mining Service SARL. All rights reserved.",
+      "tag": "p"
+    }
+  ],
+  "http://localhost:5173/light-vehicles-rental": [
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Services",
+      "translated": "Services",
+      "tag": "button"
+    },
+    {
+      "original": "Location de Véhicules Légers",
+      "translated": "Light Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Location de Véhicules Lourds",
+      "translated": "Heavy Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Formation en conduite d'engins lourds",
+      "translated": "Heavy equipment driving training",
+      "tag": "a"
+    },
+    {
+      "original": "Formation DEWATERING / NATATION",
+      "translated": "DEWATERING / SWIMMING training",
+      "tag": "a"
+    },
+    {
+      "original": "Plomberie DEWATERING & Tuyauterie & Polyfusion",
+      "translated": "Plumbing DEWATERING & Piping & Polyfusion",
+      "tag": "a"
+    },
+    {
+      "original": "Menuiserie",
+      "translated": "Carpentry",
+      "tag": "a"
+    },
+    {
+      "original": "Construction de Charpente Métallique",
+      "translated": "Metal Frame Construction",
+      "tag": "a"
+    },
+    {
+      "original": "Forage et Travaux spécialisés",
+      "translated": "Drilling and Specialized Works",
+      "tag": "a"
+    },
+    {
+      "original": "Froid et Climatisation",
+      "translated": "Cold and Air Conditioning",
+      "tag": "a"
+    },
+    {
+      "original": "Commerce",
+      "translated": "Trade",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "🇬🇧EN",
+      "translated": "🇬🇧EN",
+      "tag": "button"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Location de Véhicules",
+      "translated": "Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Engins Lourds",
+      "translated": "Heavy machinery",
+      "tag": "a"
+    },
+    {
+      "original": "Plomberie & Polyfusion",
+      "translated": "Plumbing & Polyfusion",
+      "tag": "a"
+    },
+    {
+      "original": "Charpente Métallique",
+      "translated": "Metal Frame",
+      "tag": "a"
+    },
+    {
+      "original": "Commerce",
+      "translated": "Trade",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "Location de Véhicule Léger & Auxiliaire",
+      "translated": "Light & Auxiliary Vehicle Rental",
+      "tag": "h1"
+    },
+    {
+      "original": "Une flotte diversifiée pour répondre à tous vos besoins de transport et de logistique",
+      "translated": "A diversified fleet to meet all your transport and logistics needs",
+      "tag": "p"
+    },
+    {
+      "original": "TOYOTA COASTER",
+      "translated": "TOYOTA COASTER",
+      "tag": "h3"
+    },
+    {
+      "original": "TYPE:",
+      "translated": "KIND:",
+      "tag": "span"
+    },
+    {
+      "original": "2x4",
+      "translated": "2x4",
+      "tag": "span"
+    },
+    {
+      "original": "CAPACITÉ:",
+      "translated": "ABILITY:",
+      "tag": "span"
+    },
+    {
+      "original": "20 places",
+      "translated": "20 places",
+      "tag": "span"
+    },
+    {
+      "original": "CABINE:",
+      "translated": "CABIN:",
+      "tag": "span"
+    },
+    {
+      "original": "Climatisée",
+      "translated": "Air-conditioned",
+      "tag": "span"
+    },
+    {
+      "original": "ETAT:",
+      "translated": "STATE:",
+      "tag": "span"
+    },
+    {
+      "original": "Neuf / occasion",
+      "translated": "New / used",
+      "tag": "span"
+    },
+    {
+      "original": "Demander un Devis",
+      "translated": "Request a Quote",
+      "tag": "button"
+    },
+    {
+      "original": "GENIE S60",
+      "translated": "GENIE S60",
+      "tag": "h3"
+    },
+    {
+      "original": "HAUTEUR DE TRAVAIL:",
+      "translated": "WORKING HEIGHT:",
+      "tag": "span"
+    },
+    {
+      "original": "20.30m",
+      "translated": "20.30m",
+      "tag": "span"
+    },
+    {
+      "original": "ROTATION DE LA MACHINE:",
+      "translated": "MACHINE ROTATION:",
+      "tag": "span"
+    },
+    {
+      "original": "360°",
+      "translated": "360°",
+      "tag": "span"
+    },
+    {
+      "original": "CAPACITÉ DE LEVAGE:",
+      "translated": "LIFTING CAPACITY:",
+      "tag": "span"
+    },
+    {
+      "original": "227kg",
+      "translated": "227kg",
+      "tag": "span"
+    },
+    {
+      "original": "ROTATION DE LA PLATEFORME:",
+      "translated": "PLATFORM ROTATION:",
+      "tag": "span"
+    },
+    {
+      "original": "160°",
+      "translated": "160°",
+      "tag": "span"
+    },
+    {
+      "original": "Demander un Devis",
+      "translated": "Request a Quote",
+      "tag": "button"
+    },
+    {
+      "original": "TOYOTA LAND CRUISER",
+      "translated": "TOYOTA LAND CRUISER",
+      "tag": "h3"
+    },
+    {
+      "original": "TYPE:",
+      "translated": "KIND:",
+      "tag": "span"
+    },
+    {
+      "original": "4x4",
+      "translated": "4x4",
+      "tag": "span"
+    },
+    {
+      "original": "CABINE:",
+      "translated": "CABIN:",
+      "tag": "span"
+    },
+    {
+      "original": "Climatisée",
+      "translated": "Air-conditioned",
+      "tag": "span"
+    },
+    {
+      "original": "CAPACITÉ:",
+      "translated": "ABILITY:",
+      "tag": "span"
+    },
+    {
+      "original": "5 places",
+      "translated": "5 places",
+      "tag": "span"
+    },
+    {
+      "original": "ETAT:",
+      "translated": "STATE:",
+      "tag": "span"
+    },
+    {
+      "original": "Neuf / occasion",
+      "translated": "New / used",
+      "tag": "span"
+    },
+    {
+      "original": "Demander un Devis",
+      "translated": "Request a Quote",
+      "tag": "button"
+    },
+    {
+      "original": "SINOTRUCK HOWO",
+      "translated": "SINOTRUCK HOWO",
+      "tag": "h3"
+    },
+    {
+      "original": "TYPE:",
+      "translated": "KIND:",
+      "tag": "span"
+    },
+    {
+      "original": "6x4",
+      "translated": "6x4",
+      "tag": "span"
+    },
+    {
+      "original": "CABINE:",
+      "translated": "CABIN:",
+      "tag": "span"
+    },
+    {
+      "original": "Climatisée",
+      "translated": "Air-conditioned",
+      "tag": "span"
+    },
+    {
+      "original": "CAPACITÉ:",
+      "translated": "ABILITY:",
+      "tag": "span"
+    },
+    {
+      "original": "20 mètre cube",
+      "translated": "20 cubic meter",
+      "tag": "span"
+    },
+    {
+      "original": "ETAT:",
+      "translated": "STATE:",
+      "tag": "span"
+    },
+    {
+      "original": "Neuf / occasion",
+      "translated": "New / used",
+      "tag": "span"
+    },
+    {
+      "original": "Demander un Devis",
+      "translated": "Request a Quote",
+      "tag": "button"
+    },
+    {
+      "original": "Avantages de Notre Service de Location",
+      "translated": "Benefits of Our Rental Service",
+      "tag": "h2"
+    },
+    {
+      "original": "Véhicules Entretenus",
+      "translated": "Vehicles Maintained",
+      "tag": "h3"
+    },
+    {
+      "original": "Tous nos véhicules sont régulièrement entretenus et contrôlés pour garantir votre sécurité.",
+      "translated": "All our vehicles are regularly maintained and checked to guarantee your safety.",
+      "tag": "p"
+    },
+    {
+      "original": "Disponibilité 24/7",
+      "translated": "Availability 24/7",
+      "tag": "h3"
+    },
+    {
+      "original": "Service client disponible à tout moment pour répondre à vos besoins urgents.",
+      "translated": "Customer service available at any time to meet your urgent needs.",
+      "tag": "p"
+    },
+    {
+      "original": "Tarifs Flexibles",
+      "translated": "Flexible Rates",
+      "tag": "h3"
+    },
+    {
+      "original": "Options de location courte et longue durée avec des tarifs compétitifs adaptés à votre budget.",
+      "translated": "Short and long term rental options with competitive rates to suit your budget.",
+      "tag": "p"
+    },
+    {
+      "original": "Besoin d'un Véhicule pour Votre Projet?",
+      "translated": "Need a Vehicle for Your Project?",
+      "tag": "h2"
+    },
+    {
+      "original": "Contactez-nous dès maintenant pour vérifier la disponibilité et obtenir un devis personnalisé.",
+      "translated": "Contact us now to check availability and get a personalized quote.",
+      "tag": "p"
+    },
+    {
+      "original": "Contactez-nous Maintenant",
+      "translated": "Contact Us Now",
+      "tag": "a"
+    },
+    {
+      "original": "SARL",
+      "translated": "SARL",
+      "tag": "span"
+    },
+    {
+      "original": "Gontougo Mining Service",
+      "translated": "Gontougo Mining Service",
+      "tag": "p"
+    },
+    {
+      "original": "La sécurité, la clé de la production",
+      "translated": "Safety, the key to production",
+      "tag": "p"
+    },
+    {
+      "original": "Liens Rapides",
+      "translated": "Quick Links",
+      "tag": "h3"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "li"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "li"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "li"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "li"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "h3"
+    },
+    {
+      "original": "• Location d'engins miniers",
+      "translated": "• Mining equipment rental",
+      "tag": "li"
+    },
+    {
+      "original": "• Tuyauterie plastique et métallique",
+      "translated": "• Plastic and metal piping",
+      "tag": "li"
+    },
+    {
+      "original": "• Transport et logistique",
+      "translated": "• Transport and logistics",
+      "tag": "li"
+    },
+    {
+      "original": "• Dewatering",
+      "translated": "• Dewatering",
+      "tag": "li"
+    },
+    {
+      "original": "• Charpente métallique",
+      "translated": "• Metal frame",
+      "tag": "li"
+    },
+    {
+      "original": "• Commerce général",
+      "translated": "• General trade",
+      "tag": "li"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "h3"
+    },
+    {
+      "original": "Tanda, Quartier RésidentielEn face du Lycée Moderne",
+      "translated": "Tanda, Residential Area Opposite the Lycée Moderne",
+      "tag": "li"
+    },
+    {
+      "original": "Tanda, Quartier RésidentielEn face du Lycée Moderne",
+      "translated": "Tanda, Residential Area Opposite the Lycée Moderne",
+      "tag": "span"
+    },
+    {
+      "original": "(+225) 0788884940",
+      "translated": "(+225) 0788884940",
+      "tag": "li"
+    },
+    {
+      "original": "(+225) 0788884940",
+      "translated": "(+225) 0788884940",
+      "tag": "a"
+    },
+    {
+      "original": "contact@gms-sarl.com",
+      "translated": "contact@gms-sarl.com",
+      "tag": "li"
+    },
+    {
+      "original": "contact@gms-sarl.com",
+      "translated": "contact@gms-sarl.com",
+      "tag": "a"
+    },
+    {
+      "original": "RCCM: CI-ABG2023M0103 | CODE CDI: 911",
+      "translated": "RCCM: CI-ABG2023M0103 | CDI CODE: 911",
+      "tag": "p"
+    },
+    {
+      "original": "Régime Juridique: SARL",
+      "translated": "Legal Regime: SARL",
+      "tag": "p"
+    },
+    {
+      "original": "© 2025 Gontougo Mining Service SARL. Tous droits réservés.",
+      "translated": "© 2025 Gontougo Mining Service SARL. All rights reserved.",
+      "tag": "p"
+    }
+  ],
+  "http://localhost:5173/heavy-vehicle-rental": [
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Services",
+      "translated": "Services",
+      "tag": "button"
+    },
+    {
+      "original": "Location de Véhicules Légers",
+      "translated": "Light Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Location de Véhicules Lourds",
+      "translated": "Heavy Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Formation en conduite d'engins lourds",
+      "translated": "Heavy equipment driving training",
+      "tag": "a"
+    },
+    {
+      "original": "Formation DEWATERING / NATATION",
+      "translated": "DEWATERING / SWIMMING training",
+      "tag": "a"
+    },
+    {
+      "original": "Plomberie DEWATERING & Tuyauterie & Polyfusion",
+      "translated": "Plumbing DEWATERING & Piping & Polyfusion",
+      "tag": "a"
+    },
+    {
+      "original": "Menuiserie",
+      "translated": "Carpentry",
+      "tag": "a"
+    },
+    {
+      "original": "Construction de Charpente Métallique",
+      "translated": "Metal Frame Construction",
+      "tag": "a"
+    },
+    {
+      "original": "Forage et Travaux spécialisés",
+      "translated": "Drilling and Specialized Works",
+      "tag": "a"
+    },
+    {
+      "original": "Froid et Climatisation",
+      "translated": "Cold and Air Conditioning",
+      "tag": "a"
+    },
+    {
+      "original": "Commerce",
+      "translated": "Trade",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "🇬🇧EN",
+      "translated": "🇬🇧EN",
+      "tag": "button"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Location de Véhicules",
+      "translated": "Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Engins Lourds",
+      "translated": "Heavy machinery",
+      "tag": "a"
+    },
+    {
+      "original": "Plomberie & Polyfusion",
+      "translated": "Plumbing & Polyfusion",
+      "tag": "a"
+    },
+    {
+      "original": "Charpente Métallique",
+      "translated": "Metal Frame",
+      "tag": "a"
+    },
+    {
+      "original": "Commerce",
+      "translated": "Trade",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "Location de Véhicule Lourd",
+      "translated": "Heavy Vehicle Rental",
+      "tag": "h1"
+    },
+    {
+      "original": "Engins lourds de qualité pour vos projets miniers et de construction",
+      "translated": "Quality heavy machinery for your mining and construction projects",
+      "tag": "p"
+    },
+    {
+      "original": "COMPACTEUR CAT",
+      "translated": "CAT COMPACTOR",
+      "tag": "h3"
+    },
+    {
+      "original": "Moteur Puissance brute:",
+      "translated": "Engine Gross Power:",
+      "tag": "span"
+    },
+    {
+      "original": "83 KW",
+      "translated": "83 kW",
+      "tag": "span"
+    },
+    {
+      "original": "Largeur de compactage:",
+      "translated": "Compaction width:",
+      "tag": "span"
+    },
+    {
+      "original": "2134 mm",
+      "translated": "2134mm",
+      "tag": "span"
+    },
+    {
+      "original": "Demander un Devis",
+      "translated": "Request a Quote",
+      "tag": "button"
+    },
+    {
+      "original": "TRACTOPELLE CAT",
+      "translated": "CAT BACKHOE LOADER",
+      "tag": "h3"
+    },
+    {
+      "original": "Dimensions standards:",
+      "translated": "Standard dimensions:",
+      "tag": "span"
+    },
+    {
+      "original": "555 x 300 x 250 cm",
+      "translated": "555 x 300 x 250 cm",
+      "tag": "span"
+    },
+    {
+      "original": "Avec godet standard:",
+      "translated": "With standard bucket:",
+      "tag": "span"
+    },
+    {
+      "original": "Disponible",
+      "translated": "Available",
+      "tag": "span"
+    },
+    {
+      "original": "Demander un Devis",
+      "translated": "Request a Quote",
+      "tag": "button"
+    },
+    {
+      "original": "PELLE HYDRAULIQUE CAT",
+      "translated": "CAT HYDRAULIC EXCAVATOR",
+      "tag": "h3"
+    },
+    {
+      "original": "Puissance du moteur:",
+      "translated": "Engine power:",
+      "tag": "span"
+    },
+    {
+      "original": "200 kW / 270 ch",
+      "translated": "200 kW / 270 hp",
+      "tag": "span"
+    },
+    {
+      "original": "Capacité du godet:",
+      "translated": "Bucket Capacity:",
+      "tag": "span"
+    },
+    {
+      "original": "À partir de 0,8 m3",
+      "translated": "From 0.8 m3",
+      "tag": "span"
+    },
+    {
+      "original": "Demander un Devis",
+      "translated": "Request a Quote",
+      "tag": "button"
+    },
+    {
+      "original": "CHARGEUSE CAT",
+      "translated": "CAT LOADER",
+      "tag": "h3"
+    },
+    {
+      "original": "Capacité du godet:",
+      "translated": "Bucket Capacity:",
+      "tag": "span"
+    },
+    {
+      "original": "À partir de 4,4 m³",
+      "translated": "From 4.4 m³",
+      "tag": "span"
+    },
+    {
+      "original": "Poid opérationnel:",
+      "translated": "Operating weight:",
+      "tag": "span"
+    },
+    {
+      "original": "23,22 t",
+      "translated": "23.22 t",
+      "tag": "span"
+    },
+    {
+      "original": "Puissance du moteur:",
+      "translated": "Engine power:",
+      "tag": "span"
+    },
+    {
+      "original": "232 kW",
+      "translated": "232kW",
+      "tag": "span"
+    },
+    {
+      "original": "Demander un Devis",
+      "translated": "Request a Quote",
+      "tag": "button"
+    },
+    {
+      "original": "MANITOU",
+      "translated": "MANITOU",
+      "tag": "h3"
+    },
+    {
+      "original": "Flèche jusqu'à:",
+      "translated": "Arrow to:",
+      "tag": "span"
+    },
+    {
+      "original": "13 m",
+      "translated": "13m",
+      "tag": "span"
+    },
+    {
+      "original": "Capacité de levage:",
+      "translated": "Lifting capacity:",
+      "tag": "span"
+    },
+    {
+      "original": "3,5 t",
+      "translated": "3.5t",
+      "tag": "span"
+    },
+    {
+      "original": "Demander un Devis",
+      "translated": "Request a Quote",
+      "tag": "button"
+    },
+    {
+      "original": "BULLDOZER CAT",
+      "translated": "BULLDOZER CAT",
+      "tag": "h3"
+    },
+    {
+      "original": "Puissance du moteur:",
+      "translated": "Engine power:",
+      "tag": "span"
+    },
+    {
+      "original": "187 kW",
+      "translated": "187kW",
+      "tag": "span"
+    },
+    {
+      "original": "Cylindrée du moteur:",
+      "translated": "Engine displacement:",
+      "tag": "span"
+    },
+    {
+      "original": "9,3 l",
+      "translated": "9.3 liters",
+      "tag": "span"
+    },
+    {
+      "original": "Demander un Devis",
+      "translated": "Request a Quote",
+      "tag": "button"
+    },
+    {
+      "original": "Pourquoi Louer Nos Engins Lourds?",
+      "translated": "Why Rent Our Heavy Equipment?",
+      "tag": "h2"
+    },
+    {
+      "original": "Équipement CAT",
+      "translated": "CAT Equipment",
+      "tag": "h3"
+    },
+    {
+      "original": "Machines Caterpillar de qualité supérieure",
+      "translated": "Top quality Caterpillar machines",
+      "tag": "p"
+    },
+    {
+      "original": "Maintenance",
+      "translated": "Maintenance",
+      "tag": "h3"
+    },
+    {
+      "original": "Entretien régulier et contrôles rigoureux",
+      "translated": "Regular maintenance and rigorous checks",
+      "tag": "p"
+    },
+    {
+      "original": "Opérateurs",
+      "translated": "Operators",
+      "tag": "h3"
+    },
+    {
+      "original": "Personnel qualifié disponible sur demande",
+      "translated": "Qualified personnel available on request",
+      "tag": "p"
+    },
+    {
+      "original": "Livraison Rapide",
+      "translated": "Fast Delivery",
+      "tag": "h3"
+    },
+    {
+      "original": "Transport et installation sur site",
+      "translated": "Transportation and installation on site",
+      "tag": "p"
+    },
+    {
+      "original": "Applications",
+      "translated": "Applications",
+      "tag": "h2"
+    },
+    {
+      "original": "Mines",
+      "translated": "Mining",
+      "tag": "h3"
+    },
+    {
+      "original": "Extraction minière",
+      "translated": "Mining",
+      "tag": "li"
+    },
+    {
+      "original": "Terrassement",
+      "translated": "Earthworks",
+      "tag": "li"
+    },
+    {
+      "original": "Transport de matériaux",
+      "translated": "Transportation of materials",
+      "tag": "li"
+    },
+    {
+      "original": "Nivellement de terrain",
+      "translated": "Land leveling",
+      "tag": "li"
+    },
+    {
+      "original": "Construction",
+      "translated": "Construction",
+      "tag": "h3"
+    },
+    {
+      "original": "Travaux de terrassement",
+      "translated": "Earthworks",
+      "tag": "li"
+    },
+    {
+      "original": "Fondations",
+      "translated": "Foundations",
+      "tag": "li"
+    },
+    {
+      "original": "Démolition",
+      "translated": "Demolition",
+      "tag": "li"
+    },
+    {
+      "original": "Travaux routiers",
+      "translated": "Road works",
+      "tag": "li"
+    },
+    {
+      "original": "Infrastructure",
+      "translated": "Infrastructure",
+      "tag": "h3"
+    },
+    {
+      "original": "Routes et autoroutes",
+      "translated": "Roads and highways",
+      "tag": "li"
+    },
+    {
+      "original": "Barrages",
+      "translated": "Dams",
+      "tag": "li"
+    },
+    {
+      "original": "Aéroports",
+      "translated": "Airports",
+      "tag": "li"
+    },
+    {
+      "original": "Grands projets",
+      "translated": "Major projects",
+      "tag": "li"
+    },
+    {
+      "original": "Prêt à Louer Nos Engins Lourds?",
+      "translated": "Ready to Rent Our Heavy Equipment?",
+      "tag": "h2"
+    },
+    {
+      "original": "Contactez nos experts pour discuter de vos besoins spécifiques et obtenir un devis détaillé.",
+      "translated": "Contact our experts to discuss your specific needs and obtain a detailed quote.",
+      "tag": "p"
+    },
+    {
+      "original": "Obtenir un Devis",
+      "translated": "Get a Quote",
+      "tag": "a"
+    },
+    {
+      "original": "SARL",
+      "translated": "SARL",
+      "tag": "span"
+    },
+    {
+      "original": "Gontougo Mining Service",
+      "translated": "Gontougo Mining Service",
+      "tag": "p"
+    },
+    {
+      "original": "La sécurité, la clé de la production",
+      "translated": "Safety, the key to production",
+      "tag": "p"
+    },
+    {
+      "original": "Liens Rapides",
+      "translated": "Quick Links",
+      "tag": "h3"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "li"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "li"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "li"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "li"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "h3"
+    },
+    {
+      "original": "• Location d'engins miniers",
+      "translated": "• Mining equipment rental",
+      "tag": "li"
+    },
+    {
+      "original": "• Tuyauterie plastique et métallique",
+      "translated": "• Plastic and metal piping",
+      "tag": "li"
+    },
+    {
+      "original": "• Transport et logistique",
+      "translated": "• Transport and logistics",
+      "tag": "li"
+    },
+    {
+      "original": "• Dewatering",
+      "translated": "• Dewatering",
+      "tag": "li"
+    },
+    {
+      "original": "• Charpente métallique",
+      "translated": "• Metal frame",
+      "tag": "li"
+    },
+    {
+      "original": "• Commerce général",
+      "translated": "• General trade",
+      "tag": "li"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "h3"
+    },
+    {
+      "original": "Tanda, Quartier RésidentielEn face du Lycée Moderne",
+      "translated": "Tanda, Residential Area Opposite the Lycée Moderne",
+      "tag": "li"
+    },
+    {
+      "original": "Tanda, Quartier RésidentielEn face du Lycée Moderne",
+      "translated": "Tanda, Residential Area Opposite the Lycée Moderne",
+      "tag": "span"
+    },
+    {
+      "original": "(+225) 0788884940",
+      "translated": "(+225) 0788884940",
+      "tag": "li"
+    },
+    {
+      "original": "(+225) 0788884940",
+      "translated": "(+225) 0788884940",
+      "tag": "a"
+    },
+    {
+      "original": "contact@gms-sarl.com",
+      "translated": "contact@gms-sarl.com",
+      "tag": "li"
+    },
+    {
+      "original": "contact@gms-sarl.com",
+      "translated": "contact@gms-sarl.com",
+      "tag": "a"
+    },
+    {
+      "original": "RCCM: CI-ABG2023M0103 | CODE CDI: 911",
+      "translated": "RCCM: CI-ABG2023M0103 | CDI CODE: 911",
+      "tag": "p"
+    },
+    {
+      "original": "Régime Juridique: SARL",
+      "translated": "Legal Regime: SARL",
+      "tag": "p"
+    },
+    {
+      "original": "© 2025 Gontougo Mining Service SARL. Tous droits réservés.",
+      "translated": "© 2025 Gontougo Mining Service SARL. All rights reserved.",
+      "tag": "p"
+    }
+  ],
+  "http://localhost:5173/heavy-vehicle-training": [
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Location de Véhicules Légers",
+      "translated": "Light Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Location de Véhicules Lourds",
+      "translated": "Heavy Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Formation en conduite d'engins lourds",
+      "translated": "Heavy equipment driving training",
+      "tag": "a"
+    },
+    {
+      "original": "Formation DEWATERING / NATATION",
+      "translated": "DEWATERING / SWIMMING training",
+      "tag": "a"
+    },
+    {
+      "original": "Plomberie DEWATERING & Tuyauterie & Polyfusion",
+      "translated": "Plumbing DEWATERING & Piping & Polyfusion",
+      "tag": "a"
+    },
+    {
+      "original": "Menuiserie",
+      "translated": "Carpentry",
+      "tag": "a"
+    },
+    {
+      "original": "Construction de Charpente Métallique",
+      "translated": "Metal Frame Construction",
+      "tag": "a"
+    },
+    {
+      "original": "Forage et Travaux spécialisés",
+      "translated": "Drilling and Specialized Works",
+      "tag": "a"
+    },
+    {
+      "original": "Froid et Climatisation",
+      "translated": "Cold and Air Conditioning",
+      "tag": "a"
+    },
+    {
+      "original": "Commerce",
+      "translated": "Trade",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "🇬🇧EN",
+      "translated": "🇬🇧EN",
+      "tag": "button"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Location de Véhicules",
+      "translated": "Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Engins Lourds",
+      "translated": "Heavy machinery",
+      "tag": "a"
+    },
+    {
+      "original": "Plomberie & Polyfusion",
+      "translated": "Plumbing & Polyfusion",
+      "tag": "a"
+    },
+    {
+      "original": "Charpente Métallique",
+      "translated": "Metal Frame",
+      "tag": "a"
+    },
+    {
+      "original": "Commerce",
+      "translated": "Trade",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "Formation Conduite d'Engins Lourds",
+      "translated": "Heavy Equipment Driving Training",
+      "tag": "h1"
+    },
+    {
+      "original": "Formation professionnelle pour la conduite d'engins de chantier et équipements lourds",
+      "translated": "Professional training for driving construction machinery and heavy equipment",
+      "tag": "p"
+    },
+    {
+      "original": "Devenez Conducteur d'Engins Certifié",
+      "translated": "Become a Certified Machine Operator",
+      "tag": "h2"
+    },
+    {
+      "original": "GMS SARL propose des formations complètes pour la conduite d'engins lourds. Nos formateurs expérimentés vous accompagnent dans l'apprentissage pratique et théorique pour maîtriser les différents types d'équipements utilisés sur les chantiers miniers et de construction.",
+      "translated": "GMS SARL offers comprehensive training for driving heavy machinery. Our experienced trainers support you in practical and theoretical learning to master the different types of equipment used on mining and construction sites.",
+      "tag": "p"
+    },
+    {
+      "original": "Nos Formations par Engin",
+      "translated": "Our Training by Machine",
+      "tag": "h2"
+    },
+    {
+      "original": "Image Formation Compacteur",
+      "translated": "Image Compactor Training",
+      "tag": "p"
+    },
+    {
+      "original": "COMPACTEUR CAT",
+      "translated": "CAT COMPACTOR",
+      "tag": "h3"
+    },
+    {
+      "original": "Formation complète sur la conduite du compacteur Caterpillar. Apprenez les techniques de compactage, les règles de sécurité, et la maintenance de base. Formation pratique sur chantier réel avec accompagnement personnalisé.",
+      "translated": "Complete training on operating the Caterpillar compactor. Learn compaction techniques, safety rules, and basic maintenance. Practical training on real construction site with personalized support.",
+      "tag": "p"
+    },
+    {
+      "original": "Durée: 2 semaines",
+      "translated": "Duration: 2 weeks",
+      "tag": "li"
+    },
+    {
+      "original": "Pratique sur chantier réel",
+      "translated": "Practical on real construction site",
+      "tag": "li"
+    },
+    {
+      "original": "Certificat de formation",
+      "translated": "Training certificate",
+      "tag": "li"
+    },
+    {
+      "original": "Image Formation Tractopelle",
+      "translated": "Image Backhoe Loader Training",
+      "tag": "p"
+    },
+    {
+      "original": "TRACTOPELLE CAT",
+      "translated": "CAT BACKHOE LOADER",
+      "tag": "h3"
+    },
+    {
+      "original": "Maîtrisez la conduite de la tractopelle Caterpillar, un engin polyvalent essentiel sur tous les chantiers. Formation théorique et pratique incluant le chargement, l'excavation, et les manœuvres en espace restreint.",
+      "translated": "Master the operation of the Caterpillar backhoe loader, a versatile machine essential on all construction sites. Theoretical and practical training including loading, excavation, and maneuvering in restricted spaces.",
+      "tag": "p"
+    },
+    {
+      "original": "Durée: 3 semaines",
+      "translated": "Duration: 3 weeks",
+      "tag": "li"
+    },
+    {
+      "original": "Double fonction pelle et chargeur",
+      "translated": "Dual shovel and loader function",
+      "tag": "li"
+    },
+    {
+      "original": "Exercices pratiques variés",
+      "translated": "Various practical exercises",
+      "tag": "li"
+    },
+    {
+      "original": "Image Formation Pelle Hydraulique",
+      "translated": "Image Hydraulic Excavator Training",
+      "tag": "p"
+    },
+    {
+      "original": "PELLE HYDRAULIQUE CAT",
+      "translated": "CAT HYDRAULIC EXCAVATOR",
+      "tag": "h3"
+    },
+    {
+      "original": "Formation spécialisée pour la conduite de pelle hydraulique. Techniques d'excavation, terrassement, chargement de camions, et manipulation précise. Cours adaptés aux débutants et conducteurs expérimentés souhaitant se perfectionner.",
+      "translated": "Specialized training for operating a hydraulic excavator. Excavation techniques, earthmoving, truck loading, and precise handling. Courses suitable for beginners and experienced drivers wishing to improve.",
+      "tag": "p"
+    },
+    {
+      "original": "Durée: 3 semaines",
+      "translated": "Duration: 3 weeks",
+      "tag": "li"
+    },
+    {
+      "original": "Techniques d'excavation avancées",
+      "translated": "Advanced Excavation Techniques",
+      "tag": "li"
+    },
+    {
+      "original": "Formation sur différents modèles",
+      "translated": "Training on different models",
+      "tag": "li"
+    },
+    {
+      "original": "Image Formation Chargeuse",
+      "translated": "Image Loader Training",
+      "tag": "p"
+    },
+    {
+      "original": "CHARGEUSE CAT",
+      "translated": "CAT LOADER",
+      "tag": "h3"
+    },
+    {
+      "original": "Apprenez à conduire une chargeuse sur pneus Caterpillar. Formation couvrant le chargement de matériaux, le transport, le déchargement, et les opérations de nivellement. Mise en pratique intensive avec différents types de matériaux.",
+      "translated": "Learn how to drive a Caterpillar wheel loader. Training covering material loading, transportation, unloading, and grading operations. Intensive practice with different types of materials.",
+      "tag": "p"
+    },
+    {
+      "original": "Durée: 2 semaines",
+      "translated": "Duration: 2 weeks",
+      "tag": "li"
+    },
+    {
+      "original": "Chargement et transport de matériaux",
+      "translated": "Loading and transporting materials",
+      "tag": "li"
+    },
+    {
+      "original": "Manœuvres de précision",
+      "translated": "Precision maneuvers",
+      "tag": "li"
+    },
+    {
+      "original": "Image Formation Manitou",
+      "translated": "Manitou Training Image",
+      "tag": "p"
+    },
+    {
+      "original": "MANITOU",
+      "translated": "MANITOU",
+      "tag": "h3"
+    },
+    {
+      "original": "Formation sur chariot télescopique Manitou. Manipulation de charges en hauteur, stabilité de l'engin, et respect des consignes de sécurité. Formation adaptée aux besoins des chantiers de construction et sites industriels.",
+      "translated": "Training on Manitou telescopic forklift. Handling of loads at height, stability of the machine, and compliance with safety instructions. Training adapted to the needs of construction sites and industrial sites.",
+      "tag": "p"
+    },
+    {
+      "original": "Durée: 2 semaines",
+      "translated": "Duration: 2 weeks",
+      "tag": "li"
+    },
+    {
+      "original": "Manipulation en hauteur",
+      "translated": "Handling at height",
+      "tag": "li"
+    },
+    {
+      "original": "Règles de sécurité renforcées",
+      "translated": "Reinforced security rules",
+      "tag": "li"
+    },
+    {
+      "original": "Image Formation Bulldozer",
+      "translated": "Image Bulldozer Training",
+      "tag": "p"
+    },
+    {
+      "original": "BULLDOZER CAT",
+      "translated": "BULLDOZER CAT",
+      "tag": "h3"
+    },
+    {
+      "original": "Formation complète sur bulldozer Caterpillar. Techniques de terrassement, nivellement, poussage de matériaux, et travaux de grande envergure. Formation pratique sur terrain varié pour développer votre expertise.",
+      "translated": "Complete training on a Caterpillar bulldozer. Earthmoving techniques, leveling, pushing materials, and large-scale works. Practical training in varied terrain to develop your expertise.",
+      "tag": "p"
+    },
+    {
+      "original": "Durée: 3 semaines",
+      "translated": "Duration: 3 weeks",
+      "tag": "li"
+    },
+    {
+      "original": "Terrassement et nivellement",
+      "translated": "Earthworks and leveling",
+      "tag": "li"
+    },
+    {
+      "original": "Travaux de grande ampleur",
+      "translated": "Large-scale works",
+      "tag": "li"
+    },
+    {
+      "original": "Prêt à Commencer Votre Formation?",
+      "translated": "Ready to Start Your Training?",
+      "tag": "h2"
+    },
+    {
+      "original": "Inscrivez-vous dès maintenant et lancez votre carrière de conducteur d'engins professionnels",
+      "translated": "Register now and launch your career as a professional machine operator",
+      "tag": "p"
+    },
+    {
+      "original": "Nous Contacter",
+      "translated": "Contact us",
+      "tag": "a"
+    },
+    {
+      "original": "SARL",
+      "translated": "SARL",
+      "tag": "span"
+    },
+    {
+      "original": "Gontougo Mining Service",
+      "translated": "Gontougo Mining Service",
+      "tag": "p"
+    },
+    {
+      "original": "La sécurité, la clé de la production",
+      "translated": "Safety, the key to production",
+      "tag": "p"
+    },
+    {
+      "original": "Liens Rapides",
+      "translated": "Quick Links",
+      "tag": "h3"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "li"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "li"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "li"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "li"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "h3"
+    },
+    {
+      "original": "• Location d'engins miniers",
+      "translated": "• Mining equipment rental",
+      "tag": "li"
+    },
+    {
+      "original": "• Tuyauterie plastique et métallique",
+      "translated": "• Plastic and metal piping",
+      "tag": "li"
+    },
+    {
+      "original": "• Transport et logistique",
+      "translated": "• Transport and logistics",
+      "tag": "li"
+    },
+    {
+      "original": "• Dewatering",
+      "translated": "• Dewatering",
+      "tag": "li"
+    },
+    {
+      "original": "• Charpente métallique",
+      "translated": "• Metal frame",
+      "tag": "li"
+    },
+    {
+      "original": "• Commerce général",
+      "translated": "• General trade",
+      "tag": "li"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "h3"
+    },
+    {
+      "original": "Tanda, Quartier RésidentielEn face du Lycée Moderne",
+      "translated": "Tanda, Residential Area Opposite the Lycée Moderne",
+      "tag": "li"
+    },
+    {
+      "original": "Tanda, Quartier RésidentielEn face du Lycée Moderne",
+      "translated": "Tanda, Residential Area Opposite the Lycée Moderne",
+      "tag": "span"
+    },
+    {
+      "original": "(+225) 0788884940",
+      "translated": "(+225) 0788884940",
+      "tag": "li"
+    },
+    {
+      "original": "(+225) 0788884940",
+      "translated": "(+225) 0788884940",
+      "tag": "a"
+    },
+    {
+      "original": "contact@gms-sarl.com",
+      "translated": "contact@gms-sarl.com",
+      "tag": "li"
+    },
+    {
+      "original": "contact@gms-sarl.com",
+      "translated": "contact@gms-sarl.com",
+      "tag": "a"
+    },
+    {
+      "original": "RCCM: CI-ABG2023M0103 | CODE CDI: 911",
+      "translated": "RCCM: CI-ABG2023M0103 | CDI CODE: 911",
+      "tag": "p"
+    },
+    {
+      "original": "Régime Juridique: SARL",
+      "translated": "Legal Regime: SARL",
+      "tag": "p"
+    },
+    {
+      "original": "© 2025 Gontougo Mining Service SARL. Tous droits réservés.",
+      "translated": "© 2025 Gontougo Mining Service SARL. All rights reserved.",
+      "tag": "p"
+    }
+  ],
+  "http://localhost:5173/dewatering-training": [
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Services",
+      "translated": "Services",
+      "tag": "button"
+    },
+    {
+      "original": "Location de Véhicules Légers",
+      "translated": "Light Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Location de Véhicules Lourds",
+      "translated": "Heavy Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Formation en conduite d'engins lourds",
+      "translated": "Heavy equipment driving training",
+      "tag": "a"
+    },
+    {
+      "original": "Formation DEWATERING / NATATION",
+      "translated": "DEWATERING / SWIMMING training",
+      "tag": "a"
+    },
+    {
+      "original": "Plomberie DEWATERING & Tuyauterie & Polyfusion",
+      "translated": "Plumbing DEWATERING & Piping & Polyfusion",
+      "tag": "a"
+    },
+    {
+      "original": "Menuiserie",
+      "translated": "Carpentry",
+      "tag": "a"
+    },
+    {
+      "original": "Construction de Charpente Métallique",
+      "translated": "Metal Frame Construction",
+      "tag": "a"
+    },
+    {
+      "original": "Forage et Travaux spécialisés",
+      "translated": "Drilling and Specialized Works",
+      "tag": "a"
+    },
+    {
+      "original": "Froid et Climatisation",
+      "translated": "Cold and Air Conditioning",
+      "tag": "a"
+    },
+    {
+      "original": "Commerce",
+      "translated": "Trade",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "🇬🇧EN",
+      "translated": "🇬🇧EN",
+      "tag": "button"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Location de Véhicules",
+      "translated": "Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Engins Lourds",
+      "translated": "Heavy machinery",
+      "tag": "a"
+    },
+    {
+      "original": "Plomberie & Polyfusion",
+      "translated": "Plumbing & Polyfusion",
+      "tag": "a"
+    },
+    {
+      "original": "Charpente Métallique",
+      "translated": "Metal Frame",
+      "tag": "a"
+    },
+    {
+      "original": "Commerce",
+      "translated": "Trade",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "Formation DEWATERING",
+      "translated": "DEWATERING training",
+      "tag": "h1"
+    },
+    {
+      "original": "Formation professionnelle en gestion de pompage et drainage des eaux sur sites miniers et chantiers",
+      "translated": "Professional training in water pumping and drainage management on mining sites and construction sites",
+      "tag": "p"
+    },
+    {
+      "original": "Maîtrisez le Pompage et le Drainage",
+      "translated": "Master Pumping and Drainage",
+      "tag": "h2"
+    },
+    {
+      "original": "GMS SARL offre une formation complète sur les systèmes de dewatering (pompage et drainage). Apprenez à gérer efficacement l'évacuation des eaux sur les sites miniers, chantiers de construction et installations industrielles. Formation théorique et pratique avec des équipements professionnels.",
+      "translated": "GMS SARL offers complete training on dewatering systems (pumping and drainage). Learn how to effectively manage water drainage on mining sites, construction sites and industrial facilities. Theoretical and practical training with professional equipment.",
+      "tag": "p"
+    },
+    {
+      "original": "Programme de Formation",
+      "translated": "Training Program",
+      "tag": "h2"
+    },
+    {
+      "original": "Types de Pompes",
+      "translated": "Types of Pumps",
+      "tag": "p"
+    },
+    {
+      "original": "Types de Pompes et Équipements",
+      "translated": "Types of Pumps and Equipment",
+      "tag": "h3"
+    },
+    {
+      "original": "Découvrez les différents types de pompes utilisées en dewatering : pompes submersibles, pompes de surface, pompes centrifuges, et pompes à boue. Apprenez à identifier le bon équipement selon les besoins du site et les caractéristiques de l'eau à évacuer.",
+      "translated": "Discover the different types of pumps used in dewatering: submersible pumps, surface pumps, centrifugal pumps, and mud pumps. Learn to identify the right equipment according to the needs of the site and the characteristics of the water to be evacuated.",
+      "tag": "p"
+    },
+    {
+      "original": "Pompes submersibles et de surface",
+      "translated": "Submersible and surface pumps",
+      "tag": "li"
+    },
+    {
+      "original": "Caractéristiques techniques",
+      "translated": "Technical characteristics",
+      "tag": "li"
+    },
+    {
+      "original": "Sélection selon besoins du site",
+      "translated": "Selection according to site needs",
+      "tag": "li"
+    },
+    {
+      "original": "Installation des Systèmes",
+      "translated": "Installation of Systems",
+      "tag": "p"
+    },
+    {
+      "original": "Installation et Mise en Service",
+      "translated": "Installation and Commissioning",
+      "tag": "h3"
+    },
+    {
+      "original": "Formation pratique sur l'installation complète d'un système de dewatering. Positionnement des pompes, raccordement des tuyaux, installation électrique, et démarrage sécurisé. Exercices pratiques sur différents types de terrains et configurations.",
+      "translated": "Practical training on the complete installation of a dewatering system. Positioning of pumps, connection of pipes, electrical installation, and safe start-up. Practical exercises on different types of terrain and configurations.",
+      "tag": "p"
+    },
+    {
+      "original": "Positionnement optimal des pompes",
+      "translated": "Optimal pump positioning",
+      "tag": "li"
+    },
+    {
+      "original": "Raccordement et connexions",
+      "translated": "Connection and connections",
+      "tag": "li"
+    },
+    {
+      "original": "Procédures de démarrage",
+      "translated": "Start-up procedures",
+      "tag": "li"
+    },
+    {
+      "original": "Exploitation et Surveillance",
+      "translated": "Operation and Monitoring",
+      "tag": "p"
+    },
+    {
+      "original": "Exploitation et Surveillance",
+      "translated": "Operation and Monitoring",
+      "tag": "h3"
+    },
+    {
+      "original": "Apprenez à surveiller et contrôler un système de dewatering en fonctionnement. Lecture des indicateurs, ajustement des paramètres, détection des anomalies, et optimisation des performances. Formation sur la gestion quotidienne et les interventions rapides.",
+      "translated": "Learn how to monitor and control a dewatering system in operation. Reading indicators, adjusting parameters, detecting anomalies, and optimizing performance. Training on daily management and rapid interventions.",
+      "tag": "p"
+    },
+    {
+      "original": "Surveillance des paramètres",
+      "translated": "Parameter monitoring",
+      "tag": "li"
+    },
+    {
+      "original": "Détection des anomalies",
+      "translated": "Anomaly detection",
+      "tag": "li"
+    },
+    {
+      "original": "Optimisation des performances",
+      "translated": "Performance Optimization",
+      "tag": "li"
+    },
+    {
+      "original": "Maintenance",
+      "translated": "Maintenance",
+      "tag": "p"
+    },
+    {
+      "original": "Maintenance Préventive et Curative",
+      "translated": "Preventive and Curative Maintenance",
+      "tag": "h3"
+    },
+    {
+      "original": "Formation complète sur l'entretien des équipements de pompage. Maintenance préventive programmée, remplacement des pièces d'usure, nettoyage des filtres, et lubrification. Diagnostic et réparation des pannes courantes pour minimiser les temps d'arrêt.",
+      "translated": "Complete training on the maintenance of pumping equipment. Scheduled preventive maintenance, replacement of wearing parts, cleaning of filters, and lubrication. Diagnosis and repair of common faults to minimize downtime.",
+      "tag": "p"
+    },
+    {
+      "original": "Entretien régulier des pompes",
+      "translated": "Regular pump maintenance",
+      "tag": "li"
+    },
+    {
+      "original": "Diagnostic de pannes",
+      "translated": "Troubleshooting",
+      "tag": "li"
+    },
+    {
+      "original": "Réparations courantes",
+      "translated": "Common repairs",
+      "tag": "li"
+    },
+    {
+      "original": "Sécurité",
+      "translated": "Security",
+      "tag": "p"
+    },
+    {
+      "original": "Sécurité et Protection de l'Environnement",
+      "translated": "Safety and Environmental Protection",
+      "tag": "h3"
+    },
+    {
+      "original": "Formation essentielle sur les règles de sécurité lors des opérations de dewatering. Risques électriques, prévention des accidents, équipements de protection individuelle, et gestion environnementale des eaux évacuées. Conformité aux normes et réglementations.",
+      "translated": "Essential training on safety rules during dewatering operations. Electrical risks, accident prevention, personal protective equipment, and environmental management of discharged water. Compliance with standards and regulations.",
+      "tag": "p"
+    },
+    {
+      "original": "Règles de sécurité essentielles",
+      "translated": "Essential Safety Rules",
+      "tag": "li"
+    },
+    {
+      "original": "Équipements de protection",
+      "translated": "Protective equipment",
+      "tag": "li"
+    },
+    {
+      "original": "Respect de l'environnement",
+      "translated": "Respect for the environment",
+      "tag": "li"
+    },
+    {
+      "original": "Calculs",
+      "translated": "Calculations",
+      "tag": "p"
+    },
+    {
+      "original": "Calculs et Dimensionnement",
+      "translated": "Calculations and Sizing",
+      "tag": "h3"
+    },
+    {
+      "original": "Apprenez à calculer les débits nécessaires, dimensionner les pompes selon les volumes d'eau, et évaluer les besoins en puissance. Formation sur les formules essentielles, l'estimation des temps de pompage, et l'optimisation des coûts d'exploitation.",
+      "translated": "Learn to calculate the necessary flow rates, size pumps according to water volumes, and evaluate power requirements. Training on essential formulas, estimating pumping times, and optimizing operating costs.",
+      "tag": "p"
+    },
+    {
+      "original": "Calcul des débits et volumes",
+      "translated": "Calculation of flow rates and volumes",
+      "tag": "li"
+    },
+    {
+      "original": "Dimensionnement des systèmes",
+      "translated": "System sizing",
+      "tag": "li"
+    },
+    {
+      "original": "Optimisation des coûts",
+      "translated": "Cost optimization",
+      "tag": "li"
+    },
+    {
+      "original": "Inscrivez-vous à la Formation Dewatering",
+      "translated": "Register for Dewatering Training",
+      "tag": "h2"
+    },
+    {
+      "original": "Devenez expert en gestion de pompage et drainage pour sites miniers et chantiers",
+      "translated": "Become an expert in pumping and drainage management for mining sites and construction sites",
+      "tag": "p"
+    },
+    {
+      "original": "Nous Contacter",
+      "translated": "Contact us",
+      "tag": "a"
+    },
+    {
+      "original": "SARL",
+      "translated": "SARL",
+      "tag": "span"
+    },
+    {
+      "original": "Gontougo Mining Service",
+      "translated": "Gontougo Mining Service",
+      "tag": "p"
+    },
+    {
+      "original": "La sécurité, la clé de la production",
+      "translated": "Safety, the key to production",
+      "tag": "p"
+    },
+    {
+      "original": "Liens Rapides",
+      "translated": "Quick Links",
+      "tag": "h3"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "li"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "li"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "li"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "li"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "h3"
+    },
+    {
+      "original": "• Location d'engins miniers",
+      "translated": "• Mining equipment rental",
+      "tag": "li"
+    },
+    {
+      "original": "• Tuyauterie plastique et métallique",
+      "translated": "• Plastic and metal piping",
+      "tag": "li"
+    },
+    {
+      "original": "• Transport et logistique",
+      "translated": "• Transport and logistics",
+      "tag": "li"
+    },
+    {
+      "original": "• Dewatering",
+      "translated": "• Dewatering",
+      "tag": "li"
+    },
+    {
+      "original": "• Charpente métallique",
+      "translated": "• Metal frame",
+      "tag": "li"
+    },
+    {
+      "original": "• Commerce général",
+      "translated": "• General trade",
+      "tag": "li"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "h3"
+    },
+    {
+      "original": "Tanda, Quartier RésidentielEn face du Lycée Moderne",
+      "translated": "Tanda, Residential Area Opposite the Lycée Moderne",
+      "tag": "li"
+    },
+    {
+      "original": "Tanda, Quartier RésidentielEn face du Lycée Moderne",
+      "translated": "Tanda, Residential Area Opposite the Lycée Moderne",
+      "tag": "span"
+    },
+    {
+      "original": "(+225) 0788884940",
+      "translated": "(+225) 0788884940",
+      "tag": "li"
+    },
+    {
+      "original": "(+225) 0788884940",
+      "translated": "(+225) 0788884940",
+      "tag": "a"
+    },
+    {
+      "original": "contact@gms-sarl.com",
+      "translated": "contact@gms-sarl.com",
+      "tag": "li"
+    },
+    {
+      "original": "contact@gms-sarl.com",
+      "translated": "contact@gms-sarl.com",
+      "tag": "a"
+    },
+    {
+      "original": "RCCM: CI-ABG2023M0103 | CODE CDI: 911",
+      "translated": "RCCM: CI-ABG2023M0103 | CDI CODE: 911",
+      "tag": "p"
+    },
+    {
+      "original": "Régime Juridique: SARL",
+      "translated": "Legal Regime: SARL",
+      "tag": "p"
+    },
+    {
+      "original": "© 2025 Gontougo Mining Service SARL. Tous droits réservés.",
+      "translated": "© 2025 Gontougo Mining Service SARL. All rights reserved.",
+      "tag": "p"
+    }
+  ],
+  "http://localhost:5173/plumbing": [
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Services",
+      "translated": "Services",
+      "tag": "button"
+    },
+    {
+      "original": "Location de Véhicules Légers",
+      "translated": "Light Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Location de Véhicules Lourds",
+      "translated": "Heavy Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Formation en conduite d'engins lourds",
+      "translated": "Heavy equipment driving training",
+      "tag": "a"
+    },
+    {
+      "original": "Formation DEWATERING / NATATION",
+      "translated": "DEWATERING / SWIMMING training",
+      "tag": "a"
+    },
+    {
+      "original": "Plomberie DEWATERING & Tuyauterie & Polyfusion",
+      "translated": "Plumbing DEWATERING & Piping & Polyfusion",
+      "tag": "a"
+    },
+    {
+      "original": "Menuiserie",
+      "translated": "Carpentry",
+      "tag": "a"
+    },
+    {
+      "original": "Construction de Charpente Métallique",
+      "translated": "Metal Frame Construction",
+      "tag": "a"
+    },
+    {
+      "original": "Forage et Travaux spécialisés",
+      "translated": "Drilling and Specialized Works",
+      "tag": "a"
+    },
+    {
+      "original": "Froid et Climatisation",
+      "translated": "Cold and Air Conditioning",
+      "tag": "a"
+    },
+    {
+      "original": "Commerce",
+      "translated": "Trade",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "🇬🇧EN",
+      "translated": "🇬🇧EN",
+      "tag": "button"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Location de Véhicules",
+      "translated": "Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Engins Lourds",
+      "translated": "Heavy machinery",
+      "tag": "a"
+    },
+    {
+      "original": "Plomberie & Polyfusion",
+      "translated": "Plumbing & Polyfusion",
+      "tag": "a"
+    },
+    {
+      "original": "Charpente Métallique",
+      "translated": "Metal Frame",
+      "tag": "a"
+    },
+    {
+      "original": "Commerce",
+      "translated": "Trade",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "Plomberie DEWATERING , Tuyauterie Polyfusion - Liner",
+      "translated": "Plumbing DEWATERING, Polyfusion piping - Liner",
+      "tag": "h1"
+    },
+    {
+      "original": "Solutions complètes pour vos projets de tuyauterie plastique et métallique",
+      "translated": "Complete solutions for your plastic and metal piping projects",
+      "tag": "p"
+    },
+    {
+      "original": "Nos Services de Plomberie",
+      "translated": "Our Plumbing Services",
+      "tag": "h2"
+    },
+    {
+      "original": "Dewatering",
+      "translated": "Dewatering",
+      "tag": "h3"
+    },
+    {
+      "original": "Services de gestion de l'eau pour mines et projets de construction. Installation de systèmes de pompage et de canalisation pour l'évacuation efficace des eaux souterraines et pluviales.",
+      "translated": "Water management services for mines and construction projects. Installation of pumping and pipeline systems for the efficient evacuation of groundwater and rainwater.",
+      "tag": "p"
+    },
+    {
+      "original": "Tuyauterie Plastique",
+      "translated": "Plastic Piping",
+      "tag": "h3"
+    },
+    {
+      "original": "Installation et raccordement de tuyaux en PEHD (polyéthylène haute densité) pour les projets miniers, industriels et de construction. Expertise en polyfusion et électrofusion pour des joints solides et durables.",
+      "translated": "Installation and connection of HDPE (high density polyethylene) pipes for mining, industrial and construction projects. Expertise in polyfusion and electrofusion for strong and durable joints.",
+      "tag": "p"
+    },
+    {
+      "original": "Tuyauterie Métallique",
+      "translated": "Metal Piping",
+      "tag": "h3"
+    },
+    {
+      "original": "Conception, fabrication et installation de tuyauterie métallique pour applications industrielles. Travaux de soudure, assemblage et maintenance de systèmes de transport de fluides et de gaz.",
+      "translated": "Design, manufacturing and installation of metal piping for industrial applications. Welding work, assembly and maintenance of fluid and gas transport systems.",
+      "tag": "p"
+    },
+    {
+      "original": "Maintenance & Réparation",
+      "translated": "Maintenance & Repair",
+      "tag": "h3"
+    },
+    {
+      "original": "Services de maintenance préventive et corrective pour systèmes de plomberie industrielle. Intervention rapide pour réparations d'urgence et remplacement de pièces défectueuses.",
+      "translated": "Preventive and corrective maintenance services for industrial plumbing systems. Rapid intervention for emergency repairs and replacement of defective parts.",
+      "tag": "p"
+    },
+    {
+      "original": "Plomberie Électro Fusion",
+      "translated": "Electro Fusion Plumbing",
+      "tag": "h2"
+    },
+    {
+      "original": "ROBINET",
+      "translated": "FAUCET",
+      "tag": "h3"
+    },
+    {
+      "original": "STABE BRID",
+      "translated": "STABE BRID",
+      "tag": "h3"
+    },
+    {
+      "original": "MANCHON RÉDUCTEUR",
+      "translated": "REDUCING SLEEVE",
+      "tag": "h3"
+    },
+    {
+      "original": "MANCHON",
+      "translated": "SLEEVE",
+      "tag": "h3"
+    },
+    {
+      "original": "VALVE",
+      "translated": "VALVE",
+      "tag": "h3"
+    },
+    {
+      "original": "EMBOUTS",
+      "translated": "TIPS",
+      "tag": "h3"
+    },
+    {
+      "original": "LINER",
+      "translated": "LINER",
+      "tag": "h3"
+    },
+    {
+      "original": "POLYFUSION",
+      "translated": "POLYFUSION",
+      "tag": "h3"
+    },
+    {
+      "original": "Nos Réalisations",
+      "translated": "Our Achievements",
+      "tag": "h2"
+    },
+    {
+      "original": "Découvrez quelques exemples de nos projets de tuyauterie et de plomberie industrielle",
+      "translated": "Discover some examples of our industrial piping and plumbing projects",
+      "tag": "p"
+    },
+    {
+      "original": "Installation de tuyaux",
+      "translated": "Pipe installation",
+      "tag": "p"
+    },
+    {
+      "original": "Système de dewatering",
+      "translated": "Dewatering system",
+      "tag": "p"
+    },
+    {
+      "original": "Raccordement polyfusion",
+      "translated": "Polyfusion connection",
+      "tag": "p"
+    },
+    {
+      "original": "Installation industrielle",
+      "translated": "Industrial installation",
+      "tag": "p"
+    },
+    {
+      "original": "Tuyauterie métallique",
+      "translated": "Metal piping",
+      "tag": "p"
+    },
+    {
+      "original": "Réseau de distribution",
+      "translated": "Distribution network",
+      "tag": "p"
+    },
+    {
+      "original": "Station de pompage",
+      "translated": "Pumping station",
+      "tag": "p"
+    },
+    {
+      "original": "Système complet",
+      "translated": "Complete system",
+      "tag": "p"
+    },
+    {
+      "original": "Notre Expertise Technique",
+      "translated": "Our Technical Expertise",
+      "tag": "h2"
+    },
+    {
+      "original": "Polyfusion PEHD",
+      "translated": "Polyfusion HDPE",
+      "tag": "h3"
+    },
+    {
+      "original": "Soudage par polyfusion de tuyaux en polyéthylène haute densité jusqu'à 630mm de diamètre",
+      "translated": "Polyfusion welding of high density polyethylene pipes up to 630mm in diameter",
+      "tag": "p"
+    },
+    {
+      "original": "Électrofusion",
+      "translated": "Electrofusion",
+      "tag": "h3"
+    },
+    {
+      "original": "Raccordement par électrofusion pour joints étanches et résistants à haute pression",
+      "translated": "Electrofusion connection for watertight and high pressure resistant joints",
+      "tag": "p"
+    },
+    {
+      "original": "Soudure TIG/MIG",
+      "translated": "TIG/MIG welding",
+      "tag": "h3"
+    },
+    {
+      "original": "Soudure de tuyauterie métallique en acier inoxydable et acier carbone",
+      "translated": "Welding of metal pipes in stainless steel and carbon steel",
+      "tag": "p"
+    },
+    {
+      "original": "Tests & Certification",
+      "translated": "Testing & Certification",
+      "tag": "h3"
+    },
+    {
+      "original": "Tests de pression hydraulique et certification de conformité pour tous nos travaux",
+      "translated": "Hydraulic pressure tests and certification of conformity for all our work",
+      "tag": "p"
+    },
+    {
+      "original": "Besoin de Services de Plomberie Industrielle?",
+      "translated": "Need Industrial Plumbing Services?",
+      "tag": "h2"
+    },
+    {
+      "original": "Nos experts sont à votre disposition pour étudier votre projet et vous proposer des solutions adaptées.",
+      "translated": "Our experts are at your disposal to study your project and offer you suitable solutions.",
+      "tag": "p"
+    },
+    {
+      "original": "Demander un Devis Gratuit",
+      "translated": "Request a Free Quote",
+      "tag": "a"
+    },
+    {
+      "original": "SARL",
+      "translated": "SARL",
+      "tag": "span"
+    },
+    {
+      "original": "Gontougo Mining Service",
+      "translated": "Gontougo Mining Service",
+      "tag": "p"
+    },
+    {
+      "original": "La sécurité, la clé de la production",
+      "translated": "Safety, the key to production",
+      "tag": "p"
+    },
+    {
+      "original": "Liens Rapides",
+      "translated": "Quick Links",
+      "tag": "h3"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "li"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "li"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "li"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "li"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "h3"
+    },
+    {
+      "original": "• Location d'engins miniers",
+      "translated": "• Mining equipment rental",
+      "tag": "li"
+    },
+    {
+      "original": "• Tuyauterie plastique et métallique",
+      "translated": "• Plastic and metal piping",
+      "tag": "li"
+    },
+    {
+      "original": "• Transport et logistique",
+      "translated": "• Transport and logistics",
+      "tag": "li"
+    },
+    {
+      "original": "• Dewatering",
+      "translated": "• Dewatering",
+      "tag": "li"
+    },
+    {
+      "original": "• Charpente métallique",
+      "translated": "• Metal frame",
+      "tag": "li"
+    },
+    {
+      "original": "• Commerce général",
+      "translated": "• General trade",
+      "tag": "li"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "h3"
+    },
+    {
+      "original": "Tanda, Quartier RésidentielEn face du Lycée Moderne",
+      "translated": "Tanda, Residential Area Opposite the Lycée Moderne",
+      "tag": "li"
+    },
+    {
+      "original": "Tanda, Quartier RésidentielEn face du Lycée Moderne",
+      "translated": "Tanda, Residential Area Opposite the Lycée Moderne",
+      "tag": "span"
+    },
+    {
+      "original": "(+225) 0788884940",
+      "translated": "(+225) 0788884940",
+      "tag": "li"
+    },
+    {
+      "original": "(+225) 0788884940",
+      "translated": "(+225) 0788884940",
+      "tag": "a"
+    },
+    {
+      "original": "contact@gms-sarl.com",
+      "translated": "contact@gms-sarl.com",
+      "tag": "li"
+    },
+    {
+      "original": "contact@gms-sarl.com",
+      "translated": "contact@gms-sarl.com",
+      "tag": "a"
+    },
+    {
+      "original": "RCCM: CI-ABG2023M0103 | CODE CDI: 911",
+      "translated": "RCCM: CI-ABG2023M0103 | CDI CODE: 911",
+      "tag": "p"
+    },
+    {
+      "original": "Régime Juridique: SARL",
+      "translated": "Legal Regime: SARL",
+      "tag": "p"
+    },
+    {
+      "original": "© 2025 Gontougo Mining Service SARL. Tous droits réservés.",
+      "translated": "© 2025 Gontougo Mining Service SARL. All rights reserved.",
+      "tag": "p"
+    }
+  ],
+  "http://localhost:5173/woodworking": [
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Services",
+      "translated": "Services",
+      "tag": "button"
+    },
+    {
+      "original": "Location de Véhicules Légers",
+      "translated": "Light Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Location de Véhicules Lourds",
+      "translated": "Heavy Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Formation en conduite d'engins lourds",
+      "translated": "Heavy equipment driving training",
+      "tag": "a"
+    },
+    {
+      "original": "Formation DEWATERING / NATATION",
+      "translated": "DEWATERING / SWIMMING training",
+      "tag": "a"
+    },
+    {
+      "original": "Plomberie DEWATERING & Tuyauterie & Polyfusion",
+      "translated": "Plumbing DEWATERING & Piping & Polyfusion",
+      "tag": "a"
+    },
+    {
+      "original": "Menuiserie",
+      "translated": "Carpentry",
+      "tag": "a"
+    },
+    {
+      "original": "Construction de Charpente Métallique",
+      "translated": "Metal Frame Construction",
+      "tag": "a"
+    },
+    {
+      "original": "Forage et Travaux spécialisés",
+      "translated": "Drilling and Specialized Works",
+      "tag": "a"
+    },
+    {
+      "original": "Froid et Climatisation",
+      "translated": "Cold and Air Conditioning",
+      "tag": "a"
+    },
+    {
+      "original": "Commerce",
+      "translated": "Trade",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "🇬🇧EN",
+      "translated": "🇬🇧EN",
+      "tag": "button"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Location de Véhicules",
+      "translated": "Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Engins Lourds",
+      "translated": "Heavy machinery",
+      "tag": "a"
+    },
+    {
+      "original": "Plomberie & Polyfusion",
+      "translated": "Plumbing & Polyfusion",
+      "tag": "a"
+    },
+    {
+      "original": "Charpente Métallique",
+      "translated": "Metal Frame",
+      "tag": "a"
+    },
+    {
+      "original": "Commerce",
+      "translated": "Trade",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "Menuiserie",
+      "translated": "Carpentry",
+      "tag": "h1"
+    },
+    {
+      "original": "Services de menuiserie bois et métallique pour vos projets résidentiels, commerciaux et industriels",
+      "translated": "Wood and metal carpentry services for your residential, commercial and industrial projects",
+      "tag": "p"
+    },
+    {
+      "original": "Expertise en Menuiserie sur Mesure",
+      "translated": "Expertise in Custom Carpentry",
+      "tag": "h2"
+    },
+    {
+      "original": "GMS SARL propose des services complets de menuiserie pour tous types de projets. Notre équipe de menuisiers qualifiés réalise des ouvrages en bois et en métal, alliant savoir-faire traditionnel et techniques modernes pour garantir des finitions de qualité et une durabilité exceptionnelle.",
+      "translated": "GMS SARL offers complete carpentry services for all types of projects. Our team of qualified carpenters produces wood and metal works, combining traditional know-how and modern techniques to guarantee quality finishes and exceptional durability.",
+      "tag": "p"
+    },
+    {
+      "original": "Nos Services de Menuiserie",
+      "translated": "Our Carpentry Services",
+      "tag": "h2"
+    },
+    {
+      "original": "Portes et Fenêtres",
+      "translated": "Doors and Windows",
+      "tag": "p"
+    },
+    {
+      "original": "Portes et Fenêtres",
+      "translated": "Doors and Windows",
+      "tag": "h3"
+    },
+    {
+      "original": "Fabrication et installation de portes et fenêtres sur mesure en bois massif, contreplaqué, ou aluminium. Portes intérieures, portes d'entrée, fenêtres battantes ou coulissantes, adaptées à vos besoins et au style de votre bâtiment.",
+      "translated": "Manufacturing and installation of custom doors and windows in solid wood, plywood, or aluminum. Interior doors, entrance doors, hinged or sliding windows, adapted to your needs and the style of your building.",
+      "tag": "p"
+    },
+    {
+      "original": "Portes sur mesure (intérieures et extérieures)",
+      "translated": "Custom doors (interior and exterior)",
+      "tag": "li"
+    },
+    {
+      "original": "Fenêtres battantes et coulissantes",
+      "translated": "Casement and sliding windows",
+      "tag": "li"
+    },
+    {
+      "original": "Installation professionnelle",
+      "translated": "Professional installation",
+      "tag": "li"
+    },
+    {
+      "original": "Mobilier sur Mesure",
+      "translated": "Custom furniture",
+      "tag": "p"
+    },
+    {
+      "original": "Mobilier sur Mesure",
+      "translated": "Custom furniture",
+      "tag": "h3"
+    },
+    {
+      "original": "Conception et fabrication de mobilier personnalisé pour bureaux, commerces et habitations. Armoires, bibliothèques, bureaux, comptoirs de réception, et meubles de rangement réalisés selon vos spécifications et l'espace disponible.",
+      "translated": "Design and manufacturing of personalized furniture for offices, businesses and homes. Cabinets, bookcases, desks, reception counters, and storage furniture made to your specifications and the space available.",
+      "tag": "p"
+    },
+    {
+      "original": "Mobilier de bureau et commercial",
+      "translated": "Office and commercial furniture",
+      "tag": "li"
+    },
+    {
+      "original": "Rangements et placards",
+      "translated": "Storage and cupboards",
+      "tag": "li"
+    },
+    {
+      "original": "Design personnalisé",
+      "translated": "Custom design",
+      "tag": "li"
+    },
+    {
+      "original": "Agencement Intérieur",
+      "translated": "Interior layout",
+      "tag": "p"
+    },
+    {
+      "original": "Agencement Intérieur",
+      "translated": "Interior layout",
+      "tag": "h3"
+    },
+    {
+      "original": "Aménagement complet d'espaces intérieurs pour bureaux, boutiques, restaurants et habitations. Cloisons, faux-plafonds, revêtements muraux en bois, et création d'espaces fonctionnels optimisant l'utilisation de chaque mètre carré.",
+      "translated": "Complete development of interior spaces for offices, shops, restaurants and homes. Partitions, false ceilings, wooden wall coverings, and creation of functional spaces optimizing the use of each square meter.",
+      "tag": "p"
+    },
+    {
+      "original": "Cloisons et séparations",
+      "translated": "Partitions and separations",
+      "tag": "li"
+    },
+    {
+      "original": "Faux-plafonds décoratifs",
+      "translated": "Decorative suspended ceilings",
+      "tag": "li"
+    },
+    {
+      "original": "Optimisation des espaces",
+      "translated": "Optimization of spaces",
+      "tag": "li"
+    },
+    {
+      "original": "Escaliers",
+      "translated": "Stairs",
+      "tag": "p"
+    },
+    {
+      "original": "Escaliers et Rampes",
+      "translated": "Stairs and Ramps",
+      "tag": "h3"
+    },
+    {
+      "original": "Fabrication et installation d'escaliers en bois (droits, tournants, hélicoïdaux) et de garde-corps. Escaliers intérieurs et extérieurs, rampes d'accès, et balustrades alliant sécurité, esthétique et conformité aux normes.",
+      "translated": "Manufacture and installation of wooden staircases (straight, turning, helical) and guardrails. Interior and exterior stairs, access ramps, and balustrades combining safety, aesthetics and compliance with standards.",
+      "tag": "p"
+    },
+    {
+      "original": "Escaliers droits et tournants",
+      "translated": "Straight and turning stairs",
+      "tag": "li"
+    },
+    {
+      "original": "Garde-corps et balustrades",
+      "translated": "Guardrails and balustrades",
+      "tag": "li"
+    },
+    {
+      "original": "Conformité aux normes de sécurité",
+      "translated": "Compliance with safety standards",
+      "tag": "li"
+    },
+    {
+      "original": "Menuiserie Métallique",
+      "translated": "Metal Carpentry",
+      "tag": "p"
+    },
+    {
+      "original": "Menuiserie Métallique",
+      "translated": "Metal Carpentry",
+      "tag": "h3"
+    },
+    {
+      "original": "Réalisation d'ouvrages en métal : portails, grilles de sécurité, portes métalliques, garde-corps en fer forgé ou acier galvanisé. Solutions robustes et durables pour la sécurisation et l'embellissement de vos bâtiments.",
+      "translated": "Production of metal works: gates, security grilles, metal doors, guardrails in wrought iron or galvanized steel. Robust and durable solutions for securing and beautifying your buildings.",
+      "tag": "p"
+    },
+    {
+      "original": "Portails et grilles métalliques",
+      "translated": "Metal gates and grilles",
+      "tag": "li"
+    },
+    {
+      "original": "Portes de sécurité",
+      "translated": "Security doors",
+      "tag": "li"
+    },
+    {
+      "original": "Ouvrages en fer forgé",
+      "translated": "Wrought iron works",
+      "tag": "li"
+    },
+    {
+      "original": "Revêtements",
+      "translated": "Coatings",
+      "tag": "p"
+    },
+    {
+      "original": "Revêtements et Finitions",
+      "translated": "Coatings and Finishes",
+      "tag": "h3"
+    },
+    {
+      "original": "Pose de parquets, lambris, plinthes et moulures décoratives. Traitement et finition des bois (vernissage, lasure, peinture) pour protéger et embellir vos ouvrages en menuiserie. Finitions soignées garantissant une longue durée de vie.",
+      "translated": "Installation of parquet floors, paneling, plinths and decorative moldings. Treatment and finishing of wood (varnishing, staining, painting) to protect and beautify your carpentry works. Careful finishes guaranteeing a long lifespan.",
+      "tag": "p"
+    },
+    {
+      "original": "Pose de parquets et lambris",
+      "translated": "Installation of parquet floors and paneling",
+      "tag": "li"
+    },
+    {
+      "original": "Traitements protecteurs",
+      "translated": "Protective treatments",
+      "tag": "li"
+    },
+    {
+      "original": "Finitions décoratives",
+      "translated": "Decorative finishes",
+      "tag": "li"
+    },
+    {
+      "original": "Nos Réalisations",
+      "translated": "Our Achievements",
+      "tag": "h2"
+    },
+    {
+      "original": "Découvrez quelques exemples de nos projets de menuiserie réalisés avec succès.",
+      "translated": "Discover some examples of our successfully completed carpentry projects.",
+      "tag": "p"
+    },
+    {
+      "original": "Toiture Industrielle",
+      "translated": "Industrial Roofing",
+      "tag": "p"
+    },
+    {
+      "original": "Hangar",
+      "translated": "Shed",
+      "tag": "p"
+    },
+    {
+      "original": "Toiture Industrielle",
+      "translated": "Industrial Roofing",
+      "tag": "p"
+    },
+    {
+      "original": "Besoin de Services de Menuiserie?",
+      "translated": "Need Carpentry Services?",
+      "tag": "h2"
+    },
+    {
+      "original": "Confiez-nous vos projets de menuiserie bois et métallique. Devis gratuit et personnalisé.",
+      "translated": "Entrust us with your wood and metal carpentry projects. Free and personalized quote.",
+      "tag": "p"
+    },
+    {
+      "original": "Demander un Devis",
+      "translated": "Request a Quote",
+      "tag": "a"
+    },
+    {
+      "original": "SARL",
+      "translated": "SARL",
+      "tag": "span"
+    },
+    {
+      "original": "Gontougo Mining Service",
+      "translated": "Gontougo Mining Service",
+      "tag": "p"
+    },
+    {
+      "original": "La sécurité, la clé de la production",
+      "translated": "Safety, the key to production",
+      "tag": "p"
+    },
+    {
+      "original": "Liens Rapides",
+      "translated": "Quick Links",
+      "tag": "h3"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "li"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "li"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "li"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "li"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "h3"
+    },
+    {
+      "original": "• Location d'engins miniers",
+      "translated": "• Mining equipment rental",
+      "tag": "li"
+    },
+    {
+      "original": "• Tuyauterie plastique et métallique",
+      "translated": "• Plastic and metal piping",
+      "tag": "li"
+    },
+    {
+      "original": "• Transport et logistique",
+      "translated": "• Transport and logistics",
+      "tag": "li"
+    },
+    {
+      "original": "• Dewatering",
+      "translated": "• Dewatering",
+      "tag": "li"
+    },
+    {
+      "original": "• Charpente métallique",
+      "translated": "• Metal frame",
+      "tag": "li"
+    },
+    {
+      "original": "• Commerce général",
+      "translated": "• General trade",
+      "tag": "li"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "h3"
+    },
+    {
+      "original": "Tanda, Quartier RésidentielEn face du Lycée Moderne",
+      "translated": "Tanda, Residential Area Opposite the Lycée Moderne",
+      "tag": "li"
+    },
+    {
+      "original": "Tanda, Quartier RésidentielEn face du Lycée Moderne",
+      "translated": "Tanda, Residential Area Opposite the Lycée Moderne",
+      "tag": "span"
+    },
+    {
+      "original": "(+225) 0788884940",
+      "translated": "(+225) 0788884940",
+      "tag": "li"
+    },
+    {
+      "original": "(+225) 0788884940",
+      "translated": "(+225) 0788884940",
+      "tag": "a"
+    },
+    {
+      "original": "contact@gms-sarl.com",
+      "translated": "contact@gms-sarl.com",
+      "tag": "li"
+    },
+    {
+      "original": "contact@gms-sarl.com",
+      "translated": "contact@gms-sarl.com",
+      "tag": "a"
+    },
+    {
+      "original": "RCCM: CI-ABG2023M0103 | CODE CDI: 911",
+      "translated": "RCCM: CI-ABG2023M0103 | CDI CODE: 911",
+      "tag": "p"
+    },
+    {
+      "original": "Régime Juridique: SARL",
+      "translated": "Legal Regime: SARL",
+      "tag": "p"
+    },
+    {
+      "original": "© 2025 Gontougo Mining Service SARL. Tous droits réservés.",
+      "translated": "© 2025 Gontougo Mining Service SARL. All rights reserved.",
+      "tag": "p"
+    }
+  ],
+  "http://localhost:5173/metal-construction": [
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "Location de Véhicules Lourds",
+      "translated": "Heavy Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Formation en conduite d'engins lourds",
+      "translated": "Heavy equipment driving training",
+      "tag": "a"
+    },
+    {
+      "original": "Formation DEWATERING / NATATION",
+      "translated": "DEWATERING / SWIMMING training",
+      "tag": "a"
+    },
+    {
+      "original": "Plomberie DEWATERING & Tuyauterie & Polyfusion",
+      "translated": "Plumbing DEWATERING & Piping & Polyfusion",
+      "tag": "a"
+    },
+    {
+      "original": "Menuiserie",
+      "translated": "Carpentry",
+      "tag": "a"
+    },
+    {
+      "original": "Construction de Charpente Métallique",
+      "translated": "Metal Frame Construction",
+      "tag": "a"
+    },
+    {
+      "original": "Forage et Travaux spécialisés",
+      "translated": "Drilling and Specialized Works",
+      "tag": "a"
+    },
+    {
+      "original": "Froid et Climatisation",
+      "translated": "Cold and Air Conditioning",
+      "tag": "a"
+    },
+    {
+      "original": "Commerce",
+      "translated": "Trade",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "🇬🇧EN",
+      "translated": "🇬🇧EN",
+      "tag": "button"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Location de Véhicules",
+      "translated": "Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Engins Lourds",
+      "translated": "Heavy machinery",
+      "tag": "a"
+    },
+    {
+      "original": "Plomberie & Polyfusion",
+      "translated": "Plumbing & Polyfusion",
+      "tag": "a"
+    },
+    {
+      "original": "Charpente Métallique",
+      "translated": "Metal Frame",
+      "tag": "a"
+    },
+    {
+      "original": "Commerce",
+      "translated": "Trade",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "Construction de Charpente Métallique",
+      "translated": "Metal Frame Construction",
+      "tag": "h1"
+    },
+    {
+      "original": "Conception, fabrication et installation de structures métalliques pour tous vos projets",
+      "translated": "Design, manufacturing and installation of metal structures for all your projects",
+      "tag": "p"
+    },
+    {
+      "original": "Expertise en Charpente Métallique",
+      "translated": "Expertise in Metal Frames",
+      "tag": "h2"
+    },
+    {
+      "original": "GMS offre des services complets de construction de charpentes métalliques pour les projets industriels, commerciaux et miniers. Notre équipe d'experts qualifiés maîtrise toutes les techniques de fabrication, d'assemblage et d'installation de structures en acier.",
+      "translated": "GMS offers complete structural steel construction services for industrial, commercial and mining projects. Our team of qualified experts masters all the techniques of manufacturing, assembly and installation of steel structures.",
+      "tag": "p"
+    },
+    {
+      "original": "De la conception à la réalisation, nous garantissons des structures robustes, durables et conformes aux normes de sécurité les plus strictes.",
+      "translated": "From design to construction, we guarantee robust, durable structures that meet the strictest safety standards.",
+      "tag": "p"
+    },
+    {
+      "original": "Nos Services de Charpente",
+      "translated": "Our Framing Services",
+      "tag": "h2"
+    },
+    {
+      "original": "Toiture Métallique",
+      "translated": "Metal Roof",
+      "tag": "h3"
+    },
+    {
+      "original": "Installation de toitures en tôle ondulée, bac acier et panneaux sandwich pour bâtiments industriels et commerciaux.",
+      "translated": "Installation of corrugated metal roofs, steel trays and sandwich panels for industrial and commercial buildings.",
+      "tag": "p"
+    },
+    {
+      "original": "Structure Métallique",
+      "translated": "Metal Structure",
+      "tag": "h3"
+    },
+    {
+      "original": "Conception et fabrication de structures porteuses en acier pour hangars, entrepôts et installations industrielles.",
+      "translated": "Design and manufacture of steel supporting structures for hangars, warehouses and industrial facilities.",
+      "tag": "p"
+    },
+    {
+      "original": "Charpente Complexe",
+      "translated": "Complex Frame",
+      "tag": "h3"
+    },
+    {
+      "original": "Réalisation de charpentes métalliques complexes avec calculs de résistance et plans détaillés.",
+      "translated": "Creation of complex metal frames with resistance calculations and detailed plans.",
+      "tag": "p"
+    },
+    {
+      "original": "Maintenance & Rénovation",
+      "translated": "Maintenance & Renovation",
+      "tag": "h3"
+    },
+    {
+      "original": "Services de maintenance préventive, réparation et renforcement de structures métalliques existantes.",
+      "translated": "Preventive maintenance services, repair and reinforcement of existing metal structures.",
+      "tag": "p"
+    },
+    {
+      "original": "Traitement Anticorrosion",
+      "translated": "Anti-corrosion treatment",
+      "tag": "h3"
+    },
+    {
+      "original": "Application de traitements de surface, galvanisation et peinture époxy pour protection durable.",
+      "translated": "Application of surface treatments, galvanizing and epoxy painting for lasting protection.",
+      "tag": "p"
+    },
+    {
+      "original": "Étude & Calcul",
+      "translated": "Study & Calculation",
+      "tag": "h3"
+    },
+    {
+      "original": "Bureau d'études pour calculs de résistance, dimensionnement et plans d'exécution détaillés.",
+      "translated": "Design office for resistance calculations, sizing and detailed execution plans.",
+      "tag": "p"
+    },
+    {
+      "original": "Nos Réalisations",
+      "translated": "Our Achievements",
+      "tag": "h2"
+    },
+    {
+      "original": "Découvrez quelques exemples de nos projets de charpente métallique réalisés avec succès",
+      "translated": "Discover some examples of our successfully completed metal frame projects",
+      "tag": "p"
+    },
+    {
+      "original": "Toiture Industrielle",
+      "translated": "Industrial Roofing",
+      "tag": "p"
+    },
+    {
+      "original": "Hangar",
+      "translated": "Shed",
+      "tag": "p"
+    },
+    {
+      "original": "Toiture Industrielle",
+      "translated": "Industrial Roofing",
+      "tag": "p"
+    },
+    {
+      "original": "Avantages de la Charpente Métallique",
+      "translated": "Advantages of Metal Framing",
+      "tag": "h2"
+    },
+    {
+      "original": "Rapidité",
+      "translated": "Speed",
+      "tag": "h3"
+    },
+    {
+      "original": "Montage rapide grâce à la préfabrication en atelier",
+      "translated": "Quick assembly thanks to prefabrication in the workshop",
+      "tag": "p"
+    },
+    {
+      "original": "Résistance",
+      "translated": "Resistance",
+      "tag": "h3"
+    },
+    {
+      "original": "Excellente résistance mécanique et durabilité",
+      "translated": "Excellent mechanical strength and durability",
+      "tag": "p"
+    },
+    {
+      "original": "Économique",
+      "translated": "Economic",
+      "tag": "h3"
+    },
+    {
+      "original": "Coût optimisé et excellent rapport qualité-prix",
+      "translated": "Optimized cost and excellent value for money",
+      "tag": "p"
+    },
+    {
+      "original": "Modularité",
+      "translated": "Modularity",
+      "tag": "h3"
+    },
+    {
+      "original": "Facilité d'extension et de modification",
+      "translated": "Ease of extension and modification",
+      "tag": "p"
+    },
+    {
+      "original": "Spécifications Techniques",
+      "translated": "Technical Specifications",
+      "tag": "h2"
+    },
+    {
+      "original": "Matériaux Utilisés",
+      "translated": "Materials Used",
+      "tag": "h3"
+    },
+    {
+      "original": "Acier S235, S275, S355",
+      "translated": "Steel S235, S275, S355",
+      "tag": "li"
+    },
+    {
+      "original": "Tôles nervurées et ondulées",
+      "translated": "Ribbed and corrugated sheets",
+      "tag": "li"
+    },
+    {
+      "original": "Panneaux sandwich isolants",
+      "translated": "Insulating sandwich panels",
+      "tag": "li"
+    },
+    {
+      "original": "Traitements de Surface",
+      "translated": "Surface Treatments",
+      "tag": "h3"
+    },
+    {
+      "original": "Galvanisation à chaud",
+      "translated": "Hot-dip galvanizing",
+      "tag": "li"
+    },
+    {
+      "original": "Peinture époxy",
+      "translated": "Epoxy paint",
+      "tag": "li"
+    },
+    {
+      "original": "Métallisation",
+      "translated": "Metallization",
+      "tag": "li"
+    },
+    {
+      "original": "Zingage électrolytique",
+      "translated": "Electrolytic zinc plating",
+      "tag": "li"
+    },
+    {
+      "original": "Protection anti-UV",
+      "translated": "UV protection",
+      "tag": "li"
+    },
+    {
+      "original": "Normes & Certifications",
+      "translated": "Standards & Certifications",
+      "tag": "h3"
+    },
+    {
+      "original": "Eurocodes EN 1993",
+      "translated": "Eurocodes EN 1993",
+      "tag": "li"
+    },
+    {
+      "original": "Normes ISO 9001",
+      "translated": "ISO 9001 standards",
+      "tag": "li"
+    },
+    {
+      "original": "Certification soudeurs",
+      "translated": "Welders certification",
+      "tag": "li"
+    },
+    {
+      "original": "Contrôle qualité rigoureux",
+      "translated": "Rigorous quality control",
+      "tag": "li"
+    },
+    {
+      "original": "Plans conformes BET",
+      "translated": "BET compliant plans",
+      "tag": "li"
+    },
+    {
+      "original": "Projet de Charpente Métallique?",
+      "translated": "Metal Frame Project?",
+      "tag": "h2"
+    },
+    {
+      "original": "Confiez-nous votre projet de construction métallique. Notre équipe vous accompagne de la conception à la réalisation.",
+      "translated": "Entrust us with your metal construction project. Our team supports you from design to completion.",
+      "tag": "p"
+    },
+    {
+      "original": "Demander une Étude Gratuite",
+      "translated": "Request a Free Study",
+      "tag": "a"
+    },
+    {
+      "original": "SARL",
+      "translated": "SARL",
+      "tag": "span"
+    },
+    {
+      "original": "Gontougo Mining Service",
+      "translated": "Gontougo Mining Service",
+      "tag": "p"
+    },
+    {
+      "original": "La sécurité, la clé de la production",
+      "translated": "Safety, the key to production",
+      "tag": "p"
+    },
+    {
+      "original": "Liens Rapides",
+      "translated": "Quick Links",
+      "tag": "h3"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "li"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "li"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "li"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "li"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "h3"
+    },
+    {
+      "original": "• Location d'engins miniers",
+      "translated": "• Mining equipment rental",
+      "tag": "li"
+    },
+    {
+      "original": "• Tuyauterie plastique et métallique",
+      "translated": "• Plastic and metal piping",
+      "tag": "li"
+    },
+    {
+      "original": "• Transport et logistique",
+      "translated": "• Transport and logistics",
+      "tag": "li"
+    },
+    {
+      "original": "• Dewatering",
+      "translated": "• Dewatering",
+      "tag": "li"
+    },
+    {
+      "original": "• Charpente métallique",
+      "translated": "• Metal frame",
+      "tag": "li"
+    },
+    {
+      "original": "• Commerce général",
+      "translated": "• General trade",
+      "tag": "li"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "h3"
+    },
+    {
+      "original": "Tanda, Quartier RésidentielEn face du Lycée Moderne",
+      "translated": "Tanda, Residential Area Opposite the Lycée Moderne",
+      "tag": "li"
+    },
+    {
+      "original": "Tanda, Quartier RésidentielEn face du Lycée Moderne",
+      "translated": "Tanda, Residential Area Opposite the Lycée Moderne",
+      "tag": "span"
+    },
+    {
+      "original": "(+225) 0788884940",
+      "translated": "(+225) 0788884940",
+      "tag": "li"
+    },
+    {
+      "original": "(+225) 0788884940",
+      "translated": "(+225) 0788884940",
+      "tag": "a"
+    },
+    {
+      "original": "contact@gms-sarl.com",
+      "translated": "contact@gms-sarl.com",
+      "tag": "li"
+    },
+    {
+      "original": "contact@gms-sarl.com",
+      "translated": "contact@gms-sarl.com",
+      "tag": "a"
+    },
+    {
+      "original": "RCCM: CI-ABG2023M0103 | CODE CDI: 911",
+      "translated": "RCCM: CI-ABG2023M0103 | CDI CODE: 911",
+      "tag": "p"
+    },
+    {
+      "original": "Régime Juridique: SARL",
+      "translated": "Legal Regime: SARL",
+      "tag": "p"
+    },
+    {
+      "original": "© 2025 Gontougo Mining Service SARL. Tous droits réservés.",
+      "translated": "© 2025 Gontougo Mining Service SARL. All rights reserved.",
+      "tag": "p"
+    }
+  ],
+  "http://localhost:5173/drilling": [
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Services",
+      "translated": "Services",
+      "tag": "button"
+    },
+    {
+      "original": "Location de Véhicules Légers",
+      "translated": "Light Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Location de Véhicules Lourds",
+      "translated": "Heavy Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Formation en conduite d'engins lourds",
+      "translated": "Heavy equipment driving training",
+      "tag": "a"
+    },
+    {
+      "original": "Formation DEWATERING / NATATION",
+      "translated": "DEWATERING / SWIMMING training",
+      "tag": "a"
+    },
+    {
+      "original": "Plomberie DEWATERING & Tuyauterie & Polyfusion",
+      "translated": "Plumbing DEWATERING & Piping & Polyfusion",
+      "tag": "a"
+    },
+    {
+      "original": "Menuiserie",
+      "translated": "Carpentry",
+      "tag": "a"
+    },
+    {
+      "original": "Construction de Charpente Métallique",
+      "translated": "Metal Frame Construction",
+      "tag": "a"
+    },
+    {
+      "original": "Forage et Travaux spécialisés",
+      "translated": "Drilling and Specialized Works",
+      "tag": "a"
+    },
+    {
+      "original": "🇬🇧EN",
+      "translated": "🇬🇧EN",
+      "tag": "button"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Location de Véhicules",
+      "translated": "Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Engins Lourds",
+      "translated": "Heavy machinery",
+      "tag": "a"
+    },
+    {
+      "original": "Plomberie & Polyfusion",
+      "translated": "Plumbing & Polyfusion",
+      "tag": "a"
+    },
+    {
+      "original": "Charpente Métallique",
+      "translated": "Metal Frame",
+      "tag": "a"
+    },
+    {
+      "original": "Commerce",
+      "translated": "Trade",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "Forage et Travaux Spécialisés",
+      "translated": "Drilling and Specialized Works",
+      "tag": "h1"
+    },
+    {
+      "original": "Services de forage, sondage et travaux techniques spécialisés pour projets miniers et de construction",
+      "translated": "Drilling, surveying and specialized technical works services for mining and construction projects",
+      "tag": "p"
+    },
+    {
+      "original": "Expertise en Forage et Travaux Techniques",
+      "translated": "Expertise in Drilling and Technical Works",
+      "tag": "h2"
+    },
+    {
+      "original": "GMS SARL dispose d'une équipe spécialisée et d'équipements modernes pour réaliser tous types de forages et travaux techniques spécialisés. Que ce soit pour l'exploration minière, la recherche d'eau, les fondations spéciales ou les travaux géotechniques, nous mettons notre expertise à votre service avec rigueur et professionnalisme.",
+      "translated": "GMS SARL has a specialized team and modern equipment to carry out all types of drilling and specialized technical work. Whether for mining exploration, water research, special foundations or geotechnical work, we put our expertise at your service with rigor and professionalism.",
+      "tag": "p"
+    },
+    {
+      "original": "Nos Services Spécialisés",
+      "translated": "Our Specialized Services",
+      "tag": "h2"
+    },
+    {
+      "original": "Forage Minier",
+      "translated": "Mining Drilling",
+      "tag": "p"
+    },
+    {
+      "original": "Forage Minier et Exploration",
+      "translated": "Mining Drilling and Exploration",
+      "tag": "h3"
+    },
+    {
+      "original": "Forages d'exploration pour la recherche et l'évaluation de gisements miniers. Carottage en profondeur, échantillonnage de roches, et analyse géologique. Équipements de forage performants adaptés aux terrains difficiles et aux conditions extrêmes des sites miniers.",
+      "translated": "Exploration drilling for research and evaluation of mineral deposits. Deep coring, rock sampling, and geological analysis. High-performance drilling equipment adapted to the difficult terrain and extreme conditions of mining sites.",
+      "tag": "p"
+    },
+    {
+      "original": "Forage d'exploration minière",
+      "translated": "Mineral exploration drilling",
+      "tag": "li"
+    },
+    {
+      "original": "Carottage et échantillonnage",
+      "translated": "Coring and sampling",
+      "tag": "li"
+    },
+    {
+      "original": "Analyse géologique de terrain",
+      "translated": "Geological field analysis",
+      "tag": "li"
+    },
+    {
+      "original": "Forage d'Eau",
+      "translated": "Water Drilling",
+      "tag": "p"
+    },
+    {
+      "original": "Forage d'Eau et Puits",
+      "translated": "Water Drilling and Wells",
+      "tag": "h3"
+    },
+    {
+      "original": "Réalisation de forages pour la recherche et l'exploitation d'eau potable ou industrielle. Puits de captage, forages profonds, équipement de pompage, et développement de sources d'eau. Solutions adaptées aux besoins domestiques, agricoles et industriels.",
+      "translated": "Drilling for research and exploitation of drinking or industrial water. Catchment wells, deep boreholes, pumping equipment, and water source development. Solutions adapted to domestic, agricultural and industrial needs.",
+      "tag": "p"
+    },
+    {
+      "original": "Forages de puits d'eau potable",
+      "translated": "Drinking water well drilling",
+      "tag": "li"
+    },
+    {
+      "original": "Installation de pompes immergées",
+      "translated": "Installation of submersible pumps",
+      "tag": "li"
+    },
+    {
+      "original": "Développement de sources",
+      "translated": "Source development",
+      "tag": "li"
+    },
+    {
+      "original": "Sondages Géotechniques",
+      "translated": "Geotechnical Surveys",
+      "tag": "p"
+    },
+    {
+      "original": "Sondages Géotechniques",
+      "translated": "Geotechnical Surveys",
+      "tag": "h3"
+    },
+    {
+      "original": "Études de sol pour projets de construction et infrastructures. Sondages de reconnaissance, essais pénétrométriques, prélèvements d'échantillons, et analyses de portance. Rapports géotechniques complets pour dimensionnement des fondations et évaluation des risques.",
+      "translated": "Soil studies for construction and infrastructure projects. Reconnaissance surveys, penetrometric tests, sample collection, and lift analyses. Complete geotechnical reports for foundation sizing and risk assessment.",
+      "tag": "p"
+    },
+    {
+      "original": "Études de sol et sous-sol",
+      "translated": "Soil and subsoil studies",
+      "tag": "li"
+    },
+    {
+      "original": "Essais pénétrométriques",
+      "translated": "Penetrometric tests",
+      "tag": "li"
+    },
+    {
+      "original": "Rapports géotechniques détaillés",
+      "translated": "Detailed geotechnical reports",
+      "tag": "li"
+    },
+    {
+      "original": "Fondations Spéciales",
+      "translated": "Special Foundations",
+      "tag": "p"
+    },
+    {
+      "original": "Fondations Spéciales",
+      "translated": "Special Foundations",
+      "tag": "h3"
+    },
+    {
+      "original": "Réalisation de fondations profondes et techniques spéciales. Pieux forés, micropieux, parois moulées, et injections de consolidation. Solutions adaptées aux sols difficiles, charges importantes et contraintes techniques particulières.",
+      "translated": "Creation of deep foundations and special techniques. Bored piles, micropiles, diaphragm walls, and consolidation injections. Solutions adapted to difficult soils, heavy loads and specific technical constraints.",
+      "tag": "p"
+    },
+    {
+      "original": "Pieux forés et micropieux",
+      "translated": "Bored piles and micropiles",
+      "tag": "li"
+    },
+    {
+      "original": "Parois moulées et berlinoises",
+      "translated": "Diaphragm walls and Berlin walls",
+      "tag": "li"
+    },
+    {
+      "original": "Consolidation de sols",
+      "translated": "Soil consolidation",
+      "tag": "li"
+    },
+    {
+      "original": "Démolition",
+      "translated": "Demolition",
+      "tag": "p"
+    },
+    {
+      "original": "Démolition et Terrassement",
+      "translated": "Demolition and Earthworks",
+      "tag": "h3"
+    },
+    {
+      "original": "Services de démolition contrôlée et terrassement pour préparation de sites. Démolition de bâtiments, déblaiement, nivellement, et évacuation des matériaux. Travaux réalisés dans le respect des normes de sécurité et de protection de l'environnement.",
+      "translated": "Controlled demolition and earthmoving services for site preparation. Demolition of buildings, clearing, leveling, and evacuation of materials. Work carried out in compliance with safety and environmental protection standards.",
+      "tag": "p"
+    },
+    {
+      "original": "Démolition contrôlée",
+      "translated": "Controlled demolition",
+      "tag": "li"
+    },
+    {
+      "original": "Terrassement et nivellement",
+      "translated": "Earthworks and leveling",
+      "tag": "li"
+    },
+    {
+      "original": "Évacuation des déchets",
+      "translated": "Waste disposal",
+      "tag": "li"
+    },
+    {
+      "original": "Travaux Sous-Marins",
+      "translated": "Underwater Works",
+      "tag": "p"
+    },
+    {
+      "original": "Travaux Sous-Marins et Subaquatiques",
+      "translated": "Underwater and Subaquatic Works",
+      "tag": "h3"
+    },
+    {
+      "original": "Interventions techniques en milieu immergé pour infrastructures portuaires, barrages, et installations hydrauliques. Inspections sous-marines, réparations, installations de conduites, et travaux de dragage. Équipes de plongeurs professionnels certifiés.",
+      "translated": "Technical interventions in a submerged environment for port infrastructures, dams, and hydraulic installations. Underwater inspections, repairs, pipe installations, and dredging works. Teams of certified professional divers.",
+      "tag": "p"
+    },
+    {
+      "original": "Inspections et réparations sous-marines",
+      "translated": "Underwater inspections and repairs",
+      "tag": "li"
+    },
+    {
+      "original": "Installation de conduites immergées",
+      "translated": "Installation of submerged pipes",
+      "tag": "li"
+    },
+    {
+      "original": "Travaux de dragage",
+      "translated": "Dredging works",
+      "tag": "li"
+    },
+    {
+      "original": "Nos Réalisations",
+      "translated": "Our Achievements",
+      "tag": "h2"
+    },
+    {
+      "original": "Découvrez quelques exemples de nos projets de Forage et Travaux Spécialisés réalisés avec succès.",
+      "translated": "Discover some examples of our successfully completed Drilling and Specialized Works projects.",
+      "tag": "p"
+    },
+    {
+      "original": "Toiture Industrielle",
+      "translated": "Industrial Roofing",
+      "tag": "p"
+    },
+    {
+      "original": "Hangar",
+      "translated": "Shed",
+      "tag": "p"
+    },
+    {
+      "original": "Toiture Industrielle",
+      "translated": "Industrial Roofing",
+      "tag": "p"
+    },
+    {
+      "original": "Un Projet de Forage ou Travaux Spécialisés?",
+      "translated": "A Drilling Project or Specialized Works?",
+      "tag": "h2"
+    },
+    {
+      "original": "Faites appel à nos experts pour tous vos besoins en forage et travaux techniques",
+      "translated": "Call on our experts for all your drilling and technical work needs",
+      "tag": "p"
+    },
+    {
+      "original": "Demander un Devis",
+      "translated": "Request a Quote",
+      "tag": "a"
+    },
+    {
+      "original": "SARL",
+      "translated": "SARL",
+      "tag": "span"
+    },
+    {
+      "original": "Gontougo Mining Service",
+      "translated": "Gontougo Mining Service",
+      "tag": "p"
+    },
+    {
+      "original": "La sécurité, la clé de la production",
+      "translated": "Safety, the key to production",
+      "tag": "p"
+    },
+    {
+      "original": "Liens Rapides",
+      "translated": "Quick Links",
+      "tag": "h3"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "li"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "li"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "li"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "li"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "h3"
+    },
+    {
+      "original": "• Location d'engins miniers",
+      "translated": "• Mining equipment rental",
+      "tag": "li"
+    },
+    {
+      "original": "• Tuyauterie plastique et métallique",
+      "translated": "• Plastic and metal piping",
+      "tag": "li"
+    },
+    {
+      "original": "• Transport et logistique",
+      "translated": "• Transport and logistics",
+      "tag": "li"
+    },
+    {
+      "original": "• Dewatering",
+      "translated": "• Dewatering",
+      "tag": "li"
+    },
+    {
+      "original": "• Charpente métallique",
+      "translated": "• Metal frame",
+      "tag": "li"
+    },
+    {
+      "original": "• Commerce général",
+      "translated": "• General trade",
+      "tag": "li"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "h3"
+    },
+    {
+      "original": "Tanda, Quartier RésidentielEn face du Lycée Moderne",
+      "translated": "Tanda, Residential Area Opposite the Lycée Moderne",
+      "tag": "li"
+    },
+    {
+      "original": "Tanda, Quartier RésidentielEn face du Lycée Moderne",
+      "translated": "Tanda, Residential Area Opposite the Lycée Moderne",
+      "tag": "span"
+    },
+    {
+      "original": "(+225) 0788884940",
+      "translated": "(+225) 0788884940",
+      "tag": "li"
+    },
+    {
+      "original": "(+225) 0788884940",
+      "translated": "(+225) 0788884940",
+      "tag": "a"
+    },
+    {
+      "original": "contact@gms-sarl.com",
+      "translated": "contact@gms-sarl.com",
+      "tag": "li"
+    },
+    {
+      "original": "contact@gms-sarl.com",
+      "translated": "contact@gms-sarl.com",
+      "tag": "a"
+    },
+    {
+      "original": "RCCM: CI-ABG2023M0103 | CODE CDI: 911",
+      "translated": "RCCM: CI-ABG2023M0103 | CDI CODE: 911",
+      "tag": "p"
+    },
+    {
+      "original": "Régime Juridique: SARL",
+      "translated": "Legal Regime: SARL",
+      "tag": "p"
+    },
+    {
+      "original": "© 2025 Gontougo Mining Service SARL. Tous droits réservés.",
+      "translated": "© 2025 Gontougo Mining Service SARL. All rights reserved.",
+      "tag": "p"
+    }
+  ],
+  "http://localhost:5173/refrigeration": [
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Services",
+      "translated": "Services",
+      "tag": "button"
+    },
+    {
+      "original": "Location de Véhicules Légers",
+      "translated": "Light Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Location de Véhicules Lourds",
+      "translated": "Heavy Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Formation en conduite d'engins lourds",
+      "translated": "Heavy equipment driving training",
+      "tag": "a"
+    },
+    {
+      "original": "Formation DEWATERING / NATATION",
+      "translated": "DEWATERING / SWIMMING training",
+      "tag": "a"
+    },
+    {
+      "original": "Plomberie DEWATERING & Tuyauterie & Polyfusion",
+      "translated": "Plumbing DEWATERING & Piping & Polyfusion",
+      "tag": "a"
+    },
+    {
+      "original": "Menuiserie",
+      "translated": "Carpentry",
+      "tag": "a"
+    },
+    {
+      "original": "Construction de Charpente Métallique",
+      "translated": "Metal Frame Construction",
+      "tag": "a"
+    },
+    {
+      "original": "Forage et Travaux spécialisés",
+      "translated": "Drilling and Specialized Works",
+      "tag": "a"
+    },
+    {
+      "original": "Froid et Climatisation",
+      "translated": "Cold and Air Conditioning",
+      "tag": "a"
+    },
+    {
+      "original": "Commerce",
+      "translated": "Trade",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "🇬🇧EN",
+      "translated": "🇬🇧EN",
+      "tag": "button"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Location de Véhicules",
+      "translated": "Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Engins Lourds",
+      "translated": "Heavy machinery",
+      "tag": "a"
+    },
+    {
+      "original": "Plomberie & Polyfusion",
+      "translated": "Plumbing & Polyfusion",
+      "tag": "a"
+    },
+    {
+      "original": "Charpente Métallique",
+      "translated": "Metal Frame",
+      "tag": "a"
+    },
+    {
+      "original": "Commerce",
+      "translated": "Trade",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "Froid et Climatisation",
+      "translated": "Cold and Air Conditioning",
+      "tag": "h1"
+    },
+    {
+      "original": "Installation, maintenance et dépannage de systèmes de climatisation et de réfrigération",
+      "translated": "Installation, maintenance and troubleshooting of air conditioning and refrigeration systems",
+      "tag": "p"
+    },
+    {
+      "original": "Experts en Climatisation et Réfrigération",
+      "translated": "Experts in Air Conditioning and Refrigeration",
+      "tag": "h2"
+    },
+    {
+      "original": "GMS SARL propose des services complets en froid et climatisation pour les secteurs résidentiel, commercial et industriel. Notre équipe de techniciens qualifiés assure l'installation, la maintenance et le dépannage de tous types de systèmes de climatisation et de réfrigération, garantissant votre confort et la préservation de vos produits.",
+      "translated": "GMS SARL offers complete refrigeration and air conditioning services for the residential, commercial and industrial sectors. Our team of qualified technicians ensures the installation, maintenance and troubleshooting of all types of air conditioning and refrigeration systems, guaranteeing your comfort and the preservation of your products.",
+      "tag": "p"
+    },
+    {
+      "original": "Nos Services Froid et Climatisation",
+      "translated": "Our Cold and Air Conditioning Services",
+      "tag": "h2"
+    },
+    {
+      "original": "Climatisation Résidentielle",
+      "translated": "Residential Air Conditioning",
+      "tag": "p"
+    },
+    {
+      "original": "Climatisation Résidentielle",
+      "translated": "Residential Air Conditioning",
+      "tag": "h3"
+    },
+    {
+      "original": "Installation de systèmes de climatisation pour maisons et appartements. Climatiseurs split, multi-split, et systèmes centralisés adaptés à vos besoins. Conseils personnalisés pour choisir l'équipement optimal selon la superficie et l'isolation de votre habitation.",
+      "translated": "Installation of air conditioning systems for houses and apartments. Split, multi-split air conditioners and centralized systems adapted to your needs. Personalized advice for choosing the optimal equipment depending on the surface area and insulation of your home.",
+      "tag": "p"
+    },
+    {
+      "original": "Climatiseurs split et multi-split",
+      "translated": "Split and multi-split air conditioners",
+      "tag": "li"
+    },
+    {
+      "original": "Systèmes centralisés",
+      "translated": "Centralized systems",
+      "tag": "li"
+    },
+    {
+      "original": "Étude thermique et dimensionnement",
+      "translated": "Thermal study and sizing",
+      "tag": "li"
+    },
+    {
+      "original": "Climatisation Commerciale",
+      "translated": "Commercial Air Conditioning",
+      "tag": "p"
+    },
+    {
+      "original": "Climatisation Commerciale",
+      "translated": "Commercial Air Conditioning",
+      "tag": "h3"
+    },
+    {
+      "original": "Solutions de climatisation pour bureaux, commerces, restaurants et hôtels. Systèmes VRV/VRF, cassettes encastrables, unités au plafond, et climatisation de précision pour salles serveurs. Installations discrètes et performantes adaptées aux espaces professionnels.",
+      "translated": "Air conditioning solutions for offices, businesses, restaurants and hotels. VRV/VRF systems, built-in cassettes, ceiling units, and precision air conditioning for server rooms. Discreet and efficient installations adapted to professional spaces.",
+      "tag": "p"
+    },
+    {
+      "original": "Systèmes VRV/VRF multi-zones",
+      "translated": "Multi-zone VRV/VRF systems",
+      "tag": "li"
+    },
+    {
+      "original": "Cassettes et unités encastrées",
+      "translated": "Cassettes and built-in units",
+      "tag": "li"
+    },
+    {
+      "original": "Climatisation salles informatiques",
+      "translated": "Computer room air conditioning",
+      "tag": "li"
+    },
+    {
+      "original": "Climatisation Industrielle",
+      "translated": "Industrial Air Conditioning",
+      "tag": "p"
+    },
+    {
+      "original": "Climatisation Industrielle",
+      "translated": "Industrial Air Conditioning",
+      "tag": "h3"
+    },
+    {
+      "original": "Systèmes de climatisation pour usines, entrepôts et installations minières. Refroidissement de process industriels, ventilation forcée, et traitement d'air pour environnements spécifiques. Solutions robustes pour conditions extrêmes et grandes surfaces.",
+      "translated": "Air conditioning systems for factories, warehouses and mining installations. Industrial process cooling, forced ventilation, and air treatment for specific environments. Robust solutions for extreme conditions and large surfaces.",
+      "tag": "p"
+    },
+    {
+      "original": "Refroidissement process industriels",
+      "translated": "Industrial process cooling",
+      "tag": "li"
+    },
+    {
+      "original": "Ventilation et extraction d'air",
+      "translated": "Ventilation and air extraction",
+      "tag": "li"
+    },
+    {
+      "original": "Solutions haute capacité",
+      "translated": "High capacity solutions",
+      "tag": "li"
+    },
+    {
+      "original": "Chambres Froides",
+      "translated": "Cold Rooms",
+      "tag": "p"
+    },
+    {
+      "original": "Chambres Froides et Réfrigération",
+      "translated": "Cold Rooms and Refrigeration",
+      "tag": "h3"
+    },
+    {
+      "original": "Conception et installation de chambres froides pour restaurants, supermarchés, hôtels et industries agroalimentaires. Chambres froides positives et négatives, vitrines réfrigérées, et meubles frigorifiques. Isolation thermique et systèmes de contrôle de température précis.",
+      "translated": "Design and installation of cold rooms for restaurants, supermarkets, hotels and food industries. Positive and negative cold rooms, refrigerated display cases, and refrigerated furniture. Thermal insulation and precise temperature control systems.",
+      "tag": "p"
+    },
+    {
+      "original": "Chambres froides sur mesure",
+      "translated": "Custom cold rooms",
+      "tag": "li"
+    },
+    {
+      "original": "Vitrines et meubles réfrigérés",
+      "translated": "Refrigerated display cases and cabinets",
+      "tag": "li"
+    },
+    {
+      "original": "Contrôle de température précis",
+      "translated": "Precise temperature control",
+      "tag": "li"
+    },
+    {
+      "original": "Maintenance",
+      "translated": "Maintenance",
+      "tag": "p"
+    },
+    {
+      "original": "Maintenance et Entretien",
+      "translated": "Maintenance and Maintenance",
+      "tag": "h3"
+    },
+    {
+      "original": "Contrats de maintenance préventive pour assurer le bon fonctionnement de vos installations. Nettoyage des filtres, vérification des fluides frigorigènes, contrôle des performances, et détection précoce des anomalies. Interventions programmées pour éviter les pannes.",
+      "translated": "Preventive maintenance contracts to ensure the proper functioning of your installations. Filter cleaning, refrigerant checking, performance monitoring, and early detection of anomalies. Scheduled interventions to avoid breakdowns.",
+      "tag": "p"
+    },
+    {
+      "original": "Contrats de maintenance annuels",
+      "translated": "Annual maintenance contracts",
+      "tag": "li"
+    },
+    {
+      "original": "Entretien préventif régulier",
+      "translated": "Regular preventive maintenance",
+      "tag": "li"
+    },
+    {
+      "original": "Optimisation des performances",
+      "translated": "Performance Optimization",
+      "tag": "li"
+    },
+    {
+      "original": "Dépannage",
+      "translated": "Troubleshooting",
+      "tag": "p"
+    },
+    {
+      "original": "Dépannage Urgent 24/7",
+      "translated": "Urgent repair 24/7",
+      "tag": "h3"
+    },
+    {
+      "original": "Service de dépannage rapide pour tous types de pannes de climatisation et réfrigération. Diagnostic précis, réparation sur place, et remplacement de pièces défectueuses. Intervention d'urgence 24h/24 et 7j/7 pour limiter l'impact des pannes sur votre activité.",
+      "translated": "Fast repair service for all types of air conditioning and refrigeration breakdowns. Accurate diagnosis, on-site repair, and replacement of defective parts. 24/7 emergency response to limit the impact of breakdowns on your business.",
+      "tag": "p"
+    },
+    {
+      "original": "Intervention rapide 24/7",
+      "translated": "Rapid response 24/7",
+      "tag": "li"
+    },
+    {
+      "original": "Diagnostic et réparation",
+      "translated": "Diagnosis and repair",
+      "tag": "li"
+    },
+    {
+      "original": "Stock de pièces détachées",
+      "translated": "Stock of spare parts",
+      "tag": "li"
+    },
+    {
+      "original": "Nos Réalisations",
+      "translated": "Our Achievements",
+      "tag": "h2"
+    },
+    {
+      "original": "Découvrez quelques exemples de nos projets de froids et climatisation réalisés avec succès",
+      "translated": "Discover some examples of our successfully completed refrigeration and air conditioning projects",
+      "tag": "p"
+    },
+    {
+      "original": "Toiture Industrielle",
+      "translated": "Industrial Roofing",
+      "tag": "p"
+    },
+    {
+      "original": "Hangar",
+      "translated": "Shed",
+      "tag": "p"
+    },
+    {
+      "original": "Toiture Industrielle",
+      "translated": "Industrial Roofing",
+      "tag": "p"
+    },
+    {
+      "original": "Besoin de Services de Climatisation?",
+      "translated": "Need Air Conditioning Services?",
+      "tag": "h2"
+    },
+    {
+      "original": "Installation, maintenance ou dépannage : nos experts sont à votre service",
+      "translated": "Installation, maintenance or troubleshooting: our experts are at your service",
+      "tag": "p"
+    },
+    {
+      "original": "Demander un Devis",
+      "translated": "Request a Quote",
+      "tag": "a"
+    },
+    {
+      "original": "SARL",
+      "translated": "SARL",
+      "tag": "span"
+    },
+    {
+      "original": "Gontougo Mining Service",
+      "translated": "Gontougo Mining Service",
+      "tag": "p"
+    },
+    {
+      "original": "La sécurité, la clé de la production",
+      "translated": "Safety, the key to production",
+      "tag": "p"
+    },
+    {
+      "original": "Liens Rapides",
+      "translated": "Quick Links",
+      "tag": "h3"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "li"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "li"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "li"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "h3"
+    },
+    {
+      "original": "• Location d'engins miniers",
+      "translated": "• Mining equipment rental",
+      "tag": "li"
+    },
+    {
+      "original": "• Tuyauterie plastique et métallique",
+      "translated": "• Plastic and metal piping",
+      "tag": "li"
+    },
+    {
+      "original": "• Transport et logistique",
+      "translated": "• Transport and logistics",
+      "tag": "li"
+    },
+    {
+      "original": "• Dewatering",
+      "translated": "• Dewatering",
+      "tag": "li"
+    },
+    {
+      "original": "• Charpente métallique",
+      "translated": "• Metal frame",
+      "tag": "li"
+    },
+    {
+      "original": "• Commerce général",
+      "translated": "• General trade",
+      "tag": "li"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "h3"
+    },
+    {
+      "original": "Tanda, Quartier RésidentielEn face du Lycée Moderne",
+      "translated": "Tanda, Residential Area Opposite the Lycée Moderne",
+      "tag": "li"
+    },
+    {
+      "original": "Tanda, Quartier RésidentielEn face du Lycée Moderne",
+      "translated": "Tanda, Residential Area Opposite the Lycée Moderne",
+      "tag": "span"
+    },
+    {
+      "original": "(+225) 0788884940",
+      "translated": "(+225) 0788884940",
+      "tag": "li"
+    },
+    {
+      "original": "(+225) 0788884940",
+      "translated": "(+225) 0788884940",
+      "tag": "a"
+    },
+    {
+      "original": "contact@gms-sarl.com",
+      "translated": "contact@gms-sarl.com",
+      "tag": "li"
+    },
+    {
+      "original": "contact@gms-sarl.com",
+      "translated": "contact@gms-sarl.com",
+      "tag": "a"
+    },
+    {
+      "original": "RCCM: CI-ABG2023M0103 | CODE CDI: 911",
+      "translated": "RCCM: CI-ABG2023M0103 | CDI CODE: 911",
+      "tag": "p"
+    },
+    {
+      "original": "Régime Juridique: SARL",
+      "translated": "Legal Regime: SARL",
+      "tag": "p"
+    },
+    {
+      "original": "© 2025 Gontougo Mining Service SARL. Tous droits réservés.",
+      "translated": "© 2025 Gontougo Mining Service SARL. All rights reserved.",
+      "tag": "p"
+    }
+  ],
+  "http://localhost:5173/commerce": [
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Services",
+      "translated": "Services",
+      "tag": "button"
+    },
+    {
+      "original": "Location de Véhicules Légers",
+      "translated": "Light Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Location de Véhicules Lourds",
+      "translated": "Heavy Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Formation en conduite d'engins lourds",
+      "translated": "Heavy equipment driving training",
+      "tag": "a"
+    },
+    {
+      "original": "Formation DEWATERING / NATATION",
+      "translated": "DEWATERING / SWIMMING training",
+      "tag": "a"
+    },
+    {
+      "original": "Plomberie DEWATERING & Tuyauterie & Polyfusion",
+      "translated": "Plumbing DEWATERING & Piping & Polyfusion",
+      "tag": "a"
+    },
+    {
+      "original": "Menuiserie",
+      "translated": "Carpentry",
+      "tag": "a"
+    },
+    {
+      "original": "Construction de Charpente Métallique",
+      "translated": "Metal Frame Construction",
+      "tag": "a"
+    },
+    {
+      "original": "Forage et Travaux spécialisés",
+      "translated": "Drilling and Specialized Works",
+      "tag": "a"
+    },
+    {
+      "original": "Froid et Climatisation",
+      "translated": "Cold and Air Conditioning",
+      "tag": "a"
+    },
+    {
+      "original": "Commerce",
+      "translated": "Trade",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "🇬🇧EN",
+      "translated": "🇬🇧EN",
+      "tag": "button"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Location de Véhicules",
+      "translated": "Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Engins Lourds",
+      "translated": "Heavy machinery",
+      "tag": "a"
+    },
+    {
+      "original": "Plomberie & Polyfusion",
+      "translated": "Plumbing & Polyfusion",
+      "tag": "a"
+    },
+    {
+      "original": "Charpente Métallique",
+      "translated": "Metal Frame",
+      "tag": "a"
+    },
+    {
+      "original": "Commerce",
+      "translated": "Trade",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "Placement de Personnel - Consommable Bureautique",
+      "translated": "Staff Placement - Office Consumable",
+      "tag": "h1"
+    },
+    {
+      "original": "Fournitures de bureau, équipements informatiques et solutions de placement de personnel",
+      "translated": "Office supplies, IT equipment and staffing solutions",
+      "tag": "p"
+    },
+    {
+      "original": "Commerce Général & Services",
+      "translated": "General Commerce & Services",
+      "tag": "h2"
+    },
+    {
+      "original": "GMS propose une gamme complète de fournitures et d'équipements pour vos bureaux et sites industriels. De l'informatique aux consommables bureautiques, en passant par les services de placement de personnel, nous répondons à tous vos besoins professionnels.",
+      "translated": "GMS offers a complete range of supplies and equipment for your offices and industrial sites. From IT to office consumables, including personnel placement services, we meet all your professional needs.",
+      "tag": "p"
+    },
+    {
+      "original": "Notre expertise en logistique et transport nous permet de livrer rapidement vos commandes partout en Côte d'Ivoire.",
+      "translated": "Our expertise in logistics and transport allows us to quickly deliver your orders anywhere in Ivory Coast.",
+      "tag": "p"
+    },
+    {
+      "original": "Nos Catégories de Produits",
+      "translated": "Our Product Categories",
+      "tag": "h2"
+    },
+    {
+      "original": "Consommables Bureautiques",
+      "translated": "Office Consumables",
+      "tag": "h3"
+    },
+    {
+      "original": "Papier A4, A3",
+      "translated": "A4, A3 paper",
+      "tag": "li"
+    },
+    {
+      "original": "Cartouches d'encre",
+      "translated": "Ink cartridges",
+      "tag": "li"
+    },
+    {
+      "original": "Toners pour imprimantes",
+      "translated": "Toners for printers",
+      "tag": "li"
+    },
+    {
+      "original": "Stylos et marqueurs",
+      "translated": "Pens and markers",
+      "tag": "li"
+    },
+    {
+      "original": "Classeurs et archives",
+      "translated": "File cabinets and archives",
+      "tag": "li"
+    },
+    {
+      "original": "Fournitures diverses",
+      "translated": "Miscellaneous supplies",
+      "tag": "li"
+    },
+    {
+      "original": "Voir les Produits",
+      "translated": "View Products",
+      "tag": "button"
+    },
+    {
+      "original": "Équipements Informatiques",
+      "translated": "Computer Equipment",
+      "tag": "h3"
+    },
+    {
+      "original": "Ordinateurs de bureau",
+      "translated": "Desktop computers",
+      "tag": "li"
+    },
+    {
+      "original": "Ordinateurs portables",
+      "translated": "Laptops",
+      "tag": "li"
+    },
+    {
+      "original": "Imprimantes multifonctions",
+      "translated": "Multifunction printers",
+      "tag": "li"
+    },
+    {
+      "original": "Scanners",
+      "translated": "Scanners",
+      "tag": "li"
+    },
+    {
+      "original": "Accessoires informatiques",
+      "translated": "Computer accessories",
+      "tag": "li"
+    },
+    {
+      "original": "Logiciels et antivirus",
+      "translated": "Software and antivirus",
+      "tag": "li"
+    },
+    {
+      "original": "Voir les Produits",
+      "translated": "View Products",
+      "tag": "button"
+    },
+    {
+      "original": "Placement de Personnel",
+      "translated": "Staff Placement",
+      "tag": "h3"
+    },
+    {
+      "original": "Personnel qualifié",
+      "translated": "Qualified staff",
+      "tag": "li"
+    },
+    {
+      "original": "Opérateurs d'engins",
+      "translated": "Machine operators",
+      "tag": "li"
+    },
+    {
+      "original": "Techniciens spécialisés",
+      "translated": "Specialized technicians",
+      "tag": "li"
+    },
+    {
+      "original": "Personnel administratif",
+      "translated": "Administrative staff",
+      "tag": "li"
+    },
+    {
+      "original": "Main d'œuvre temporaire",
+      "translated": "Temporary workforce",
+      "tag": "li"
+    },
+    {
+      "original": "Recrutement sur mesure",
+      "translated": "Tailor-made recruitment",
+      "tag": "li"
+    },
+    {
+      "original": "Nous Contacter",
+      "translated": "Contact us",
+      "tag": "button"
+    },
+    {
+      "original": "Équipements Bureautiques & Informatiques",
+      "translated": "Office & IT Equipment",
+      "tag": "h2"
+    },
+    {
+      "original": "Ordinateurs",
+      "translated": "Computers",
+      "tag": "h4"
+    },
+    {
+      "original": "Tablettes",
+      "translated": "Tablets",
+      "tag": "h4"
+    },
+    {
+      "original": "Imprimantes",
+      "translated": "Printers",
+      "tag": "h4"
+    },
+    {
+      "original": "Stockage",
+      "translated": "Storage",
+      "tag": "h4"
+    },
+    {
+      "original": "Réseau",
+      "translated": "Network",
+      "tag": "h4"
+    },
+    {
+      "original": "Antivirus",
+      "translated": "Antivirus",
+      "tag": "h4"
+    },
+    {
+      "original": "Cartouches",
+      "translated": "Cartridges",
+      "tag": "h4"
+    },
+    {
+      "original": "Transport et Logistique",
+      "translated": "Transport and Logistics",
+      "tag": "h2"
+    },
+    {
+      "original": "Service de livraison rapide et fiable pour tous vos équipements et fournitures. Nous assurons le transport de marchandises sur l'ensemble du territoire ivoirien avec notre flotte de véhicules adaptés.",
+      "translated": "Fast and reliable delivery service for all your equipment and supplies. We ensure the transport of goods throughout the Ivorian territory with our fleet of adapted vehicles.",
+      "tag": "p"
+    },
+    {
+      "original": "Livraison express disponible",
+      "translated": "Express delivery available",
+      "tag": "li"
+    },
+    {
+      "original": "Suivi en temps réel",
+      "translated": "Real-time tracking",
+      "tag": "li"
+    },
+    {
+      "original": "Emballage sécurisé",
+      "translated": "Secure packaging",
+      "tag": "li"
+    },
+    {
+      "original": "Assurance marchandises",
+      "translated": "Cargo insurance",
+      "tag": "li"
+    },
+    {
+      "original": "Services de Placement de Personnel",
+      "translated": "Staff Placement Services",
+      "tag": "h2"
+    },
+    {
+      "original": "Personnel Technique",
+      "translated": "Technical Staff",
+      "tag": "h3"
+    },
+    {
+      "original": "Mise à disposition d'opérateurs qualifiés pour engins miniers, techniciens de maintenance, soudeurs, électriciens et autres profils techniques spécialisés.",
+      "translated": "Provision of qualified operators for mining machines, maintenance technicians, welders, electricians and other specialized technical profiles.",
+      "tag": "p"
+    },
+    {
+      "original": "Personnel Administratif",
+      "translated": "Administrative Staff",
+      "tag": "h3"
+    },
+    {
+      "original": "Recrutement et placement de personnel administratif qualifié : secrétaires, comptables, assistants de direction, agents d'accueil et personnel de support.",
+      "translated": "Recruitment and placement of qualified administrative staff: secretaries, accountants, executive assistants, reception agents and support staff.",
+      "tag": "p"
+    },
+    {
+      "original": "Missions Temporaires",
+      "translated": "Temporary Missions",
+      "tag": "h3"
+    },
+    {
+      "original": "Solutions flexibles pour vos besoins en personnel temporaire : remplacement, renfort d'équipe, projets ponctuels avec personnel qualifié et disponible rapidement.",
+      "translated": "Flexible solutions for your temporary staffing needs: replacement, team reinforcement, one-off projects with qualified staff available quickly.",
+      "tag": "p"
+    },
+    {
+      "original": "Recrutement Sur Mesure",
+      "translated": "Tailored Recruitment",
+      "tag": "h3"
+    },
+    {
+      "original": "Service de recrutement personnalisé selon vos critères spécifiques. Nous identifions, sélectionnons et formons le personnel adapté à vos besoins.",
+      "translated": "Personalized recruitment service according to your specific criteria. We identify, select and train the personnel adapted to your needs.",
+      "tag": "p"
+    },
+    {
+      "original": "Pourquoi Choisir GMS?",
+      "translated": "Why Choose GMS?",
+      "tag": "h2"
+    },
+    {
+      "original": "Stock Disponible",
+      "translated": "Stock Available",
+      "tag": "h3"
+    },
+    {
+      "original": "Large gamme de produits en stock pour livraison immédiate",
+      "translated": "Wide range of products in stock for immediate delivery",
+      "tag": "p"
+    },
+    {
+      "original": "Prix Compétitifs",
+      "translated": "Competitive Prices",
+      "tag": "h3"
+    },
+    {
+      "original": "Tarifs attractifs grâce à nos partenariats avec les meilleurs fournisseurs",
+      "translated": "Attractive prices thanks to our partnerships with the best suppliers",
+      "tag": "p"
+    },
+    {
+      "original": "Service Client",
+      "translated": "Customer Service",
+      "tag": "h3"
+    },
+    {
+      "original": "Équipe dédiée pour vous accompagner dans vos choix et commandes",
+      "translated": "Dedicated team to support you in your choices and orders",
+      "tag": "p"
+    },
+    {
+      "original": "Livraison Rapide",
+      "translated": "Fast Delivery",
+      "tag": "h3"
+    },
+    {
+      "original": "Service de livraison fiable sur toute la Côte d'Ivoire",
+      "translated": "Reliable delivery service throughout Ivory Coast",
+      "tag": "p"
+    },
+    {
+      "original": "Garantie Qualité",
+      "translated": "Quality Guarantee",
+      "tag": "h3"
+    },
+    {
+      "original": "Produits de marques reconnues avec garantie constructeur",
+      "translated": "Products from recognized brands with manufacturer's warranty",
+      "tag": "p"
+    },
+    {
+      "original": "Paiement Flexible",
+      "translated": "Flexible Payment",
+      "tag": "h3"
+    },
+    {
+      "original": "Options de paiement adaptées pour les entreprises",
+      "translated": "Business-friendly payment options",
+      "tag": "p"
+    },
+    {
+      "original": "Besoin de Fournitures ou de Personnel?",
+      "translated": "Need Supplies or Staff?",
+      "tag": "h2"
+    },
+    {
+      "original": "Contactez-nous pour obtenir un devis personnalisé ou discuter de vos besoins en personnel qualifié.",
+      "translated": "Contact us to get a personalized quote or discuss your qualified personnel needs.",
+      "tag": "p"
+    },
+    {
+      "original": "Demander un Devis",
+      "translated": "Request a Quote",
+      "tag": "a"
+    },
+    {
+      "original": "Appeler Maintenant",
+      "translated": "Call Now",
+      "tag": "a"
+    },
+    {
+      "original": "SARL",
+      "translated": "SARL",
+      "tag": "span"
+    },
+    {
+      "original": "Gontougo Mining Service",
+      "translated": "Gontougo Mining Service",
+      "tag": "p"
+    },
+    {
+      "original": "La sécurité, la clé de la production",
+      "translated": "Safety, the key to production",
+      "tag": "p"
+    },
+    {
+      "original": "Liens Rapides",
+      "translated": "Quick Links",
+      "tag": "h3"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "li"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "li"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "li"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "li"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "h3"
+    },
+    {
+      "original": "• Location d'engins miniers",
+      "translated": "• Mining equipment rental",
+      "tag": "li"
+    },
+    {
+      "original": "• Tuyauterie plastique et métallique",
+      "translated": "• Plastic and metal piping",
+      "tag": "li"
+    },
+    {
+      "original": "• Transport et logistique",
+      "translated": "• Transport and logistics",
+      "tag": "li"
+    },
+    {
+      "original": "• Dewatering",
+      "translated": "• Dewatering",
+      "tag": "li"
+    },
+    {
+      "original": "• Charpente métallique",
+      "translated": "• Metal frame",
+      "tag": "li"
+    },
+    {
+      "original": "• Commerce général",
+      "translated": "• General trade",
+      "tag": "li"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "h3"
+    },
+    {
+      "original": "Tanda, Quartier RésidentielEn face du Lycée Moderne",
+      "translated": "Tanda, Residential Area Opposite the Lycée Moderne",
+      "tag": "li"
+    },
+    {
+      "original": "Tanda, Quartier RésidentielEn face du Lycée Moderne",
+      "translated": "Tanda, Residential Area Opposite the Lycée Moderne",
+      "tag": "span"
+    },
+    {
+      "original": "(+225) 0788884940",
+      "translated": "(+225) 0788884940",
+      "tag": "li"
+    },
+    {
+      "original": "(+225) 0788884940",
+      "translated": "(+225) 0788884940",
+      "tag": "a"
+    },
+    {
+      "original": "contact@gms-sarl.com",
+      "translated": "contact@gms-sarl.com",
+      "tag": "li"
+    },
+    {
+      "original": "contact@gms-sarl.com",
+      "translated": "contact@gms-sarl.com",
+      "tag": "a"
+    },
+    {
+      "original": "RCCM: CI-ABG2023M0103 | CODE CDI: 911",
+      "translated": "RCCM: CI-ABG2023M0103 | CDI CODE: 911",
+      "tag": "p"
+    },
+    {
+      "original": "Régime Juridique: SARL",
+      "translated": "Legal Regime: SARL",
+      "tag": "p"
+    },
+    {
+      "original": "© 2025 Gontougo Mining Service SARL. Tous droits réservés.",
+      "translated": "© 2025 Gontougo Mining Service SARL. All rights reserved.",
+      "tag": "p"
+    }
+  ],
+  "http://localhost:5173/contact": [
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Services",
+      "translated": "Services",
+      "tag": "button"
+    },
+    {
+      "original": "Location de Véhicules Légers",
+      "translated": "Light Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Location de Véhicules Lourds",
+      "translated": "Heavy Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Formation en conduite d'engins lourds",
+      "translated": "Heavy equipment driving training",
+      "tag": "a"
+    },
+    {
+      "original": "Formation DEWATERING / NATATION",
+      "translated": "DEWATERING / SWIMMING training",
+      "tag": "a"
+    },
+    {
+      "original": "Plomberie DEWATERING & Tuyauterie & Polyfusion",
+      "translated": "Plumbing DEWATERING & Piping & Polyfusion",
+      "tag": "a"
+    },
+    {
+      "original": "Menuiserie",
+      "translated": "Carpentry",
+      "tag": "a"
+    },
+    {
+      "original": "Construction de Charpente Métallique",
+      "translated": "Metal Frame Construction",
+      "tag": "a"
+    },
+    {
+      "original": "Forage et Travaux spécialisés",
+      "translated": "Drilling and Specialized Works",
+      "tag": "a"
+    },
+    {
+      "original": "Froid et Climatisation",
+      "translated": "Cold and Air Conditioning",
+      "tag": "a"
+    },
+    {
+      "original": "Commerce",
+      "translated": "Trade",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "🇬🇧EN",
+      "translated": "🇬🇧EN",
+      "tag": "button"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Location de Véhicules",
+      "translated": "Vehicle Rental",
+      "tag": "a"
+    },
+    {
+      "original": "Engins Lourds",
+      "translated": "Heavy machinery",
+      "tag": "a"
+    },
+    {
+      "original": "Plomberie & Polyfusion",
+      "translated": "Plumbing & Polyfusion",
+      "tag": "a"
+    },
+    {
+      "original": "Charpente Métallique",
+      "translated": "Metal Frame",
+      "tag": "a"
+    },
+    {
+      "original": "Commerce",
+      "translated": "Trade",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "Contactez-Nous",
+      "translated": "Contact Us",
+      "tag": "h1"
+    },
+    {
+      "original": "Notre équipe est à votre disposition pour répondre à toutes vos questions",
+      "translated": "Our team is at your disposal to answer all your questions",
+      "tag": "p"
+    },
+    {
+      "original": "Envoyez-nous un Message",
+      "translated": "Send us a Message",
+      "tag": "h2"
+    },
+    {
+      "original": "Remplissez le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais.",
+      "translated": "Complete the form below and we will respond to you as soon as possible.",
+      "tag": "p"
+    },
+    {
+      "original": "Envoyer le Message",
+      "translated": "Send Message",
+      "tag": "button"
+    },
+    {
+      "original": "Nos Coordonnées",
+      "translated": "Our Contact Information",
+      "tag": "h2"
+    },
+    {
+      "original": "Retrouvez toutes nos informations de contact ci-dessous",
+      "translated": "Find all our contact information below",
+      "tag": "p"
+    },
+    {
+      "original": "Adresse",
+      "translated": "Address",
+      "tag": "h3"
+    },
+    {
+      "original": "Tanda, Quartier RésidentielEn face du Lycée ModerneCôte d'Ivoire",
+      "translated": "Tanda, Residential Area Opposite the Lycée ModerneCôte d’Ivoire",
+      "tag": "p"
+    },
+    {
+      "original": "Téléphone",
+      "translated": "Phone",
+      "tag": "h3"
+    },
+    {
+      "original": "(+225) 07 88 88 49 40",
+      "translated": "(+225) 07 88 88 49 40",
+      "tag": "p"
+    },
+    {
+      "original": "(+225) 07 88 88 49 40",
+      "translated": "(+225) 07 88 88 49 40",
+      "tag": "a"
+    },
+    {
+      "original": "Email",
+      "translated": "E-mail",
+      "tag": "h3"
+    },
+    {
+      "original": "contact@gms-sarl.com",
+      "translated": "contact@gms-sarl.com",
+      "tag": "p"
+    },
+    {
+      "original": "contact@gms-sarl.com",
+      "translated": "contact@gms-sarl.com",
+      "tag": "a"
+    },
+    {
+      "original": "Horaires",
+      "translated": "Schedules",
+      "tag": "h3"
+    },
+    {
+      "original": "Lun - Ven: 8h00 - 17h30Sam: 8h00 - 12h00Dim: Fermé",
+      "translated": "Mon - Fri: 8:00 a.m. - 5:30 p.m. Sat: 8:00 a.m. - 12:00 p.m. Sun: Closed",
+      "tag": "p"
+    },
+    {
+      "original": "Informations Légales",
+      "translated": "Legal Information",
+      "tag": "h3"
+    },
+    {
+      "original": "RCCM:",
+      "translated": "RCCM:",
+      "tag": "span"
+    },
+    {
+      "original": "CI-ABG2023M0103",
+      "translated": "CI-ABG2023M0103",
+      "tag": "span"
+    },
+    {
+      "original": "CODE CDI:",
+      "translated": "CDI CODE:",
+      "tag": "span"
+    },
+    {
+      "original": "911",
+      "translated": "911",
+      "tag": "span"
+    },
+    {
+      "original": "Régime Juridique:",
+      "translated": "Legal Regime:",
+      "tag": "span"
+    },
+    {
+      "original": "SARL",
+      "translated": "SARL",
+      "tag": "span"
+    },
+    {
+      "original": "Carte interactive",
+      "translated": "Interactive map",
+      "tag": "p"
+    },
+    {
+      "original": "Tanda, Côte d'Ivoire",
+      "translated": "Tanda, Ivory Coast",
+      "tag": "p"
+    },
+    {
+      "original": "Besoin d'une Intervention Urgente?",
+      "translated": "Need Urgent Intervention?",
+      "tag": "h2"
+    },
+    {
+      "original": "Notre équipe est disponible pour répondre à vos urgences",
+      "translated": "Our team is available to respond to your emergencies",
+      "tag": "p"
+    },
+    {
+      "original": "Appeler Maintenant",
+      "translated": "Call Now",
+      "tag": "a"
+    },
+    {
+      "original": "Envoyer un Email",
+      "translated": "Send an Email",
+      "tag": "a"
+    },
+    {
+      "original": "SARL",
+      "translated": "SARL",
+      "tag": "span"
+    },
+    {
+      "original": "Gontougo Mining Service",
+      "translated": "Gontougo Mining Service",
+      "tag": "p"
+    },
+    {
+      "original": "La sécurité, la clé de la production",
+      "translated": "Safety, the key to production",
+      "tag": "p"
+    },
+    {
+      "original": "Liens Rapides",
+      "translated": "Quick Links",
+      "tag": "h3"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "li"
+    },
+    {
+      "original": "Accueil",
+      "translated": "Welcome",
+      "tag": "a"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "li"
+    },
+    {
+      "original": "À Propos",
+      "translated": "About",
+      "tag": "a"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "li"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "a"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "li"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "a"
+    },
+    {
+      "original": "Nos Services",
+      "translated": "Our Services",
+      "tag": "h3"
+    },
+    {
+      "original": "• Location d'engins miniers",
+      "translated": "• Mining equipment rental",
+      "tag": "li"
+    },
+    {
+      "original": "• Tuyauterie plastique et métallique",
+      "translated": "• Plastic and metal piping",
+      "tag": "li"
+    },
+    {
+      "original": "• Transport et logistique",
+      "translated": "• Transport and logistics",
+      "tag": "li"
+    },
+    {
+      "original": "• Dewatering",
+      "translated": "• Dewatering",
+      "tag": "li"
+    },
+    {
+      "original": "• Charpente métallique",
+      "translated": "• Metal frame",
+      "tag": "li"
+    },
+    {
+      "original": "• Commerce général",
+      "translated": "• General trade",
+      "tag": "li"
+    },
+    {
+      "original": "Contact",
+      "translated": "Contact",
+      "tag": "h3"
+    },
+    {
+      "original": "Tanda, Quartier RésidentielEn face du Lycée Moderne",
+      "translated": "Tanda, Residential Area Opposite the Lycée Moderne",
+      "tag": "li"
+    },
+    {
+      "original": "Tanda, Quartier RésidentielEn face du Lycée Moderne",
+      "translated": "Tanda, Residential Area Opposite the Lycée Moderne",
+      "tag": "span"
+    },
+    {
+      "original": "(+225) 0788884940",
+      "translated": "(+225) 0788884940",
+      "tag": "li"
+    },
+    {
+      "original": "(+225) 0788884940",
+      "translated": "(+225) 0788884940",
+      "tag": "a"
+    },
+    {
+      "original": "contact@gms-sarl.com",
+      "translated": "contact@gms-sarl.com",
+      "tag": "li"
+    },
+    {
+      "original": "contact@gms-sarl.com",
+      "translated": "contact@gms-sarl.com",
+      "tag": "a"
+    },
+    {
+      "original": "RCCM: CI-ABG2023M0103 | CODE CDI: 911",
+      "translated": "RCCM: CI-ABG2023M0103 | CDI CODE: 911",
+      "tag": "p"
+    },
+    {
+      "original": "Régime Juridique: SARL",
+      "translated": "Legal Regime: SARL",
+      "tag": "p"
+    },
+    {
+      "original": "© 2025 Gontougo Mining Service SARL. Tous droits réservés.",
+      "translated": "© 2025 Gontougo Mining Service SARL. All rights reserved.",
+      "tag": "p"
+    }
+  ]
+}

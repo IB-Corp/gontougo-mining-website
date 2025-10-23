@@ -278,6 +278,21 @@ const galleryItems = ref([
     src: '/images/gallery/metal-construction/image2.jpg',
     caption: 'Toiture Industrielle'
   },
+  {
+    type: 'image',
+    src: '/images/gallery/metal-construction/image3.jpg',
+    caption: 'Charpente Métallique'
+  },
+  {
+    type: 'image',
+    src: '/images/gallery/metal-construction/image4.jpg',
+    caption: 'Charpente Métallique'
+  },
+  {
+    type: 'image',
+    src: '/images/gallery/metal-construction/image5.jpg',
+    caption: 'Toiture Industrielle'
+  },
 ])
 // Test with working placeholder images first - These should work immediately
 // const galleryItems = ref([

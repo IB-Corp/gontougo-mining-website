@@ -4,10 +4,10 @@
     <section class="page-header bg-gradient-to-r from-gms-red to-red-700 text-white py-16">
       <div class="container mx-auto px-4">
         <h1 class="text-4xl md:text-5xl font-bold text-center mb-4">
-          Location de Véhicule Lourd
+         {{ $t('heavyVehicleRental.heavyVehicleRental') }}
         </h1>
         <p class="text-xl text-center text-red-100 max-w-2xl mx-auto">
-          Engins lourds de qualité pour vos projets miniers et de construction
+         {{ $t('heavyVehicleRental.qualityHeavyMachineryForYourMiningAndConstructionProjects') }}
         </p>
       </div>
     </section>
@@ -24,22 +24,18 @@
             </div>
             
             <div class="equipment-content">
-              <h3 class="equipment-title">COMPACTEUR CAT</h3>
+              <h3 class="equipment-title">{{ $t('heavyVehicleRental.vehicles.catCompactor.name') }}</h3>
               
               <div class="specs-grid">
                 <div class="spec-item">
-                  <span class="spec-label">Moteur Puissance brute:</span>
-                  <span class="spec-value">83 KW</span>
+                  <span class="spec-label">{{ $t('heavyVehicleRental.vehicles.catCompactor.engineGrossPower') }}</span>
+                  <span class="spec-value">{{ $t('heavyVehicleRental.vehicles.catCompactor.power') }}</span>
                 </div>
                 <div class="spec-item">
-                  <span class="spec-label">Largeur de compactage:</span>
-                  <span class="spec-value">2134 mm</span>
+                  <span class="spec-label">{{ $t('heavyVehicleRental.vehicles.catCompactor.compactionWidth') }}</span>
+                  <span class="spec-value">{{ $t('heavyVehicleRental.vehicles.catCompactor.width') }}</span>
                 </div>
               </div>
-
-              <button class="contact-btn">
-                Demander un Devis
-              </button>
             </div>
           </div>
 
@@ -50,22 +46,18 @@
             </div>
             
             <div class="equipment-content">
-              <h3 class="equipment-title">TRACTOPELLE CAT</h3>
+              <h3 class="equipment-title">{{ $t('heavyVehicleRental.vehicles.catBackhoeLoader.name') }}</h3>
               
               <div class="specs-grid">
                 <div class="spec-item">
-                  <span class="spec-label">Dimensions standards:</span>
-                  <span class="spec-value">555 x 300 x 250 cm</span>
+                  <span class="spec-label">{{ $t('heavyVehicleRental.vehicles.catBackhoeLoader.standardDimensions') }}</span>
+                  <span class="spec-value">{{ $t('heavyVehicleRental.vehicles.catBackhoeLoader.dimensions') }}</span>
                 </div>
                 <div class="spec-item">
-                  <span class="spec-label">Avec godet standard:</span>
-                  <span class="spec-value">Disponible</span>
+                  <span class="spec-label">{{ $t('heavyVehicleRental.vehicles.catBackhoeLoader.withStandardBucket') }}</span>
+                  <span class="spec-value">{{ $t('heavyVehicleRental.vehicles.catBackhoeLoader.availability') }}</span>
                 </div>
               </div>
-
-              <button class="contact-btn">
-                Demander un Devis
-              </button>
             </div>
           </div>
 
@@ -76,22 +68,19 @@
             </div>
             
             <div class="equipment-content">
-              <h3 class="equipment-title">PELLE HYDRAULIQUE CAT</h3>
+              <h3 class="equipment-title">{{ $t('heavyVehicleRental.vehicles.catHydraulicExcavator.name') }}</h3>
               
               <div class="specs-grid">
                 <div class="spec-item">
-                  <span class="spec-label">Puissance du moteur:</span>
-                  <span class="spec-value">200 kW / 270 ch</span>
+                  <span class="spec-label">{{ $t('heavyVehicleRental.vehicles.catHydraulicExcavator.enginePower') }}</span>
+                  <span class="spec-value">{{ $t('heavyVehicleRental.vehicles.catHydraulicExcavator.power') }}</span>
                 </div>
                 <div class="spec-item">
-                  <span class="spec-label">Capacité du godet:</span>
-                  <span class="spec-value">À partir de 0,8 m3</span>
+                  <span class="spec-label">{{ $t('heavyVehicleRental.vehicles.catHydraulicExcavator.bucketCapacity') }}</span>
+                  <span class="spec-value">{{ $t('heavyVehicleRental.vehicles.catHydraulicExcavator.capacity') }}</span>
                 </div>
               </div>
 
-              <button class="contact-btn">
-                Demander un Devis
-              </button>
             </div>
           </div>
 
@@ -103,26 +92,22 @@
 
 
  <div class="equipment-content">
-              <h3 class="equipment-title">CHARGEUSE CAT</h3>
+              <h3 class="equipment-title">{{ $t('heavyVehicleRental.vehicles.catLoader.name') }}</h3>
               
               <div class="specs-grid">
                 <div class="spec-item">
-                  <span class="spec-label">Capacité du godet:</span>
-                  <span class="spec-value">À partir de 4,4 m³</span>
+                  <span class="spec-label">{{ $t('heavyVehicleRental.vehicles.catLoader.bucketCapacity') }}</span>
+                  <span class="spec-value">{{ $t('heavyVehicleRental.vehicles.catLoader.capacity') }}</span>
                 </div>
                 <div class="spec-item">
-                  <span class="spec-label">Poid opérationnel:</span>
-                  <span class="spec-value">23,22 t</span>
+                  <span class="spec-label">{{ $t('heavyVehicleRental.vehicles.catLoader.operatingWeight') }}</span>
+                  <span class="spec-value">{{ $t('heavyVehicleRental.vehicles.catLoader.weight') }}</span>
                 </div>
                 <div class="spec-item">
-                  <span class="spec-label">Puissance du moteur:</span>
-                  <span class="spec-value">232 kW</span>
+                  <span class="spec-label">{{ $t('heavyVehicleRental.vehicles.catLoader.enginePower') }}</span>
+                  <span class="spec-value">{{ $t('heavyVehicleRental.vehicles.catLoader.power') }}</span>
                 </div>
               </div>
-
-              <button class="contact-btn">
-                Demander un Devis
-              </button>
             </div>
           </div>
             
@@ -133,22 +118,20 @@
             </div>
             
             <div class="equipment-content">
-              <h3 class="equipment-title">MANITOU</h3>
+              <h3 class="equipment-title">{{ $t('heavyVehicleRental.vehicles.manitou.name') }}</h3>
               
               <div class="specs-grid">
                 <div class="spec-item">
-                  <span class="spec-label">Flèche jusqu'à:</span>
-                  <span class="spec-value">13 m</span>
+                  <span class="spec-label">{{ $t('heavyVehicleRental.vehicles.manitou.arrowTo') }}</span>
+                  <span class="spec-value">{{ $t('heavyVehicleRental.vehicles.manitou.arrow') }}</span>
                 </div>
                 <div class="spec-item">
-                  <span class="spec-label">Capacité de levage:</span>
-                  <span class="spec-value">3,5 t</span>
+                  <span class="spec-label">{{ $t('heavyVehicleRental.vehicles.manitou.liftingCapacity') }}</span>
+                  <span class="spec-value">{{ $t('heavyVehicleRental.vehicles.manitou.capacity') }}</span>
                 </div>
               </div>
 
-              <button class="contact-btn">
-                Demander un Devis
-              </button>
+           
             </div>
           </div>
 
@@ -159,32 +142,24 @@
             </div>
             
             <div class="equipment-content">
-              <h3 class="equipment-title">BULLDOZER CAT</h3>
+              <h3 class="equipment-title">{{ $t('heavyVehicleRental.vehicles.bulldozerCat.name') }}</h3>
               
               <div class="specs-grid">
                 <div class="spec-item">
-                  <span class="spec-label">Puissance du moteur:</span>
-                  <span class="spec-value">187 kW</span>
+                  <span class="spec-label">{{ $t('heavyVehicleRental.vehicles.bulldozerCat.enginePower') }}</span>
+                  <span class="spec-value">{{ $t('heavyVehicleRental.vehicles.bulldozerCat.power') }}</span>
                 </div>
                 <div class="spec-item">
-                  <span class="spec-label">Cylindrée du moteur:</span>
-                  <span class="spec-value">9,3 l</span>
+                  <span class="spec-label">{{ $t('heavyVehicleRental.vehicles.bulldozerCat.engineDisplacement') }}</span>
+                  <span class="spec-value">{{ $t('heavyVehicleRental.vehicles.bulldozerCat.displacement') }}</span>
                 </div>
               </div>
-
-              <button class="contact-btn">
-                Demander un Devis
-              </button>
             </div>
           </div>
 
         </div>
 
-        
-
         </div>
-      
-      <!-- </div> -->
       
     </section>
 
@@ -192,7 +167,7 @@
     <section class="py-16 bg-white">
       <div class="container mx-auto px-4">
         <h2 class="text-3xl md:text-4xl font-bold text-center text-gray-900 mb-12">
-          Pourquoi Louer Nos Engins Lourds?
+         {{ $t('heavyVehicleRental.whyRentOurHeavyEquipment') }}
         </h2>
         
         <div class="grid md:grid-cols-4 gap-6 max-w-6xl mx-auto">
@@ -202,8 +177,8 @@
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z" />
               </svg>
             </div>
-            <h3 class="benefit-title">Équipement CAT</h3>
-            <p class="benefit-description">Machines Caterpillar de qualité supérieure</p>
+            <h3 class="benefit-title">{{ $t('heavyVehicleRental.catEquipment') }}</h3>
+            <p class="benefit-description">{{ $t('heavyVehicleRental.topQualityCaterpillarMachines') }}</p>
           </div>
 
           <div class="benefit-card">
@@ -213,8 +188,8 @@
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
               </svg>
             </div>
-            <h3 class="benefit-title">Maintenance</h3>
-            <p class="benefit-description">Entretien régulier et contrôles rigoureux</p>
+            <h3 class="benefit-title">{{ $t('heavyVehicleRental.maintenance') }}</h3>
+            <p class="benefit-description">{{ $t('heavyVehicleRental.regularMaintenanceAndRigorousChecks') }}</p>
           </div>
 
           <div class="benefit-card">
@@ -223,8 +198,8 @@
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18 9v3m0 0v3m0-3h3m-3 0h-3m-2-5a4 4 0 11-8 0 4 4 0 018 0zM3 20a6 6 0 0112 0v1H3v-1z" />
               </svg>
             </div>
-            <h3 class="benefit-title">Opérateurs</h3>
-            <p class="benefit-description">Personnel qualifié disponible sur demande</p>
+            <h3 class="benefit-title">{{ $t('heavyVehicleRental.operators') }}</h3>
+            <p class="benefit-description">{{ $t('heavyVehicleRental.qualifiedPersonnelAvailableOnRequest') }}</p>
           </div>
 
           <div class="benefit-card">
@@ -233,49 +208,8 @@
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
             </div>
-            <h3 class="benefit-title">Livraison Rapide</h3>
-            <p class="benefit-description">Transport et installation sur site</p>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- Applications Section -->
-    <section class="py-16 bg-gray-50">
-      <div class="container mx-auto px-4">
-        <h2 class="text-3xl md:text-4xl font-bold text-center text-gray-900 mb-12">
-          Applications
-        </h2>
-        
-        <div class="grid md:grid-cols-3 gap-8 max-w-5xl mx-auto">
-          <div class="application-card">
-            <h3 class="application-title">Mines</h3>
-            <ul class="application-list">
-              <li>Extraction minière</li>
-              <li>Terrassement</li>
-              <li>Transport de matériaux</li>
-              <li>Nivellement de terrain</li>
-            </ul>
-          </div>
-
-          <div class="application-card">
-            <h3 class="application-title">Construction</h3>
-            <ul class="application-list">
-              <li>Travaux de terrassement</li>
-              <li>Fondations</li>
-              <li>Démolition</li>
-              <li>Travaux routiers</li>
-            </ul>
-          </div>
-
-          <div class="application-card">
-            <h3 class="application-title">Infrastructure</h3>
-            <ul class="application-list">
-              <li>Routes et autoroutes</li>
-              <li>Barrages</li>
-              <li>Aéroports</li>
-              <li>Grands projets</li>
-            </ul>
+            <h3 class="benefit-title">{{ $t('heavyVehicleRental.fastDelivery') }}</h3>
+            <p class="benefit-description">{{ $t('heavyVehicleRental.transportationAndInstallationOnSite') }}</p>
           </div>
         </div>
       </div>
@@ -285,16 +219,16 @@
     <section class="py-16 bg-gradient-to-r from-gms-red to-red-700 text-white">
       <div class="container mx-auto px-4 text-center">
         <h2 class="text-3xl md:text-4xl font-bold mb-6">
-          Prêt à Louer Nos Engins Lourds?
+          {{ $t('heavyVehicleRental.readyToRentOurHeavyEquipment') }}
         </h2>
         <p class="text-xl mb-8 text-red-100 max-w-2xl mx-auto">
-          Contactez nos experts pour discuter de vos besoins spécifiques et obtenir un devis détaillé.
+          {{ $t('heavyVehicleRental.contactOurExpertsToDiscussYourSpecificNeedsAndObtainADetailedQuote') }}
         </p>
         <router-link 
           to="/contact" 
           class="inline-block bg-white text-gms-red px-8 py-4 rounded-lg font-semibold hover:bg-gray-100 transition shadow-lg"
         >
-          Obtenir un Devis
+          {{ $t('heavyVehicleRental.getAQuote') }}
         </router-link>
       </div>
     </section>

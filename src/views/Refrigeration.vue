@@ -200,7 +200,7 @@
           Découvrez quelques exemples de nos projets de froids et climatisation réalisés avec succès
         </p>
 
-      <MediaGallery :mediaItems="galleryItems" />
+      <MediaGallery :mediaItems="galleryItems" /> 
       </div>
     </section>
 

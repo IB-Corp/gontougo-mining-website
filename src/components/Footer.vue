@@ -14,32 +14,37 @@
             Gontougo Mining Service
           </p>
           <p class="text-gms-blue font-semibold mt-2 text-sm">
-            La sécurité, la clé de la production
+            {{ $t('home.motto') }}
           </p>
         </div>
 
         <!-- Quick Links -->
         <div>
-          <h3 class="text-lg font-semibold mb-4">Liens Rapides</h3>
+          <h3 class="text-lg font-semibold mb-4">{{ $t('footer.quickLinks') }}</h3>
           <ul class="space-y-2">
             <li>
               <router-link to="/" class="footer-link">
-                Accueil
+                {{ $t('nav.home') }}
               </router-link>
             </li>
             <li>
               <router-link to="/about" class="footer-link">
-                À Propos
+                {{ $t('nav.about') }}
               </router-link>
             </li>
             <li>
               <router-link to="/vehicles" class="footer-link">
-                Nos Services
+                {{ $t('nav.services') }}
+              </router-link>
+            </li>
+               <li>
+              <router-link to="/commerce" class="footer-link">
+                {{ $t('nav.commerce') }}
               </router-link>
             </li>
             <li>
               <router-link to="/contact" class="footer-link">
-                Contact
+                {{ $t('nav.contact') }}
               </router-link>
             </li>
           </ul>
@@ -47,14 +52,14 @@
 
         <!-- Services -->
         <div>
-          <h3 class="text-lg font-semibold mb-4">Nos Services</h3>
+          <h3 class="text-lg font-semibold mb-4">{{ $t('footer.ourServices') }}</h3>
           <ul class="space-y-2 text-sm">
-            <li class="text-gray-400">• Location d'engins miniers</li>
-            <li class="text-gray-400">• Tuyauterie plastique et métallique</li>
-            <li class="text-gray-400">• Transport et logistique</li>
-            <li class="text-gray-400">• Dewatering</li>
-            <li class="text-gray-400">• Charpente métallique</li>
-            <li class="text-gray-400">• Commerce général</li>
+            <li class="text-gray-400">• {{ $t('servicesMenu.lightVehicles')}}</li>
+            <li class="text-gray-400">• {{ $t('servicesMenu.plumbing')}}</li>
+            <li class="text-gray-400">• {{ $t('servicesMenu.heavyTraining')}}</li>
+            <li class="text-gray-400">• {{ $t('servicesMenu.dewateringTraining')}}</li>
+            <li class="text-gray-400">• {{ $t('servicesMenu.metalConstruction')}}</li>
+            <li class="text-gray-400">• {{ $t('servicesMenu.commerce')}}</li>
           </ul>
         </div>
 
@@ -68,8 +73,8 @@
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
               </svg>
               <span class="text-gray-400">
-                Tanda, Quartier Résidentiel<br>
-                En face du Lycée Moderne
+                {{ $t('footer.locationMainArea') }}<br>
+                {{ $t('footer.locationBranchArea') }}
               </span>
             </li>
             <li class="flex items-center">
@@ -99,10 +104,10 @@
         <div class="flex flex-col md:flex-row justify-between items-center text-sm text-gray-400">
           <div class="mb-4 md:mb-0">
             <p>RCCM: CI-ABG2023M0103 | CODE CDI: 911</p>
-            <p class="mt-1">Régime Juridique: SARL</p>
+            <p class="mt-1">{{ $t('footer.legalRegime') }}</p>
           </div>
           <div class="text-center md:text-right">
-            <p>&copy; {{ currentYear }} Gontougo Mining Service SARL. Tous droits réservés.</p>
+            <p>&copy; {{ currentYear }}{{ $t('footer.copyright') }}</p>
           </div>
         </div>
       </div>

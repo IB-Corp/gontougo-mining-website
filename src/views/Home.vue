@@ -10,19 +10,15 @@
               GONTOUGO MINING SERVICE
               <span class="text-gms-red"> SARL</span>
             </h1>
-            <div class="inline-block bg-gms-blue text-white px-6 py-2 rounded-full text-lg font-semibold">
-              CATALOGUE 2025
-            </div>
           </div>
 
           <!-- Company Motto -->
           <h2 class="text-2xl md:text-4xl font-semibold text-gray-800 mb-8">
-            La sécurité, la clé de la production
+            {{ $t('home.motto') }}
           </h2>
 
           <p class="text-lg text-gray-600 mb-10 max-w-2xl mx-auto">
-            Entreprise de service diversifiée spécialisée dans l'exploitation minière 
-            et les industries connexes en Côte d'Ivoire.
+            {{ $t('home.description') }}
           </p>
 
           <!-- CTA Buttons -->
@@ -31,13 +27,13 @@
               to="/about" 
               class="bg-gms-blue text-white px-8 py-4 rounded-lg font-semibold hover:bg-blue-700 transition shadow-lg"
             >
-              Découvrir GMS
+              {{$t('home.discover')}}
             </router-link>
             <router-link 
               to="/contact" 
               class="bg-gms-red text-white px-8 py-4 rounded-lg font-semibold hover:bg-red-700 transition shadow-lg"
             >
-              Nous Contacter
+              {{ $t('home.contactUs') }}
             </router-link>
           </div>
         </div>
@@ -52,10 +48,10 @@
       <div class="container mx-auto px-4">
         <div class="text-center mb-16">
           <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-            Nos Services
+           {{ $t('home.ourServices') }}
           </h2>
           <p class="text-lg text-gray-600 max-w-2xl mx-auto">
-            Des solutions complètes pour vos projets miniers et industriels
+            {{ $t('home.servicesDescription') }}
           </p>
         </div>
 

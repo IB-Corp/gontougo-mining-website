@@ -167,80 +167,8 @@
           Découvrez quelques exemples de nos projets de tuyauterie et de plomberie industrielle
         </p>
         
-        <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-4 max-w-6xl mx-auto">
-          <div class="gallery-item">
-            <div class="gallery-placeholder">
-              <svg class="gallery-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
-              </svg>
-              <p class="gallery-caption">Installation de tuyaux</p>
-            </div>
-          </div>
-
-          <div class="gallery-item">
-            <div class="gallery-placeholder">
-              <svg class="gallery-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
-              </svg>
-              <p class="gallery-caption">Système de dewatering</p>
-            </div>
-          </div>
-
-          <div class="gallery-item">
-            <div class="gallery-placeholder">
-              <svg class="gallery-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
-              </svg>
-              <p class="gallery-caption">Raccordement polyfusion</p>
-            </div>
-          </div>
-
-          <div class="gallery-item">
-            <div class="gallery-placeholder">
-              <svg class="gallery-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
-              </svg>
-              <p class="gallery-caption">Installation industrielle</p>
-            </div>
-          </div>
-
-          <div class="gallery-item">
-            <div class="gallery-placeholder">
-              <svg class="gallery-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
-              </svg>
-              <p class="gallery-caption">Tuyauterie métallique</p>
-            </div>
-          </div>
-
-          <div class="gallery-item">
-            <div class="gallery-placeholder">
-              <svg class="gallery-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
-              </svg>
-              <p class="gallery-caption">Réseau de distribution</p>
-            </div>
-          </div>
-
-          <div class="gallery-item">
-            <div class="gallery-placeholder">
-              <svg class="gallery-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
-              </svg>
-              <p class="gallery-caption">Station de pompage</p>
-            </div>
-          </div>
-
-          <div class="gallery-item">
-            <div class="gallery-placeholder">
-              <svg class="gallery-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
-              </svg>
-              <p class="gallery-caption">Système complet</p>
-            </div>
-          </div>
+          <MediaGallery :mediaItems="galleryItems" />
         </div>
-      </div>
     </section>
 
     <!-- Technical Expertise Section -->
@@ -307,7 +235,45 @@
 </template>
 
 <script setup>
-// No script needed for now
+import { ref } from 'vue'
+import MediaGallery from '../components/MediaGallery.vue';
+const galleryItems = ref([
+  {
+    type: 'image',
+    src: '/images/gallery/polyfusion-tuyauterie-dewatering/image0.jpg',
+    caption: 'Dewatering Mine'
+  },
+  {
+    type: 'image',
+    src: '/images/gallery/polyfusion-tuyauterie-dewatering/image1.jpg',
+    caption: 'Tuyeauterie Polyfusion Intérieure'
+  },
+  {
+    type: 'image',
+    src: '/images/gallery/polyfusion-tuyauterie-dewatering/image2.jpg',
+    caption: 'Tuyeauterie Polyfusion TSF'
+  },
+   {
+    type: 'image',
+    src: '/images/gallery/polyfusion-tuyauterie-dewatering/image3.jpg',
+    caption: 'Tuyeauterie Polyfusion TSF'
+  },
+   {
+    type: 'image',
+    src: '/images/gallery/polyfusion-tuyauterie-dewatering/image4.jpg',
+    caption: 'Tuyeauterie Polyfusion TSF'
+  },
+   {
+    type: 'image',
+    src: '/images/gallery/polyfusion-tuyauterie-dewatering/image5.jpg',
+    caption: 'Tuyeauterie Polyfusion TSF'
+  },
+  //  {
+  //   type: 'image',
+  //   src: '/images/gallery/polyfusion-tuyauterie-dewatering/image6.jpg',
+  //   caption: 'Tuyeauterie Polyfusion TSF'
+  // },
+])
 </script>
 
 <style scoped>

@@ -1,6 +1,6 @@
 import { createI18n } from 'vue-i18n'
-import fr from './french.js'
-import en from './english.js'
+import fr from './french-origin.js'
+import en from './english-origin.js'
 
 const i18n = createI18n({
   legacy: false, // Use Composition API

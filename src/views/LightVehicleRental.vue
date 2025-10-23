@@ -4,10 +4,10 @@
     <section class="page-header bg-gradient-to-r from-gms-blue to-blue-700 text-white py-16">
       <div class="container mx-auto px-4">
         <h1 class="text-4xl md:text-5xl font-bold text-center mb-4">
-          Location de Véhicule Léger & Auxiliaire
+          {{ $t('lightVehiclesRental.lightAndAuxiliaryVehicleRental') }}
         </h1>
         <p class="text-xl text-center text-blue-100 max-w-2xl mx-auto">
-          Une flotte diversifiée pour répondre à tous vos besoins de transport et de logistique
+          {{ $t('lightVehiclesRental.aDiversifiedFleetToMeetAllYourTransportAndLogisticsNeeds') }}
         </p>
       </div>
     </section>
@@ -24,30 +24,26 @@
             </div>
             
             <div class="vehicle-content">
-              <h3 class="vehicle-title">TOYOTA COASTER</h3>
+              <h3 class="vehicle-title">{{$t('lightVehiclesRental.vehicles.toyotaCoaster.name')}}</h3>
               
               <div class="specs-grid">
                 <div class="spec-item">
-                  <span class="spec-label">TYPE:</span>
-                  <span class="spec-value">2x4</span>
+                  <span class="spec-label">{{$t('lightVehiclesRental.vehicles.toyotaCoaster.kind')}}</span>
+                  <span class="spec-value">{{$t('lightVehiclesRental.vehicles.toyotaCoaster.type')}}</span>
                 </div>
                 <div class="spec-item">
-                  <span class="spec-label">CAPACITÉ:</span>
-                  <span class="spec-value">20 places</span>
+                  <span class="spec-label">{{$t('lightVehiclesRental.vehicles.toyotaCoaster.ability')}}</span>
+                  <span class="spec-value">{{$t('lightVehiclesRental.vehicles.toyotaCoaster.capacity')}}</span>
                 </div>
                 <div class="spec-item">
-                  <span class="spec-label">CABINE:</span>
-                  <span class="spec-value">Climatisée</span>
+                  <span class="spec-label">{{$t('lightVehiclesRental.vehicles.toyotaCoaster.cabin')}}</span>
+                  <span class="spec-value">{{$t('lightVehiclesRental.vehicles.toyotaCoaster.cabinType')}}</span>
                 </div>
                 <div class="spec-item">
-                  <span class="spec-label">ETAT:</span>
-                  <span class="spec-value">Neuf / occasion</span>
+                  <span class="spec-label">{{$t('lightVehiclesRental.vehicles.toyotaCoaster.state')}}</span>
+                  <span class="spec-value">{{$t('lightVehiclesRental.vehicles.toyotaCoaster.condition')}}</span>
                 </div>
               </div>
-
-              <button class="contact-btn">
-                Demander un Devis
-              </button>
             </div>
           </div>
 
@@ -58,30 +54,30 @@
             </div>
             
             <div class="vehicle-content">
-              <h3 class="vehicle-title">GENIE S60</h3>
+              <h3 class="vehicle-title">{{$t('lightVehiclesRental.vehicles.genieS60.name')}}</h3>
               
               <div class="specs-grid">
                 <div class="spec-item">
-                  <span class="spec-label">HAUTEUR DE TRAVAIL:</span>
-                  <span class="spec-value">20.30m</span>
+                  <span class="spec-label">{{$t('lightVehiclesRental.vehicles.genieS60.workingHeight')}}</span>
+                  <span class="spec-value">{{$t('lightVehiclesRental.vehicles.genieS60.height')}}</span>
                 </div>
                 <div class="spec-item">
-                  <span class="spec-label">ROTATION DE LA MACHINE:</span>
-                  <span class="spec-value">360°</span>
+                  <span class="spec-label">{{$t('lightVehiclesRental.vehicles.genieS60.machineRotation')}}</span>
+                  <span class="spec-value">{{$t('lightVehiclesRental.vehicles.genieS60.rotation')}}</span>
                 </div>
                 <div class="spec-item">
-                  <span class="spec-label">CAPACITÉ DE LEVAGE:</span>
-                  <span class="spec-value">227kg</span>
+                  <span class="spec-label">{{$t('lightVehiclesRental.vehicles.genieS60.liftingCapacity')}}</span>
+                  <span class="spec-value">{{$t('lightVehiclesRental.vehicles.genieS60.capacity')}}</span>
                 </div>
                 <div class="spec-item">
-                  <span class="spec-label">ROTATION DE LA PLATEFORME:</span>
-                  <span class="spec-value">160°</span>
+                  <span class="spec-label">{{$t('lightVehiclesRental.vehicles.genieS60.platformRotation')}}</span>
+                  <span class="spec-value">{{$t('lightVehiclesRental.vehicles.genieS60.platformDegrees')}}</span>
                 </div>
               </div>
 
-              <button class="contact-btn">
+              <!-- <button class="contact-btn">
                 Demander un Devis
-              </button>
+              </button> -->
             </div>
           </div>
 
@@ -92,30 +88,27 @@
             </div>
             
             <div class="vehicle-content">
-              <h3 class="vehicle-title">TOYOTA LAND CRUISER</h3>
+              <h3 class="vehicle-title">{{$t('lightVehiclesRental.vehicles.toyotaLandCruiser.name')}}</h3>
               
               <div class="specs-grid">
                 <div class="spec-item">
-                  <span class="spec-label">TYPE:</span>
-                  <span class="spec-value">4x4</span>
+                  <span class="spec-label">{{$t('lightVehiclesRental.vehicles.toyotaLandCruiser.kind')}}</span>
+                  <span class="spec-value">{{$t('lightVehiclesRental.vehicles.toyotaLandCruiser.type')}}</span>
                 </div>
                 <div class="spec-item">
-                  <span class="spec-label">CABINE:</span>
-                  <span class="spec-value">Climatisée</span>
+                  <span class="spec-label">{{$t('lightVehiclesRental.vehicles.toyotaLandCruiser.cabin')}}</span>
+                  <span class="spec-value">{{$t('lightVehiclesRental.vehicles.toyotaLandCruiser.cabinType')}}</span>
                 </div>
                 <div class="spec-item">
-                  <span class="spec-label">CAPACITÉ:</span>
-                  <span class="spec-value">5 places</span>
+                  <span class="spec-label">{{$t('lightVehiclesRental.vehicles.toyotaLandCruiser.ability')}}</span>
+                  <span class="spec-value">{{$t('lightVehiclesRental.vehicles.toyotaLandCruiser.capacity')}}</span>
                 </div>
                 <div class="spec-item">
-                  <span class="spec-label">ETAT:</span>
-                  <span class="spec-value">Neuf / occasion</span>
+                  <span class="spec-label">{{$t('lightVehiclesRental.vehicles.toyotaLandCruiser.state')}}</span>
+                  <span class="spec-value">{{$t('lightVehiclesRental.vehicles.toyotaLandCruiser.condition')}}</span>
                 </div>
               </div>
 
-              <button class="contact-btn">
-                Demander un Devis
-              </button>
             </div>
           </div>
 
@@ -126,30 +119,26 @@
             </div>
             
             <div class="vehicle-content">
-              <h3 class="vehicle-title">SINOTRUCK HOWO</h3>
+              <h3 class="vehicle-title">{{$t('lightVehiclesRental.vehicles.sinotruckHowo.name')}}</h3>
               
               <div class="specs-grid">
                 <div class="spec-item">
-                  <span class="spec-label">TYPE:</span>
-                  <span class="spec-value">6x4</span>
+                  <span class="spec-label">{{$t('lightVehiclesRental.vehicles.sinotruckHowo.kind')}}</span>
+                  <span class="spec-value">{{$t('lightVehiclesRental.vehicles.sinotruckHowo.type')}}</span>
                 </div>
                 <div class="spec-item">
-                  <span class="spec-label">CABINE:</span>
-                  <span class="spec-value">Climatisée</span>
+                  <span class="spec-label">{{$t('lightVehiclesRental.vehicles.sinotruckHowo.cabin')}}</span>
+                  <span class="spec-value">{{$t('lightVehiclesRental.vehicles.sinotruckHowo.cabinType')}}</span>
                 </div>
                 <div class="spec-item">
-                  <span class="spec-label">CAPACITÉ:</span>
-                  <span class="spec-value">20 mètre cube</span>
+                  <span class="spec-label">{{$t('lightVehiclesRental.vehicles.sinotruckHowo.ability')}}</span>
+                  <span class="spec-value">{{$t('lightVehiclesRental.vehicles.sinotruckHowo.capacity')}}</span>
                 </div>
                 <div class="spec-item">
-                  <span class="spec-label">ETAT:</span>
-                  <span class="spec-value">Neuf / occasion</span>
+                  <span class="spec-label">{{$t('lightVehiclesRental.vehicles.sinotruckHowo.state')}}</span>
+                  <span class="spec-value">{{$t('lightVehiclesRental.vehicles.sinotruckHowo.condition')}}</span>
                 </div>
               </div>
-
-              <button class="contact-btn">
-                Demander un Devis
-              </button>
             </div>
           </div>
 
@@ -161,7 +150,7 @@
     <section class="py-16 bg-white">
       <div class="container mx-auto px-4">
         <h2 class="text-3xl md:text-4xl font-bold text-center text-gray-900 mb-12">
-          Avantages de Notre Service de Location
+          {{ $t('lightVehiclesRental.benefitsOfOurRentalService') }}
         </h2>
         
         <div class="grid md:grid-cols-3 gap-8 max-w-5xl mx-auto">
@@ -171,9 +160,9 @@
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
             </div>
-            <h3 class="feature-title">Véhicules Entretenus</h3>
+            <h3 class="feature-title">{{ $t('lightVehiclesRental.vehiclesMaintained') }}</h3>
             <p class="feature-description">
-              Tous nos véhicules sont régulièrement entretenus et contrôlés pour garantir votre sécurité.
+             {{$t('lightVehiclesRental.allOurVehiclesAreRegularlyMaintainedAndCheckedToGuaranteeYourSafety')}}
             </p>
           </div>
 
@@ -183,9 +172,9 @@
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
             </div>
-            <h3 class="feature-title">Disponibilité 24/7</h3>
+            <h3 class="feature-title">{{ $t('lightVehiclesRental.availability247') }}</h3>
             <p class="feature-description">
-              Service client disponible à tout moment pour répondre à vos besoins urgents.
+              {{ $t('lightVehiclesRental.customerServiceAvailableAtAnyTimeToMeetYourUrgentNeeds') }}
             </p>
           </div>
 
@@ -195,9 +184,9 @@
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
             </div>
-            <h3 class="feature-title">Tarifs Flexibles</h3>
+            <h3 class="feature-title">{{ $t('lightVehiclesRental.flexibleRates') }}</h3>
             <p class="feature-description">
-              Options de location courte et longue durée avec des tarifs compétitifs adaptés à votre budget.
+              {{ $t('lightVehiclesRental.shortAndLongTermRentalOptionsWithCompetitiveRatesToSuitYourBudget') }}
             </p>
           </div>
         </div>
@@ -208,16 +197,16 @@
     <section class="py-16 bg-gradient-to-r from-gms-blue to-blue-700 text-white">
       <div class="container mx-auto px-4 text-center">
         <h2 class="text-3xl md:text-4xl font-bold mb-6">
-          Besoin d'un Véhicule pour Votre Projet?
+         {{$t('lightVehiclesRental.needAVehicleForYourProject')}}
         </h2>
         <p class="text-xl mb-8 text-blue-100 max-w-2xl mx-auto">
-          Contactez-nous dès maintenant pour vérifier la disponibilité et obtenir un devis personnalisé.
+         {{ $t('lightVehiclesRental.contactUsNowToCheckAvailabilityAndGetAPersonalizedQuote') }}
         </p>
         <router-link 
           to="/contact" 
           class="inline-block bg-white text-gms-blue px-8 py-4 rounded-lg font-semibold hover:bg-gray-100 transition shadow-lg"
         >
-          Contactez-nous Maintenant
+          {{ $t('lightVehiclesRental.contactUsNow') }}
         </router-link>
       </div>
     </section>

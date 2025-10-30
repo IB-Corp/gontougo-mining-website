@@ -1,23 +1,29 @@
 <template>
   <div class="home">
     <!-- Hero Section -->
-    <section class="hero-section relative bg-gradient-to-br from-gray-100 to-gray-200 py-20 md:py-32">
-      <div class="container mx-auto px-4">
+    <section class="hero-section relative py-20 md:py-32 overflow-hidden">
+      <!-- Background Image -->
+      <div class="hero-background"></div>
+      
+      <!-- Dark Overlay -->
+      <div class="hero-overlay"></div>
+      
+      <div class="container mx-auto px-4 relative z-10">
         <div class="max-w-4xl mx-auto text-center">
           <!-- Logo/Company Name -->
           <div class="mb-8">
-            <h1 class="text-4xl md:text-6xl font-bold text-gms-blue mb-4">
+            <h1 class="text-4xl md:text-6xl font-bold text-white mb-4">
               GONTOUGO MINING SERVICE
               <span class="text-gms-red"> SARL</span>
             </h1>
           </div>
 
           <!-- Company Motto -->
-          <h2 class="text-2xl md:text-4xl font-semibold text-gray-800 mb-8">
+          <h2 class="text-2xl md:text-4xl font-semibold text-white mb-8">
             {{ $t('home.motto') }}
           </h2>
 
-          <p class="text-lg text-gray-600 mb-10 max-w-2xl mx-auto">
+          <p class="text-lg text-gray-200 mb-10 max-w-2xl mx-auto">
             {{ $t('home.description') }}
           </p>
 
@@ -31,7 +37,7 @@
             </router-link>
             <router-link 
               to="/contact" 
-              class="bg-gms-red text-white px-8 py-4 rounded-lg font-semibold hover:bg-red-700 transition shadow-lg"
+              class="bg-red-500 text-white px-8 py-4 rounded-lg font-semibold hover:bg-red-600 transition shadow-lg"
             >
               {{ $t('home.contactUs') }}
             </router-link>
@@ -40,7 +46,7 @@
       </div>
 
       <!-- Decorative Elements -->
-      <div class="absolute bottom-0 left-0 right-0 h-16 bg-gradient-to-t from-white to-transparent"></div>
+      <div class="absolute bottom-0 left-0 right-0 h-16 bg-gradient-to-t from-white to-transparent z-10"></div>
     </section>
 
     <!-- Services Grid Section -->
@@ -435,6 +441,40 @@ const getServiceColor = (category) => {
 </script>
 
 <style scoped>
+/* Hero Section Background */
+.hero-section {
+  min-height: 600px;
+  position: relative;
+}
+
+.hero-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url('../assets/images/hero-background-image.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  z-index: 0;
+}
+
+.hero-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(
+    135deg,
+    rgba(30, 58, 138, 0.85) 0%,
+    rgba(30, 91, 168, 0.75) 50%,
+    rgba(0, 0, 0, 0.7) 100%
+  );
+  z-index: 1;
+}
+
 .service-card {
   background-color: white;
   padding: 2rem;

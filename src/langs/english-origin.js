@@ -10,16 +10,32 @@ export default {
 
   // Services Menu
   servicesMenu: {
-    lightVehicles: 'Light Vehicle Rental',
-    heavyVehicles: 'Heavy Vehicle Rental',
-    heavyTraining: 'Heavy Equipment Driving Training',
-    dewateringTraining: 'DEWATERING / SWIMMING Training',
-    plumbing: 'DEWATERING Plumbing & Piping & Polyfusion',
+    // Main menu
+    services: 'Services',
+    
+    // Category 1: Building, Construction and Engineering
+    constructionCategory: 'Building, Construction and Engineering',
+    drilling: 'Drilling',
+    plumbing: 'Plumbing Piping Polyfusion',
     woodworking: 'Carpentry',
+    refrigeration: 'Refrigeration and Air Conditioning, Electricity',
     metalConstruction: 'Metal Frame Construction',
-    drilling: 'Drilling and Specialized Works',
-    refrigeration: 'Refrigeration and Air Conditioning',
-    commerce: 'Trade'
+    
+    // Category 2: Training
+    trainingCategory: 'Training and Specialized Skills',
+    dewateringTraining: 'Dewatering/Swimming Training',
+    heavyTraining: 'Heavy Equipment Driving Training',
+    
+    // Category 3: Logistics
+    logisticsCategory: 'Logistics and Transport',
+    lightVehicles: 'Light Vehicle Rental',
+    heavyVehicles: 'Heavy Vehicle and Equipment Rental',
+    
+    // Category 4: General Services
+    generalServicesCategory: 'General Services and Supplies',
+    commerce: 'General Trade',
+    staffPlacement: 'Staff Placement',
+    officeSupplies: 'Office Supplies'
   },
 
   // Home Page

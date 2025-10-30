@@ -25,6 +25,29 @@
             </p>
             
             <form class="contact-form" @submit.prevent="handleSubmit">
+              
+              <!-- Success Message -->
+              <div v-if="submitSuccess" class="alert alert-success">
+                <svg class="alert-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                </svg>
+                <div>
+                  <strong>Message envoyé avec succès!</strong>
+                  <p>Nous vous répondrons dans les plus brefs délais.</p>
+                </div>
+              </div>
+
+              <!-- Error Message -->
+              <div v-if="submitError" class="alert alert-error">
+                <svg class="alert-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                </svg>
+                <div>
+                  <strong>Erreur</strong>
+                  <p>{{ submitError }}</p>
+                </div>
+              </div>
+
               <div class="form-group">
                 <label for="name" class="form-label">Nom Complet *</label>
                 <input 
@@ -104,11 +127,15 @@
                 ></textarea>
               </div>
 
-              <button type="submit" class="submit-btn">
-                <svg class="btn-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <button type="submit" class="submit-btn" :disabled="isSubmitting">
+                <svg v-if="!isSubmitting" class="btn-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                 </svg>
-                Envoyer le Message
+                <svg v-else class="btn-icon animate-spin" fill="none" viewBox="0 0 24 24">
+                  <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+                  <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                </svg>
+                {{ isSubmitting ? 'Envoi en cours...' : 'Envoyer le Message' }}
               </button>
             </form>
           </div>
@@ -155,6 +182,11 @@
                       (+225) 07 88 88 49 40
                     </a>
                   </p>
+                  <p class="info-text">
+                    <a href="tel:+2252731967622 " class="info-link">
+                      (+225) 27 31 96 76 22 
+                    </a>
+                  </p>
                 </div>
               </div>
 
@@ -168,8 +200,8 @@
                 <div class="info-content">
                   <h3 class="info-title">Email</h3>
                   <p class="info-text">
-                    <a href="mailto:contact@gms-sarl.com" class="info-link">
-                      contact@gms-sarl.com
+                    <a href="mailto:contact@gontougominingservice.com" class="info-link">
+                       contact@gontougominingservice.com
                     </a>
                   </p>
                 </div>
@@ -247,7 +279,7 @@
               </svg>
               Appeler Maintenant
             </a>
-            <a href="mailto:contact@gms-sarl.com" class="cta-btn secondary">
+            <a href="mailto:contact@gontougominingservice.com" class="cta-btn secondary">
               <svg class="cta-btn-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
               </svg>
@@ -261,7 +293,16 @@
 </template>
 
 <script setup>
-import { reactive } from 'vue'
+import { reactive, ref } from 'vue'
+import { supabase } from '../lib/supabase'
+import emailjs from '@emailjs/browser'
+
+// EmailJS Configuration
+// TODO: Replace these with your actual EmailJS credentials from https://www.emailjs.com/
+const EMAILJS_SERVICE_ID = 'YOUR_SERVICE_ID'  // Get from EmailJS dashboard
+const EMAILJS_TEMPLATE_ID = 'YOUR_TEMPLATE_ID'  // Get from EmailJS dashboard
+const EMAILJS_PUBLIC_KEY = 'YOUR_PUBLIC_KEY'  // Get from EmailJS dashboard
+const ADMIN_EMAIL = 'contact@gontougominingservice.com'  // Your admin email
 
 const formData = reactive({
   name: '',
@@ -272,15 +313,84 @@ const formData = reactive({
   message: ''
 })
 
-const handleSubmit = () => {
-  // Here you would typically send the form data to a backend
-  console.log('Form submitted:', formData)
-  alert('Merci pour votre message! Nous vous répondrons dans les plus brefs délais.')
+const isSubmitting = ref(false)
+const submitSuccess = ref(false)
+const submitError = ref('')
+
+const handleSubmit = async () => {
+  // Reset messages
+  submitSuccess.value = false
+  submitError.value = ''
+  isSubmitting.value = true
   
-  // Reset form
-  Object.keys(formData).forEach(key => {
-    formData[key] = ''
-  })
+  try {
+    // 1. Insert into Supabase
+    const { data, error } = await supabase
+      .from('contact_submissions')
+      .insert([
+        {
+          name: formData.name,
+          email: formData.email,
+          phone: formData.phone,
+          company: formData.company || null,
+          subject: formData.subject,
+          message: formData.message
+        }
+      ])
+      .select()
+    
+    if (error) {
+      throw error
+    }
+    
+    console.log('Form submitted to database successfully:', data)
+    
+    // 2. Send email notification to admin
+    // Only send email if EmailJS is configured (not using placeholder values)
+    if (EMAILJS_SERVICE_ID !== 'YOUR_SERVICE_ID') {
+      try {
+        await emailjs.send(
+          EMAILJS_SERVICE_ID,
+          EMAILJS_TEMPLATE_ID,
+          {
+            to_email: ADMIN_EMAIL,
+            from_name: formData.name,
+            from_email: formData.email,
+            phone: formData.phone,
+            company: formData.company || 'Non spécifié',
+            subject: formData.subject,
+            message: formData.message,
+            submission_date: new Date().toLocaleString('fr-FR')
+          },
+          EMAILJS_PUBLIC_KEY
+        )
+        console.log('Email notification sent successfully')
+      } catch (emailError) {
+        console.error('Failed to send email notification:', emailError)
+        // Don't fail the whole submission if email fails
+      }
+    } else {
+      console.warn('EmailJS not configured. Skipping email notification.')
+      console.log('To enable email notifications, update the EmailJS credentials in Contact.vue')
+    }
+    
+    // Success!
+    submitSuccess.value = true
+    
+    // Reset form after 3 seconds
+    setTimeout(() => {
+      Object.keys(formData).forEach(key => {
+        formData[key] = ''
+      })
+      submitSuccess.value = false
+    }, 3000)
+    
+  } catch (error) {
+    console.error('Error submitting form:', error)
+    submitError.value = 'Une erreur est survenue. Veuillez réessayer ou nous contacter directement.'
+  } finally {
+    isSubmitting.value = false
+  }
 }
 </script>
 
@@ -369,9 +479,73 @@ const handleSubmit = () => {
   box-shadow: 0 10px 20px rgba(30, 91, 168, 0.3);
 }
 
+.submit-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  transform: none;
+  background-color: #6b7280;
+}
+
+.submit-btn:disabled:hover {
+  transform: none;
+  box-shadow: none;
+  background-color: #6b7280;
+}
+
 .btn-icon {
   width: 1.25rem;
   height: 1.25rem;
+}
+
+/* Alert Styles */
+.alert {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.alert-success {
+  background-color: #d1fae5;
+  border: 1px solid #6ee7b7;
+  color: #065f46;
+}
+
+.alert-error {
+  background-color: #fee2e2;
+  border: 1px solid #fca5a5;
+  color: #991b1b;
+}
+
+.alert-icon {
+  width: 1.5rem;
+  height: 1.5rem;
+  flex-shrink: 0;
+  margin-top: 0.125rem;
+}
+
+.alert strong {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+.alert p {
+  font-size: 0.875rem;
+  margin: 0;
+}
+
+/* Loading Animation */
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin {
+  animation: spin 1s linear infinite;
 }
 
 .contact-cards {

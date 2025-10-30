@@ -10,17 +10,32 @@ export default {
 
   // Services Menu
   servicesMenu: {
-    lightVehicles: 'Location de Véhicules Légers',
-    heavyVehicles: 'Location de Véhicules Lourds',
-    heavyTraining: 'Formation en conduite d\'engins lourds',
-    dewateringTraining: 'Formation DEWATERING / NATATION',
-    plumbing: 'Plomberie DEWATERING & Tuyauterie & Polyfusion',
+    // Main menu
+    services: 'Services',
+    
+    // Category 1: Bâtiment, Construction et Ingénierie
+    constructionCategory: 'Bâtiment, Construction et Ingénierie',
+    drilling: 'Drilling (Forage)',
+    plumbing: 'Plomberie Tuyauterie Polyfusion',
     woodworking: 'Menuiserie',
+    refrigeration: 'Froid et Climatisation, Électricité',
     metalConstruction: 'Construction de Charpente Métallique',
-    drilling: 'Forage et Travaux spécialisés',
-    refrigeration: 'Froid et Climatisation',
-    commerce: 'Commerce'
-
+    
+    // Category 2: Formation
+    trainingCategory: 'Formation et Compétences Spécialisées',
+    dewateringTraining: 'Formation Dewatering/Natation',
+    heavyTraining: 'Formation en Conduite d\'Engin Lourd',
+    
+    // Category 3: Logistique
+    logisticsCategory: 'Logistique et Transport',
+    lightVehicles: 'Location de Véhicule Léger',
+    heavyVehicles: 'Location de Véhicule et d\'Engin Lourd',
+    
+    // Category 4: Services Généraux
+    generalServicesCategory: 'Services Généraux et Fournitures',
+    commerce: 'Commerce Général',
+    staffPlacement: 'Placement de Personnel',
+    officeSupplies: 'Consommable Bureautique'
   },
 
   // Home Page

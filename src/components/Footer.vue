@@ -54,12 +54,10 @@
         <div>
           <h3 class="text-lg font-semibold mb-4">{{ $t('footer.ourServices') }}</h3>
           <ul class="space-y-2 text-sm">
-            <li class="text-gray-400">• {{ $t('servicesMenu.lightVehicles')}}</li>
-            <li class="text-gray-400">• {{ $t('servicesMenu.plumbing')}}</li>
-            <li class="text-gray-400">• {{ $t('servicesMenu.heavyTraining')}}</li>
-            <li class="text-gray-400">• {{ $t('servicesMenu.dewateringTraining')}}</li>
-            <li class="text-gray-400">• {{ $t('servicesMenu.metalConstruction')}}</li>
-            <li class="text-gray-400">• {{ $t('servicesMenu.commerce')}}</li>
+            <li class="text-gray-400">• {{ $t('servicesMenu.constructionCategory')}}</li>
+            <li class="text-gray-400">• {{ $t('servicesMenu.trainingCategory')}}</li>
+            <li class="text-gray-400">• {{ $t('servicesMenu.logisticsCategory')}}</li>
+            <li class="text-gray-400">• {{ $t('servicesMenu.generalServicesCategory')}}</li>
           </ul>
         </div>
 

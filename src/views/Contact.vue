@@ -298,11 +298,10 @@ import { supabase } from '../lib/supabase'
 import emailjs from '@emailjs/browser'
 
 // EmailJS Configuration
-// TODO: Replace these with your actual EmailJS credentials from https://www.emailjs.com/
-const EMAILJS_SERVICE_ID = 'YOUR_SERVICE_ID'  // Get from EmailJS dashboard
-const EMAILJS_TEMPLATE_ID = 'YOUR_TEMPLATE_ID'  // Get from EmailJS dashboard
-const EMAILJS_PUBLIC_KEY = 'YOUR_PUBLIC_KEY'  // Get from EmailJS dashboard
-const ADMIN_EMAIL = 'contact@gontougominingservice.com'  // Your admin email
+const EMAILJS_SERVICE_ID = 'service_1iu9dlm'  // Your Service ID
+const EMAILJS_TEMPLATE_ID = 'template_egiaekn'  // Your Template ID
+const EMAILJS_PUBLIC_KEY = 'jmAw-6pRo_3DHcMlv'  // Your Public Key
+const ADMIN_EMAIL = 'assomodesign@gmail.com'  // Your email address
 
 const formData = reactive({
   name: '',
@@ -353,9 +352,9 @@ const handleSubmit = async () => {
           EMAILJS_SERVICE_ID,
           EMAILJS_TEMPLATE_ID,
           {
-            to_email: ADMIN_EMAIL,
-            from_name: formData.name,
-            from_email: formData.email,
+            // email: ADMIN_EMAIL,
+            name: formData.name,
+            email: formData.email,
             phone: formData.phone,
             company: formData.company || 'Non spécifié',
             subject: formData.subject,

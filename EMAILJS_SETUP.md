@@ -71,10 +71,10 @@ Nouveau message: {{subject}} - {{from_name}}
 3. Replace the placeholder values:
 
 ```javascript
-const EMAILJS_SERVICE_ID = 'service_abc123'  // Your Service ID
-const EMAILJS_TEMPLATE_ID = 'template_xyz789'  // Your Template ID
-const EMAILJS_PUBLIC_KEY = 'AbCdEfGh123456789'  // Your Public Key
-const ADMIN_EMAIL = 'your-email@example.com'  // Your email address
+const EMAILJS_SERVICE_ID = 'service_1iu9dlm'  // Your Service ID
+const EMAILJS_TEMPLATE_ID = 'template_egiaekn'  // Your Template ID
+const EMAILJS_PUBLIC_KEY = 'jmAw-6pRo_3DHcMlv'  // Your Public Key
+const ADMIN_EMAIL = 'assomodesign@gmail.com'  // Your email address
 ```
 
 4. Save the file

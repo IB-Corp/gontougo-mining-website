@@ -4,7 +4,7 @@ export default {
     home: 'Home',
     about: 'About',
     services: 'Services',
-    commerce: 'Commerce',
+    commerce: 'Prestation ',
     contact: 'Contact'
   },
 
@@ -71,6 +71,45 @@ export default {
   // Contact Page
   contact: {
     title: 'Contact Us',
+    description:'Our team is at your disposal to answer all your questions',
+    form :{
+      title: 'Send Us a Message',
+      subtitle: 'Fill out the form below and we will get back to you as soon as possible.',
+      successTitle: 'Message sent successfully!',
+      successMessage: 'We will get back to you as soon as possible.',
+      errorTitle: 'Error sending message',
+      name: 'Full Name',
+      namePlaceholder: 'Enter your full name',
+      emailPlaceholder: 'Enter your email address',
+      telephone : 'Phone',
+      entreprise : 'Company',
+      subject: 'Subject',
+      subjectTitle : 'Select a subject',
+      subjectOthers : 'Other',
+      message:'Message',
+      isubmiting: 'Sending...',
+      submit : 'Send Message'
+    },
+    cta:{
+      title:'Need Urgent Assistance?',
+      subtitle:'Our team is available to respond to your emergencies',
+      callTitle:'Call Now',
+      emailTitle:'Send an Email'
+     },
+   contactInfo: {
+        title: 'Our Contact Information',
+        subtitle:'Find all our contact information below',
+        adresseTitle:'Address',
+        address: 'Tanda, Residential area, In front of Lycée Moderne, Côte d\'Ivoire',
+        telephone:'Phone',
+        hoursTitle:'Hours',
+        hours1: 'Mon - Fri: 8:00 AM - 5:30 PM',
+        hours2: 'Sat: 8:00 AM - 12:00 PM',
+        hours3:'Sun: Closed',
+        informationLegales:'Legal Information',
+        regimeJuridique:'Legal Regime:',
+
+      },
     subtitle: 'We are listening',
     name: 'Name',
     email: 'Email',
@@ -79,7 +118,7 @@ export default {
     send: 'Send',
     address: 'Address',
     callUs: 'Call Us',
-    emailUs: 'Email Us'
+    emailUs: 'Email Us',
   },
 
   // Common
@@ -99,6 +138,7 @@ export default {
     edit: 'Edit',
     add: 'Add'
   },
+  
 
   // Footer
   footer: {
@@ -295,6 +335,21 @@ export default {
             engineDisplacement: 'Engine displacement:',
             displacement: '9.3 liters',
             requestAQuote: 'Request a Quote'
+          },
+          adtArticuler: {
+            name: 'ARTICULATED DUMP TRUCK',
+          },
+          camionBenne:{
+            name:'DUMP TRUCK'
+          },
+          camionCiterneAeau: {
+            name:'WATER TANKER TRUCK'
+          },
+          camionCiterneAcarburant: {
+            name:'FUEL TANKER TRUCK'
+          },
+          betonniere:{
+            name:'CONCRETE MIXER TRUCK'
           }
         },
         

@@ -4,10 +4,10 @@
     <section class="page-header bg-gradient-to-r from-gms-blue to-blue-700 text-white py-16">
       <div class="container mx-auto px-4">
         <h1 class="text-4xl md:text-5xl font-bold text-center mb-4">
-          Contactez-Nous
+          {{ $t('contact.title') }}
         </h1>
         <p class="text-xl text-center text-blue-100 max-w-2xl mx-auto">
-          Notre équipe est à votre disposition pour répondre à toutes vos questions
+          {{$t('contact.description')}}
         </p>
       </div>
     </section>
@@ -19,9 +19,9 @@
           
           <!-- Contact Form -->
           <div class="contact-form-wrapper">
-            <h2 class="form-section-title">Envoyez-nous un Message</h2>
+            <h2 class="form-section-title">{{ $t('contact.form.title') }}</h2>
             <p class="form-section-description">
-              Remplissez le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais.
+              {{ $t('contact.form.subtitle') }}
             </p>
             
             <form class="contact-form" @submit.prevent="handleSubmit">
@@ -49,13 +49,13 @@
               </div>
 
               <div class="form-group">
-                <label for="name" class="form-label">Nom Complet *</label>
+                <label for="name" class="form-label">{{ $t('contact.form.name') }} *</label>
                 <input 
                   type="text" 
                   id="name" 
                   v-model="formData.name"
                   class="form-input"
-                  placeholder="Votre nom complet"
+                  placeholder="Mansa Moussa"
                   required
                 >
               </div>
@@ -67,13 +67,13 @@
                   id="email" 
                   v-model="formData.email"
                   class="form-input"
-                  placeholder="votre@email.com"
+                  placeholder="example@gmail.com"
                   required
                 >
               </div>
 
               <div class="form-group">
-                <label for="phone" class="form-label">Téléphone *</label>
+                <label for="phone" class="form-label">{{ $t('contact.form.telephone') }} *</label>
                 <input 
                   type="tel" 
                   id="phone" 
@@ -85,44 +85,41 @@
               </div>
 
               <div class="form-group">
-                <label for="company" class="form-label">Entreprise</label>
+                <label for="company" class="form-label">{{ $t('contact.form.entreprise') }}</label>
                 <input 
                   type="text" 
                   id="company" 
                   v-model="formData.company"
                   class="form-input"
-                  placeholder="Nom de votre entreprise"
+                  placeholder="Enreprise Mansa Moussa"
                 >
               </div>
 
               <div class="form-group">
-                <label for="subject" class="form-label">Sujet *</label>
+                <label for="subject" class="form-label">{{ $t('contact.form.subject') }} *</label>
                 <select 
                   id="subject" 
                   v-model="formData.subject"
                   class="form-input"
                   required
                 >
-                  <option value="">Sélectionnez un sujet</option>
-                  <option value="location-engins">Location d'Engins</option>
-                  <option value="location-vehicules">Location de Véhicules</option>
-                  <option value="plomberie">Plomberie & Polyfusion</option>
-                  <option value="charpente">Charpente Métallique</option>
-                  <option value="commerce">Commerce & Fournitures</option>
-                  <option value="personnel">Placement de Personnel</option>
-                  <option value="devis">Demande de Devis</option>
-                  <option value="autre">Autre</option>
+                  <option value="">{{ $t('contact.form.subjectTitle') }}</option>
+                  <option value="location-engins">{{ $t('servicesMenu.constructionCategory') }}</option>
+                  <option value="location-vehicules">{{ $t('servicesMenu.trainingCategory') }}</option>
+                  <option value="plomberie">{{ $t('servicesMenu.logisticsCategory') }}</option>
+                  <option value="charpente">{{ $t('servicesMenu.generalServicesCategory') }}</option>
+                  <option value="autre">{{ $t('contact.form.subjectOthers') }}</option>
                 </select>
               </div>
 
               <div class="form-group">
-                <label for="message" class="form-label">Message *</label>
+                <label for="message" class="form-label">{{ $t('contact.form.message') }} *</label>
                 <textarea 
                   id="message" 
                   v-model="formData.message"
                   class="form-textarea"
                   rows="6"
-                  placeholder="Décrivez votre projet ou votre demande..."
+                  placeholder="..."
                   required
                 ></textarea>
               </div>
@@ -135,16 +132,16 @@
                   <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
                   <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
                 </svg>
-                {{ isSubmitting ? 'Envoi en cours...' : 'Envoyer le Message' }}
+                {{ isSubmitting ? $t('contact.form.isubmitting') : $t('contact.form.submit') }}
               </button>
             </form>
           </div>
 
           <!-- Contact Information -->
           <div class="contact-info-wrapper">
-            <h2 class="form-section-title">Nos Coordonnées</h2>
+            <h2 class="form-section-title">{{ $t('contact.contactInfo.title') }}</h2>
             <p class="form-section-description">
-              Retrouvez toutes nos informations de contact ci-dessous
+              {{ $t('contact.contactInfo.subtitle') }}
             </p>
 
             <!-- Contact Cards -->
@@ -159,11 +156,9 @@
                   </svg>
                 </div>
                 <div class="info-content">
-                  <h3 class="info-title">Adresse</h3>
+                  <h3 class="info-title">{{ $t('contact.contactInfo.adresseTitle') }}</h3>
                   <p class="info-text">
-                    Tanda, Quartier Résidentiel<br>
-                    En face du Lycée Moderne<br>
-                    Côte d'Ivoire
+                    {{ $t('contact.contactInfo.address') }}
                   </p>
                 </div>
               </div>
@@ -176,7 +171,7 @@
                   </svg>
                 </div>
                 <div class="info-content">
-                  <h3 class="info-title">Téléphone</h3>
+                  <h3 class="info-title">{{ $t('contact.contactInfo.telephone') }}</h3>
                   <p class="info-text">
                     <a href="tel:+2250788884940" class="info-link">
                       (+225) 07 88 88 49 40
@@ -215,11 +210,11 @@
                   </svg>
                 </div>
                 <div class="info-content">
-                  <h3 class="info-title">Horaires</h3>
+                  <h3 class="info-title">{{ $t('contact.contactInfo.hoursTitle') }}</h3>
                   <p class="info-text">
-                    Lun - Ven: 8h00 - 17h30<br>
-                    Sam: 8h00 - 12h00<br>
-                    Dim: Fermé
+                    {{ $t('contact.contactInfo.hours1') }}<br>
+                    {{ $t('contact.contactInfo.hours2') }}<br>
+                    {{ $t('contact.contactInfo.hours3') }}
                   </p>
                 </div>
               </div>
@@ -228,7 +223,7 @@
 
             <!-- Company Legal Info -->
             <div class="legal-info-card">
-              <h3 class="legal-title">Informations Légales</h3>
+              <h3 class="legal-title">{{ $t('contact.contactInfo.informationLegales') }}</h3>
               <div class="legal-grid">
                 <div class="legal-item">
                   <span class="legal-label">RCCM:</span>
@@ -239,7 +234,7 @@
                   <span class="legal-value">911</span>
                 </div>
                 <div class="legal-item">
-                  <span class="legal-label">Régime Juridique:</span>
+                  <span class="legal-label">{{ $t('contact.contactInfo.regimeJuridique') }}</span>
                   <span class="legal-value">SARL</span>
                 </div>
               </div>
@@ -267,9 +262,9 @@
       <div class="container mx-auto px-4">
         <div class="cta-banner">
           <div class="cta-content">
-            <h2 class="cta-title">Besoin d'une Intervention Urgente?</h2>
+            <h2 class="cta-title">{{$t('contact.cta.title')}}</h2>
             <p class="cta-description">
-              Notre équipe est disponible pour répondre à vos urgences
+              {{$t('contact.cta.subtitle')}}
             </p>
           </div>
           <div class="cta-actions">
@@ -277,13 +272,13 @@
               <svg class="cta-btn-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
               </svg>
-              Appeler Maintenant
+              {{ $t('contact.cta.callTitle') }}
             </a>
             <a href="mailto:contact@gontougominingservice.com" class="cta-btn secondary">
               <svg class="cta-btn-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
               </svg>
-              Envoyer un Email
+              {{ $t('contact.cta.emailTitle') }}
             </a>
           </div>
         </div>

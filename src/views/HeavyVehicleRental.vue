@@ -157,7 +157,66 @@
             </div>
           </div>
 
-        </div>
+           <!-- Equipment 7: ADT ARTICULER -->
+          <div class="equipment-card">
+            <div class="equipment-image-wrapper">
+              <img src="../assets/images/vehicles/ADT ARTICULER.png" height="!100px" alt="ADT ARTICULER"  />
+            </div>
+            
+            <div class="equipment-content">
+              <h3 class="equipment-title">{{ $t('heavyVehicleRental.vehicles.adtArticuler.name') }}</h3>
+             
+            </div>
+          </div>
+
+           <!-- Equipment 8: CAMION BENE -->
+          <div class="equipment-card">
+            <div class="equipment-image-wrapper">
+              <img src="../assets/images/vehicles/CAMION BENE.png" alt="CAMION BENNE" />
+            </div>
+            
+            <div class="equipment-content">
+              <h3 class="equipment-title">{{ $t('heavyVehicleRental.vehicles.camionBenne.name') }}</h3>
+             
+            </div>
+          </div>
+
+          <!-- Equipment 9: CAMION CITERNE À EAU -->
+          <div class="equipment-card ">
+            <div class="equipment-image-wrapper">
+              <img src="../assets/images/vehicles/CAMION CITERNE A EAU.png" alt="CAMION CITERNE À EAU" />
+            </div>
+            
+            <div class="equipment-content mb-4">
+              <h3 class="equipment-title">{{ $t('heavyVehicleRental.vehicles.camionCiterneAeau.name') }}</h3>
+             
+            </div>
+          </div>
+
+           <!-- Equipment 10: CAMION CITERNE À CARBURANT-->
+          <div class="equipment-card">
+            <div class="equipment-image-wrapper ">
+              <img src="../assets/images/vehicles/CAMION CITERNE A CARBURANT.png" alt="CAMION CITERNE À CARBURANT" />
+            </div>
+            
+            <div class="equipment-content ">
+              <h3 class="equipment-title ">{{ $t('heavyVehicleRental.vehicles.camionCiterneAcarburant.name') }}</h3>
+             
+            </div>
+          </div>
+          <!-- Equipment 10: BETONNIERE -->
+          <div class="equipment-card">
+            <div class="equipment-image-wrapper">
+              <img src="../assets/images/vehicles/BETONNIERE.png" alt="BETONNIERE" />
+            </div>
+
+            <div class="equipment-content">
+              <h3 class="equipment-title">{{ $t('heavyVehicleRental.vehicles.betonniere.name') }}</h3>
+
+            </div>
+          </div>
+
+          </div>
 
         </div>
       

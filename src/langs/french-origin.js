@@ -4,7 +4,7 @@ export default {
     home: 'Accueil',
     about: 'À Propos',
     services: 'Services',
-    commerce: 'Commerce',
+    commerce: 'Prestation ',
     contact: 'Contact'
   },
 
@@ -70,6 +70,45 @@ export default {
   // Contact Page
   contact: {
     title: 'Contactez-nous',
+    description:'Notre équipe est à votre disposition pour répondre à toutes vos questions',
+    form :{
+      title:'Envoyez-nous un Message',
+      subtitle:'Remplissez le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais.',
+      successTitle:'Message envoyé avec succès!',
+      successMessage:'Nous vous répondrons dans les plus brefs délais.',
+      errorTitle: 'Erreur lors de l\'envoi du message',
+      name: 'Nom Complet',
+      namePlaceholder: 'Entrez votre nom complet',
+      emailPlaceholder: 'Entrez votre adresse email',
+      telephone : 'Téléphone',
+      entreprise : 'Entreprise',
+      subject: 'Sujet',
+      subjectTitle : 'Sélectionnez un sujet',
+      subjectOthers : 'Autre',
+      message:'Message',
+      isubmiting: 'Envoi en cours...',
+      submit : 'Envoyer le Message'
+     },
+     cta:{
+      title:'Besoin d\'une Intervention Urgente?',
+      subtitle:'Notre équipe est disponible pour répondre à vos urgences ',
+      callTitle:'Appelez maintenant',
+      emailTitle:'Envoyez un email'
+     },
+      contactInfo: {
+        title: 'Nos Coordonnées',
+        subtitle:'Retrouvez toutes nos informations de contact ci-dessous',
+        adresseTitle:'Adresse',
+        address: 'Tanda, Quartier Résidentiel En face du Lycée Moderne, Côte d\'Ivoire',
+        telephone:'Téléphone',
+        hoursTitle:'Horaires',
+        hours1: 'Lun - Ven: 8h00 - 17h30',
+        hours2: 'Sam: 8h00 - 12h00',
+        hours3:'Dim: Fermé',
+        informationLegales:'Informations Légales',
+        regimeJuridique:'Régime Juridique:',
+
+      },
     subtitle: 'Nous sommes à votre écoute',
     name: 'Nom',
     email: 'Email',
@@ -80,6 +119,7 @@ export default {
     callUs: 'Appelez-nous',
     emailUs: 'Envoyez-nous un email'
   },
+  
 
   // Common
   common: {
@@ -297,7 +337,23 @@ export default {
             engineDisplacement: 'Cylindrée du moteur:',
             displacement: '9,3 l',
             requestAQuote: 'Demander un Devis'
+          },
+          adtArticuler: {
+            name: 'ADT ARTICULER'
+          },
+          camionBenne:{
+            name:'CAMION BENNE'
+          },
+          camionCiterneAeau: {
+            name:'CAMION CITERNE À EAU'
+          },
+          camionCiterneAcarburant: {
+            name:'CAMION CITERNE À CARBURANT'
+          },
+          betonniere:{
+            name:'BÉTONNIÈRE'
           }
+
         },
         
         whyRentOurHeavyEquipment: 'Pourquoi Louer Nos Engins Lourds?',

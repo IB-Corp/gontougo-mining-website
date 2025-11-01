@@ -298,10 +298,9 @@ import { supabase } from '../lib/supabase'
 import emailjs from '@emailjs/browser'
 
 // EmailJS Configuration
-const EMAILJS_SERVICE_ID = 'service_1iu9dlm'  // Your Service ID
-const EMAILJS_TEMPLATE_ID = 'template_egiaekn'  // Your Template ID
+const EMAILJS_SERVICE_ID = 'service_mtvkgje'  // Your Service ID
+const EMAILJS_TEMPLATE_ID = 'template_87ziwpj'  // Your Template ID
 const EMAILJS_PUBLIC_KEY = 'jmAw-6pRo_3DHcMlv'  // Your Public Key
-const ADMIN_EMAIL = 'assomodesign@gmail.com'  // Your email address
 
 const formData = reactive({
   name: '',

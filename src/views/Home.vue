@@ -62,20 +62,20 @@
         </div>
 
         <!-- Loading State -->
-        <div v-if="servicesLoading" class="text-center py-12">
+        <!-- <div v-if="servicesLoading" class="text-center py-12">
           <div class="inline-block animate-spin rounded-full h-8 w-8 border-b-2 border-gms-blue"></div>
           <p class="mt-4 text-gray-600">Chargement des services...</p>
-        </div>
+        </div> -->
 
         <!-- Error State -->
-        <div v-else-if="servicesError" class="text-center py-12">
+        <!-- <div v-else-if="servicesError" class="text-center py-12">
           <p class="text-red-600">Erreur lors du chargement des services: {{ servicesError }}
 
           </p>
-        </div>
+        </div> -->
 
         <!-- Dynamic Services Grid -->
-        <div v-else class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <!-- <div v-else class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           <div 
             v-for="service in services.slice(0, 10)" 
             :key="service.id" 
@@ -113,25 +113,23 @@
               </svg>
             </router-link>
           </div>
-        </div>
+        </div> -->
 
-        <!-- Fallback: Static Services (when no data from Supabase) -->
-        <div v-if="!servicesLoading && !servicesError && (!services || services.length === 0)" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-8">
           <!-- Static Service Card 1 -->
           <div class="service-card group">
             <div class="icon-wrapper bg-blue-100 group-hover:bg-gms-blue transition">
-              <svg class="w-12 h-12 text-gms-blue group-hover:text-white transition" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4" />
-              </svg>
+            <img src="../../public/images/icons/construction.png" alt="Construction Icon" class="w-12 h-12" />
+              
             </div>
             <h3 class="text-xl font-bold text-gray-900 mb-3">
-              Location d'Engins Miniers
+              {{ $t('home.services.constructionCategory.title') }}
             </h3>
             <p class="text-gray-600 mb-4">
-              Bulldozers, pelles mécaniques, camions-bennes, excavateurs et plus encore pour vos projets.
+              {{ $t('home.services.constructionCategory.description') }}
             </p>
-            <router-link to="/heavy-equipment" class="text-gms-blue font-semibold hover:text-blue-700 inline-flex items-center">
-              En savoir plus
+            <router-link to="/plumbing" class="text-gms-blue font-semibold hover:text-blue-700 inline-flex items-center">
+              {{ $t('common.readMore') }}
               <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
               </svg>
@@ -141,18 +139,16 @@
           <!-- Static Service Card 2 -->
           <div class="service-card group">
             <div class="icon-wrapper bg-red-100 group-hover:bg-gms-red transition">
-              <svg class="w-12 h-12 text-gms-red group-hover:text-white transition" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
-              </svg>
+             <img src="../../public/images/icons/training.png"/>
             </div>
             <h3 class="text-xl font-bold text-gray-900 mb-3">
-              Formation Professionnelle
+              {{ $t('home.services.trainingCategory.title') }}
             </h3>
             <p class="text-gray-600 mb-4">
-              Formation DEWATERING et conduite d'engins lourds.
+              {{ $t('home.services.trainingCategory.description') }}
             </p>
-            <router-link to="/contact" class="text-gms-blue font-semibold hover:text-blue-700 inline-flex items-center">
-              En savoir plus
+            <router-link to="/heavy-vehicle-training" class="text-gms-blue font-semibold hover:text-blue-700 inline-flex items-center">
+              {{ $t('common.readMore') }}
               <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
               </svg>
@@ -162,18 +158,16 @@
           <!-- Service Card 3 -->
           <div class="service-card group">
             <div class="icon-wrapper bg-blue-100 group-hover:bg-gms-blue transition">
-              <svg class="w-12 h-12 text-gms-blue group-hover:text-white transition" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 8h14M5 8a2 2 0 110-4h14a2 2 0 110 4M5 8v10a2 2 0 002 2h10a2 2 0 002-2V8m-9 4h4" />
-              </svg>
+             <img src="../../public/images/icons/transport.png" alt="Logistics Icon" class="w-12 h-12" />
             </div>
             <h3 class="text-xl font-bold text-gray-900 mb-3">
-              Location de Véhicules
+              {{ $t('home.services.logisticsCategory.title') }}
             </h3>
             <p class="text-gray-600 mb-4">
-              Véhicules légers et lourds pour tous vos besoins de transport et logistique.
+              {{ $t('home.services.logisticsCategory.description') }}
             </p>
-            <router-link to="/light-vehicles-rental" class="text-gms-blue font-semibold hover:text-blue-700 inline-flex items-center">
-              En savoir plus
+            <router-link to="/heavy-vehicle-rental" class="text-gms-blue font-semibold hover:text-blue-700 inline-flex items-center">
+              {{ $t('common.readMore') }}
               <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
               </svg>
@@ -183,81 +177,16 @@
           <!-- Service Card 4 -->
           <div class="service-card group">
             <div class="icon-wrapper bg-red-100 group-hover:bg-gms-red transition">
-              <svg class="w-12 h-12 text-gms-red group-hover:text-white transition" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
-              </svg>
+              <img src="../../public/images/icons/commerce.png"
             </div>
             <h3 class="text-xl font-bold text-gray-900 mb-3">
-              Construction de Charpente Métallique
+              {{ $t('home.services.generalServicesCategory.title') }}
             </h3>
             <p class="text-gray-600 mb-4">
-              Construction et installation de structures métalliques pour vos projets industriels.
+              {{ $t('home.services.generalServicesCategory.description') }}
             </p>
             <router-link to="/metal-construction" class="text-gms-blue font-semibold hover:text-blue-700 inline-flex items-center">
-              En savoir plus
-              <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-              </svg>
-            </router-link>
-          </div>
-
-          <!-- Service Card 5 -->
-          <div class="service-card group">
-            <div class="icon-wrapper bg-blue-100 group-hover:bg-gms-blue transition">
-              <svg class="w-12 h-12 text-gms-blue group-hover:text-white transition" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
-              </svg>
-            </div>
-            <h3 class="text-xl font-bold text-gray-900 mb-3">
-              Plomberie & Tuyauterie & Polyfusion
-            </h3>
-            <p class="text-gray-600 mb-4">
-              Tuyauterie plastique et métallique, polyfusion pour projets miniers et industriels.
-            </p>
-            <router-link to="/plumbing" class="text-gms-blue font-semibold hover:text-blue-700 inline-flex items-center">
-              En savoir plus
-              <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-              </svg>
-            </router-link>
-          </div>
-
-          <!-- Service Card 5 -->
-          <div class="service-card group">
-            <div class="icon-wrapper bg-red-100 group-hover:bg-gms-red transition">
-              <svg class="w-12 h-12 text-gms-red group-hover:text-white transition" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
-              </svg>
-            </div>
-            <h3 class="text-xl font-bold text-gray-900 mb-3">
-             Menuiserie
-            </h3>
-            <p class="text-gray-600 mb-4">
-              Fabrication et installation de structures en bois pour vos projets.
-            </p>
-            <router-link to="/woodworking" class="text-gms-blue font-semibold hover:text-blue-700 inline-flex items-center">
-              En savoir plus
-              <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-              </svg>
-            </router-link>
-          </div>
-
-          <!-- Service Card 6 -->
-          <div class="service-card group">
-            <div class="icon-wrapper bg-red-100 group-hover:bg-gms-red transition">
-              <svg class="w-12 h-12 text-gms-red group-hover:text-white transition" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z" />
-              </svg>
-            </div>
-            <h3 class="text-xl font-bold text-gray-900 mb-3">
-              Commerce Général
-            </h3>
-            <p class="text-gray-600 mb-4">
-              Fournitures de bureau, consommable bureautique, équipements de protection individuelle et consommables. Placement de personnel.
-            </p>
-            <router-link to="/commerce" class="text-gms-blue font-semibold hover:text-blue-700 inline-flex items-center">
-              En savoir plus
+              {{ $t('common.readMore') }}
               <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
               </svg>
@@ -273,19 +202,19 @@
         <div class="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
           <div>
             <div class="text-4xl md:text-5xl font-bold mb-2">10+</div>
-            <div class="text-blue-200">Années d'expérience</div>
+            <div class="text-blue-200">{{ $t('home.stats.experience') }}</div>
           </div>
           <div>
             <div class="text-4xl md:text-5xl font-bold mb-2">500+</div>
-            <div class="text-blue-200">Projets réalisés</div>
+            <div class="text-blue-200">{{ $t('home.stats.projects') }}</div>
           </div>
           <div>
             <div class="text-4xl md:text-5xl font-bold mb-2">50+</div>
-            <div class="text-blue-200">Engins disponibles</div>
+            <div class="text-blue-200">{{ $t('home.stats.equipment') }}</div>
           </div>
           <div>
             <div class="text-4xl md:text-5xl font-bold mb-2">100%</div>
-            <div class="text-blue-200">Satisfaction client</div>
+            <div class="text-blue-200">{{ $t('home.stats.satisfaction') }}</div>
           </div>
         </div>
       </div>
@@ -296,7 +225,7 @@
       <div class="container mx-auto px-4">
         <div class="max-w-4xl mx-auto">
           <h2 class="text-3xl md:text-4xl font-bold text-center text-gray-900 mb-12">
-            Pourquoi Choisir GMS?
+            {{ $t('home.whyChooseUs.title') }}
           </h2>
           
           <div class="grid md:grid-cols-2 gap-8">
@@ -307,9 +236,9 @@
                 </svg>
               </div>
               <div>
-                <h3 class="text-xl font-bold text-gray-900 mb-2">Équipe Qualifiée</h3>
+                <h3 class="text-xl font-bold text-gray-900 mb-2">{{ $t('home.whyChooseUs.qualifiedTeam.title') }}</h3>
                 <p class="text-gray-600">
-                  Des professionnels hautement qualifiés et motivés pour garantir l'excellence.
+                  {{ $t('home.whyChooseUs.qualifiedTeam.description') }}
                 </p>
               </div>
             </div>
@@ -321,9 +250,9 @@
                 </svg>
               </div>
               <div>
-                <h3 class="text-xl font-bold text-gray-900 mb-2">Sécurité Prioritaire</h3>
+                <h3 class="text-xl font-bold text-gray-900 mb-2">{{ $t('home.whyChooseUs.prioritySafety.title') }}</h3>
                 <p class="text-gray-600">
-                  La sécurité au cœur de nos actions - notre devise et engagement.
+                  {{ $t('home.whyChooseUs.prioritySafety.description') }}
                 </p>
               </div>
             </div>
@@ -335,9 +264,9 @@
                 </svg>
               </div>
               <div>
-                <h3 class="text-xl font-bold text-gray-900 mb-2">Service Rapide</h3>
+                <h3 class="text-xl font-bold text-gray-900 mb-2">{{ $t('home.whyChooseUs.fastService.title') }}</h3>
                 <p class="text-gray-600">
-                  Réactivité et efficacité pour répondre rapidement à vos besoins.
+                  {{ $t('home.whyChooseUs.fastService.description') }}
                 </p>
               </div>
             </div>
@@ -349,9 +278,9 @@
                 </svg>
               </div>
               <div>
-                <h3 class="text-xl font-bold text-gray-900 mb-2">Prix Compétitifs</h3>
+                <h3 class="text-xl font-bold text-gray-900 mb-2">{{ $t('home.whyChooseUs.competitivePrices.title') }}</h3>
                 <p class="text-gray-600">
-                  Des tarifs adaptés à votre budget sans compromis sur la qualité.
+                  {{ $t('home.whyChooseUs.competitivePrices.description') }}
                 </p>
               </div>
             </div>
@@ -364,16 +293,16 @@
     <section class="py-16 bg-gradient-to-r from-gms-blue to-blue-700 text-white">
       <div class="container mx-auto px-4 text-center">
         <h2 class="text-3xl md:text-4xl font-bold mb-6">
-          Prêt à Démarrer Votre Projet?
+         {{ $t('cta.title') }}
         </h2>
         <p class="text-xl mb-8 text-blue-100 max-w-2xl mx-auto">
-          Contactez-nous dès aujourd'hui pour discuter de vos besoins et obtenir un devis personnalisé.
+          {{ $t('cta.needsAreResolved') }}
         </p>
         <router-link 
           to="/contact" 
           class="inline-block bg-white text-gms-blue px-8 py-4 rounded-lg font-semibold hover:bg-gray-100 transition shadow-lg"
         >
-          Demander un Devis
+          {{  $t('cta.quotation') }}
         </router-link>
       </div>
     </section>

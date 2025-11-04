@@ -50,7 +50,53 @@ export default {
     servicesDescription: 'Des solutions complètes pour vos projets miniers et industriels',
     loading: 'Chargement des services...',
     error: 'Erreur lors du chargement des services',
-    viewDetails: 'Voir Détails'
+    viewDetails: 'Voir Détails',
+
+      services: {
+      constructionCategory:{
+        title :  'Bâtiment, Construction et Ingénierie',
+        description: 'Solutions complètes pour vos projets de construction et d\'ingénierie, y compris le forage, la plomberie, la menuiserie, le réfrigération, la climatisation, l\'électricité et la construction de charpentes métalliques.'
+      },
+       trainingCategory: {
+        title :  'Formation et Compétences Spécialisées',
+        description: 'Programmes de formation spécialisés en déshydratation/natation et en conduite d\'engins lourds pour améliorer les compétences et la sensibilisation à la sécurité de votre équipe.'
+       },
+        logisticsCategory: {
+        title :  'Logistique et Transport',
+        description: 'Services de location de véhicules légers et lourds fiables pour répondre efficacement à vos besoins en transport et logistique.'
+       },
+        generalServicesCategory: {
+        title :  'Services Généraux et Fournitures',
+        description: 'Services généraux complets, y compris le commerce, le placement de personnel et les fournitures de bureau pour soutenir vos opérations commerciales.'
+       }
+    },
+
+    whyChooseUs: {
+      title: 'Pourquoi Choisir GMS?',
+      qualifiedTeam: {
+        title: 'Équipe Qualifiée',
+        description: 'Des professionnels hautement qualifiés et motivés pour garantir l\'excellence.'
+      },
+      prioritySafety: {
+        title: 'Sécurité Prioritaire',
+        description: 'La sécurité au cœur de nos actions - notre devise et engagement.'
+      },
+      fastService: {
+        title: 'Service Rapide',
+        description: 'Réactivité et efficacité pour répondre rapidement à vos besoins.'
+      },
+      competitivePrices: {
+        title: 'Prix Compétitifs',
+        description: 'Des tarifs adaptés à votre budget sans compromis sur la qualité.'
+      }
+    },
+
+    stats: {
+      experience: 'Années d\'expérience',
+      projects: 'Projets réalisés',
+      equipment: 'Engins disponibles',
+      satisfaction: 'Satisfaction client'
+    }
   },
 
   // About Page
@@ -201,9 +247,18 @@ export default {
     cta: {
       title: 'Travaillons Ensemble',
       subtitle: 'Contactez-nous pour découvrir comment nous pouvons vous aider à atteindre vos objectifs.',
-      button: 'Contactez-nous'
+      button: 'Contactez-nous',
+      needsAreResolved:'Contactez-nous dès aujourd\'hui pour discuter de vos besoins et obtenir un devis personnalisé.',
+      quotation:'Demander un Devis'
     }
   },
+   cta: {
+      title: 'Travaillons Ensemble',
+      subtitle: 'Contactez-nous pour découvrir comment nous pouvons vous aider à atteindre vos objectifs.',
+      button: 'Contactez-nous',
+      needsAreResolved:'Contactez-nous dès aujourd\'hui pour discuter de vos besoins et obtenir un devis personnalisé.',
+      quotation:'Demander un Devis'
+    },
   
 
   // Light Vehicle Rental Page

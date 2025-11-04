@@ -38,6 +38,8 @@ export default {
     officeSupplies: 'Office Supplies'
   },
 
+  // 
+
   // Home Page
   home: {
     companyName: 'GONTOUGO MINING SERVICE',
@@ -51,8 +53,55 @@ export default {
     servicesDescription: 'Complete solutions for your mining and industrial projects',
     loading: 'Loading services...',
     error: 'Error loading services',
-    viewDetails: 'View Details'
+    viewDetails: 'View Details',
+
+    services: {
+      constructionCategory:{
+        title :  'Building, Construction and Engineering',
+        description: 'Comprehensive solutions for your construction and engineering projects, including drilling, plumbing, carpentry, refrigeration, air conditioning, electricity, and metal frame construction.'
+      },
+       trainingCategory: {
+        title :  'Training and Specialized Skills',
+        description: 'Specialized training programs in dewatering/swimming and heavy equipment driving to enhance your team\'s skills and safety awareness.'
+       },
+        logisticsCategory: {
+        title :  'Logistics and Transport',
+        description: 'Reliable light and heavy vehicle rental services to meet your transport and logistics needs efficiently.'
+       },
+        generalServicesCategory: {
+        title :  'General Services and Supplies',
+        description: 'Comprehensive general services including trade, staff placement, and office supplies to support your business operations.'
+        }
+    },
+
+    whyChooseUs: {
+      title: 'Why Choose GMS?',
+      qualifiedTeam: {
+        title: 'Qualified Team',
+        description: 'Highly qualified and motivated professionals to guarantee excellence.'
+      },
+      prioritySafety: {
+        title: 'Priority Safety',
+        description: 'Safety at the heart of our actions - our motto and commitment.'
+      },
+      fastService: {
+        title: 'Fast Service',
+        description: 'Reactivity and efficiency to quickly meet your needs.'
+      },
+      competitivePrices: {
+        title: 'Competitive Prices',
+        description: 'Rates adapted to your budget without compromising on quality.'
+      }
+    },
+
+    stats: {
+      experience: 'Years of experience',
+      projects: 'Completed projects',
+      equipment: 'Equipment available',
+      satisfaction: 'Customer satisfaction'
+    }
   },
+
 
   // About Page
   about: {
@@ -201,8 +250,17 @@ export default {
     cta: {
       title: 'Let\'s work together',
       subtitle: 'Contact us to find out how we can help you achieve your goals.',
-      button: 'Contact us'
+      button: 'Contact us',
+      needsAreResolved:'Contact us today to discuss your needs and get a personalized quote.',
+      quotation:'Ask for a Quote'
     }
+  },
+  cta: {
+      title: 'Let\'s work together',
+      subtitle: 'Contact us to find out how we can help you achieve your goals.',
+      button: 'Contact us',
+      needsAreResolved:'Contact us today to discuss your needs and get a personalized quote.',
+      quotation:'Ask for a Quote'
   },
   // Light Vehicle Rental Page
     lightVehiclesRental: {

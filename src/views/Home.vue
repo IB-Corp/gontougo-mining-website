@@ -119,7 +119,7 @@
           <!-- Static Service Card 1 -->
           <div class="service-card group">
             <div class="icon-wrapper bg-blue-100 group-hover:bg-gms-blue transition">
-            <img src="../../public/images/icons/construction.png" alt="Construction Icon" class="w-12 h-12" />
+            <img src="/images/icons/construction.png" alt="Construction Icon" class="w-12 h-12" />
               
             </div>
             <h3 class="text-xl font-bold text-gray-900 mb-3">
@@ -139,7 +139,7 @@
           <!-- Static Service Card 2 -->
           <div class="service-card group">
             <div class="icon-wrapper bg-red-100 group-hover:bg-gms-red transition">
-             <img src="../../public/images/icons/training.png"/>
+             <img src="/images/icons/training.png"/>
             </div>
             <h3 class="text-xl font-bold text-gray-900 mb-3">
               {{ $t('home.services.trainingCategory.title') }}
@@ -158,7 +158,7 @@
           <!-- Service Card 3 -->
           <div class="service-card group">
             <div class="icon-wrapper bg-blue-100 group-hover:bg-gms-blue transition">
-             <img src="../../public/images/icons/transport.png" alt="Logistics Icon" class="w-12 h-12" />
+             <img src="/images/icons/transport.png" alt="Logistics Icon" class="w-12 h-12" />
             </div>
             <h3 class="text-xl font-bold text-gray-900 mb-3">
               {{ $t('home.services.logisticsCategory.title') }}
@@ -177,7 +177,7 @@
           <!-- Service Card 4 -->
           <div class="service-card group">
             <div class="icon-wrapper bg-red-100 group-hover:bg-gms-red transition">
-              <img src="../../public/images/icons/commerce.png"
+              <img src="/images/icons/commerce.png"
             </div>
             <h3 class="text-xl font-bold text-gray-900 mb-3">
               {{ $t('home.services.generalServicesCategory.title') }}

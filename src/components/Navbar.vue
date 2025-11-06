@@ -318,9 +318,19 @@
           </div>
         </div>
 
-        <router-link to="/contact" class="mobile-link" @click="mobileMenuOpen = false">
+        <!-- Mobile Contact Button (styled like desktop) -->
+        <router-link 
+          to="/contact" 
+          class="block bg-gms-red text-white px-6 py-3 rounded-md hover:bg-red-700 transition text-center mt-4 mb-4"
+          @click="mobileMenuOpen = false"
+        >
           {{ $t('nav.contact') }}
         </router-link>
+        
+        <!-- Mobile Language Switcher -->
+        <div class="mt-4 flex justify-center">
+          <LanguageSwitcher />
+        </div>
       </div>
     </div>
   </nav>

@@ -4,7 +4,7 @@
     <section class="page-header bg-gradient-to-r from-gms-blue to-blue-700 text-white py-16">
       <div class="container mx-auto px-4">
         <h1 class="text-4xl md:text-5xl font-bold text-center mb-4">
-          Plomberie DEWATERING , Tuyauterie Polyfusion - Liner
+          Plomberie Dewatering , Tuyauterie Polyfusion - Liner
         </h1>
         <p class="text-xl text-center text-blue-100 max-w-2xl mx-auto">
           Solutions complètes pour vos projets de tuyauterie plastique et métallique

@@ -32,19 +32,15 @@
     <!-- Training Vehicles Section -->
     <section class="py-16 bg-gray-50">
       <div class="container mx-auto px-4">
-        <h2 class="text-3xl md:text-4xl font-bold text-center text-gray-900 mb-12">
-          Nos Formations par Engin
-        </h2>
+          <h2 class="text-3xl md:text-4xl font-bold text-center text-gray-900 mb-12">
+            Nos Formations par Engin
+          </h2>
 
         <!-- Vehicle 1: COMPACTEUR CAT -->
         <div class="training-item">
           <div class="training-image-wrapper">
-            <div class="training-image-placeholder">
-              <svg class="placeholder-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4" />
-              </svg>
-              <p class="placeholder-text">Image Formation Compacteur</p>
-            </div>
+              <img src="../assets/images/vehicles/COMPACTEUR CAT1.jpg" alt="Image Formation Compacteur" >
+            <!-- </div> -->
           </div>
           <div class="training-content">
             <h3 class="training-title">COMPACTEUR CAT</h3>
@@ -53,6 +49,7 @@
               de compactage, les règles de sécurité, et la maintenance de base. Formation pratique 
               sur chantier réel avec accompagnement personnalisé.
             </p>
+
             <ul class="training-features">
               <li>Durée: 2 semaines</li>
               <li>Pratique sur chantier réel</li>
@@ -64,12 +61,7 @@
         <!-- Vehicle 2: TRACTOPELLE CAT -->
         <div class="training-item">
           <div class="training-image-wrapper">
-            <div class="training-image-placeholder">
-              <svg class="placeholder-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
-              </svg>
-              <p class="placeholder-text">Image Formation Tractopelle</p>
-            </div>
+              <img src="../assets/images/vehicles/TRACTOPELLE CAT.jpg" alt="Image Formation Tractopelle" >
           </div>
           <div class="training-content">
             <h3 class="training-title">TRACTOPELLE CAT</h3>
@@ -89,12 +81,7 @@
         <!-- Vehicle 3: PELLE HYDRAULIQUE CAT -->
         <div class="training-item">
           <div class="training-image-wrapper">
-            <div class="training-image-placeholder">
-              <svg class="placeholder-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 10l-2 1m0 0l-2-1m2 1v2.5M20 7l-2 1m2-1l-2-1m2 1v2.5M14 4l-2-1-2 1M4 7l2-1M4 7l2 1M4 7v2.5M12 21l-2-1m2 1l2-1m-2 1v-2.5M6 18l-2-1v-2.5M18 18l2-1v-2.5" />
-              </svg>
-              <p class="placeholder-text">Image Formation Pelle Hydraulique</p>
-            </div>
+            <img src="../assets/images/vehicles/PELLE HYDRAULIQUE CAT.png" alt="Image Formation Pelle Hydraulique" />
           </div>
           <div class="training-content">
             <h3 class="training-title">PELLE HYDRAULIQUE CAT</h3>
@@ -111,40 +98,10 @@
           </div>
         </div>
 
-        <!-- Vehicle 4: CHARGEUSE CAT -->
-        <div class="training-item">
-          <div class="training-image-wrapper">
-            <div class="training-image-placeholder">
-              <svg class="placeholder-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4" />
-              </svg>
-              <p class="placeholder-text">Image Formation Chargeuse</p>
-            </div>
-          </div>
-          <div class="training-content">
-            <h3 class="training-title">CHARGEUSE CAT</h3>
-            <p class="training-description">
-              Apprenez à conduire une chargeuse sur pneus Caterpillar. Formation couvrant le 
-              chargement de matériaux, le transport, le déchargement, et les opérations de nivellement. 
-              Mise en pratique intensive avec différents types de matériaux.
-            </p>
-            <ul class="training-features">
-              <li>Durée: 2 semaines</li>
-              <li>Chargement et transport de matériaux</li>
-              <li>Manœuvres de précision</li>
-            </ul>
-          </div>
-        </div>
-
         <!-- Vehicle 5: MANITOU -->
         <div class="training-item">
           <div class="training-image-wrapper">
-            <div class="training-image-placeholder">
-              <svg class="placeholder-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" />
-              </svg>
-              <p class="placeholder-text">Image Formation Manitou</p>
-            </div>
+            <img src="../assets/images/vehicles/MANITOU.jpg" alt="Image Formation Manitou" />
           </div>
           <div class="training-content">
             <h3 class="training-title">MANITOU</h3>
@@ -164,12 +121,7 @@
         <!-- Vehicle 6: BULLDOZER CAT -->
         <div class="training-item">
           <div class="training-image-wrapper">
-            <div class="training-image-placeholder">
-              <svg class="placeholder-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 3v2m6-2v2M9 19v2m6-2v2M5 9H3m2 6H3m18-6h-2m2 6h-2M7 19h10a2 2 0 002-2V7a2 2 0 00-2-2H7a2 2 0 00-2 2v10a2 2 0 002 2zM9 9h6v6H9V9z" />
-              </svg>
-              <p class="placeholder-text">Image Formation Bulldozer</p>
-            </div>
+          <img src="../assets/images/vehicles/BULLDOZER CAT.jpg" alt="Image Formation Bulldozer" />
           </div>
           <div class="training-content">
             <h3 class="training-title">BULLDOZER CAT</h3>
@@ -240,6 +192,12 @@
 
 .training-image-wrapper {
   width: 100%;
+}
+.training-image-wrapper img {
+  width: 100%;
+  height: auto;
+  border-radius: 0.5rem;
+  object-fit: cover;
 }
 
 .training-image-placeholder {

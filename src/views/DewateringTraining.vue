@@ -4,7 +4,7 @@
     <section class="page-header bg-gradient-to-r from-gray-800 to-gray-600 text-white py-16">
       <div class="container mx-auto px-4">
         <h1 class="text-4xl md:text-5xl font-bold text-center mb-4">
-          Formation DEWATERING
+          Formation Dewatering
         </h1>
         <p class="text-xl text-center text-gray-300 max-w-2xl mx-auto">
           Formation professionnelle en gestion de pompage et drainage des eaux sur sites miniers et chantiers

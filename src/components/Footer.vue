@@ -101,7 +101,7 @@
       <div class="container mx-auto px-4 py-6">
         <div class="flex flex-col md:flex-row justify-between items-center text-sm text-gray-400">
           <div class="mb-4 md:mb-0">
-            <p>RCCM: CI-ABG2023M0103 | CODE CDI: 911</p>
+            <p>RCCM: CI-ABG-01-2023--B13-00099 | CODE CDI: 911</p>
             <p class="mt-1">{{ $t('footer.legalRegime') }}</p>
           </div>
           <div class="text-center md:text-right">

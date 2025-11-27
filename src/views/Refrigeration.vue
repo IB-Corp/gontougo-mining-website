@@ -36,15 +36,11 @@
           Nos Services Froid et Climatisation
         </h2>
 
-        <!-- Service 1: Climatisation Résidentielle -->
-        <div class="service-item">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          <!-- Service 1: Climatisation Résidentielle -->
+          <div class="service-item">
           <div class="service-image-wrapper">
-            <div class="service-image-placeholder">
-              <svg class="placeholder-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
-              </svg>
-              <p class="placeholder-text">Climatisation Résidentielle</p>
-            </div>
+           
           </div>
           <div class="service-content">
             <h3 class="service-title">Climatisation Résidentielle</h3>
@@ -61,15 +57,10 @@
           </div>
         </div>
 
-        <!-- Service 2: Climatisation Commerciale -->
-        <div class="service-item">
+          <!-- Service 2: Climatisation Commerciale -->
+          <div class="service-item">
           <div class="service-image-wrapper">
-            <div class="service-image-placeholder">
-              <svg class="placeholder-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
-              </svg>
-              <p class="placeholder-text">Climatisation Commerciale</p>
-            </div>
+      
           </div>
           <div class="service-content">
             <h3 class="service-title">Climatisation Commerciale</h3>
@@ -86,15 +77,10 @@
           </div>
         </div>
 
-        <!-- Service 3: Climatisation Industrielle -->
-        <div class="service-item">
+          <!-- Service 3: Climatisation Industrielle -->
+          <div class="service-item">
           <div class="service-image-wrapper">
-            <div class="service-image-placeholder">
-              <svg class="placeholder-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 3v2m6-2v2M9 19v2m6-2v2M5 9H3m2 6H3m18-6h-2m2 6h-2M7 19h10a2 2 0 002-2V7a2 2 0 00-2-2H7a2 2 0 00-2 2v10a2 2 0 002 2zM9 9h6v6H9V9z" />
-              </svg>
-              <p class="placeholder-text">Climatisation Industrielle</p>
-            </div>
+            
           </div>
           <div class="service-content">
             <h3 class="service-title">Climatisation Industrielle</h3>
@@ -111,15 +97,10 @@
           </div>
         </div>
 
-        <!-- Service 4: Chambres Froides -->
-        <div class="service-item">
+          <!-- Service 4: Chambres Froides -->
+          <div class="service-item">
           <div class="service-image-wrapper">
-            <div class="service-image-placeholder">
-              <svg class="placeholder-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4" />
-              </svg>
-              <p class="placeholder-text">Chambres Froides</p>
-            </div>
+           
           </div>
           <div class="service-content">
             <h3 class="service-title">Chambres Froides et Réfrigération</h3>
@@ -136,16 +117,10 @@
           </div>
         </div>
 
-        <!-- Service 5: Maintenance et Entretien -->
-        <div class="service-item">
+          <!-- Service 5: Maintenance et Entretien -->
+          <div class="service-item">
           <div class="service-image-wrapper">
-            <div class="service-image-placeholder">
-              <svg class="placeholder-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z" />
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
-              </svg>
-              <p class="placeholder-text">Maintenance</p>
-            </div>
+          
           </div>
           <div class="service-content">
             <h3 class="service-title">Maintenance et Entretien</h3>
@@ -162,28 +137,24 @@
           </div>
         </div>
 
-        <!-- Service 6: Dépannage Urgent -->
-        <div class="service-item">
-          <div class="service-image-wrapper">
-            <div class="service-image-placeholder">
-              <svg class="placeholder-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
-              </svg>
-              <p class="placeholder-text">Dépannage</p>
+          <!-- Service 6: Dépannage Urgent -->
+          <div class="service-item">
+            <div class="service-image-wrapper">
+              
             </div>
-          </div>
-          <div class="service-content">
-            <h3 class="service-title">Dépannage Urgent 24/7</h3>
-            <p class="service-description">
-              Service de dépannage rapide pour tous types de pannes de climatisation et réfrigération. 
-              Diagnostic précis, réparation sur place, et remplacement de pièces défectueuses. 
-              Intervention d'urgence 24h/24 et 7j/7 pour limiter l'impact des pannes sur votre activité.
-            </p>
-            <ul class="service-features">
-              <li>Intervention rapide 24/7</li>
-              <li>Diagnostic et réparation</li>
-              <li>Stock de pièces détachées</li>
-            </ul>
+            <div class="service-content">
+              <h3 class="service-title">Dépannage Urgent 24/7</h3>
+              <p class="service-description">
+                Service de dépannage rapide pour tous types de pannes de climatisation et réfrigération. 
+                Diagnostic précis, réparation sur place, et remplacement de pièces défectueuses. 
+                Intervention d'urgence 24h/24 et 7j/7 pour limiter l'impact des pannes sur votre activité.
+              </p>
+              <ul class="service-features">
+                <li>Intervention rapide 24/7</li>
+                <li>Diagnostic et réparation</li>
+                <li>Stock de pièces détachées</li>
+              </ul>
+            </div>
           </div>
         </div>
 
@@ -191,7 +162,7 @@
     </section>
 
         <!-- GALLERY IMAGES AND VIDEOS SECTION -->
-    <section class="py-16 bg-white">
+    <!-- <section class="py-16 bg-white">
       <div class="container mx-auto px-4">
         <h2 class="text-3xl md:text-4xl font-bold text-center text-gray-900 mb-4">
           Nos Réalisations
@@ -202,7 +173,7 @@
 
       <MediaGallery :mediaItems="galleryItems" /> 
       </div>
-    </section>
+    </section> -->
 
     <!-- CTA Section -->
     <section class="py-16 bg-gradient-to-r from-gray-800 to-gray-600 text-white">

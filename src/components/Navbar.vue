@@ -5,7 +5,7 @@
         <!-- Logo -->
         <router-link to="/" class="flex items-center space-x-3">
           <div class="flex items-center">
-            <img src="../assets/GMS-PNG.png" alt="GMS Logo" /> 
+            <img src="/GMS-ORI-SMALL.png" alt="GMS Logo" /> 
           </div>
         </router-link>  
 

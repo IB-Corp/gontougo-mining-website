@@ -210,14 +210,14 @@ export default {
     
     services: {
       title: 'Notre Objectif',
-      paragraph1: 'Notre entreprise s\'est engagée à fournir desservices de qualitéà nos clients dans le domaine de l\'exploitation minière et d\'autres industries connexes. Nous sommes spécialisés dans la location d\'engins miniers, tels que desbulldozers, des pelles mécaniques, des camions-bennes, des excavatriceset bien d\'autres encore.',
-      paragraph2: 'Nous offrons également des services detuyauterie plastique et métalliquepour les projets de construction, de transport et de logistique, ainsi que de prestation de dewatering pour la gestion de l\'eau dans les mines et autres projets. En plus de nos services de location, nous sommes également engagés dans lecommerce généralet la vente d\'articles divers, tels que des équipements de protection individuelle, des outils, des fournitures de bureau, bien plus encore.',
-      commitment: 'Nous sommes fiers de notre engagement envers laqualité de nos produits et services, ainsi que de notre capacité à répondre aux besoins spécifiques de nos clients.',
+      paragraph1: 'Notre entreprise s\'est engagée à fournir des services de qualité à nos clients dans le domaine de l\'exploitation minière et d\'autres industries connexes. Nous sommes spécialisés dans la location d\'engins miniers, tels que des bulldozers, des pelles mécaniques, des camions-bennes, des excavatrices et bien d\'autres encore.',
+      paragraph2: 'Nous offrons également des services de tuyauterie plastique et métallique pour les projets de construction, de transport et de logistique, ainsi que de prestation de dewatering pour la gestion de l\'eau dans les mines et autres projets. En plus de nos services de location, nous sommes également engagés dans le commerce général et la vente d\'articles divers, tels que des équipements de protection individuelle, des outils, des fournitures de bureau, bien plus encore.',
+      commitment: 'Nous sommes fiers de notre engagement envers la qualité de nos produits et services, ainsi que de notre capacité à répondre aux besoins spécifiques de nos clients.',
 
     },
     team:{
       title: 'Notre Équipe',
-      description:'Notre équipe deprofessionnels hautement qualifiés et motivésest déterminée à offrir des services de qualité supérieure à nos clients. Nous sommes également engagés à promouvoir uneculture d\'entreprise diversifiée, inclusive et équitable, qui valorise la contribution de chacun et favorise le développement personnel et professionnel.',
+      description:'Notre équipe de professionnels hautement qualifiés et motivés est déterminée à offrir des services de qualité supérieure à nos clients. Nous sommes également engagés à promouvoir une culture d\'entreprise diversifiée, inclusive et équitable, qui valorise la contribution de chacun et favorise le développement personnel et professionnel.',
       collaboration: 'Nous restons disponible à collaborer avec vous pour exécuter des services de qualité qui répondent à vos attentes.',
     },
     
